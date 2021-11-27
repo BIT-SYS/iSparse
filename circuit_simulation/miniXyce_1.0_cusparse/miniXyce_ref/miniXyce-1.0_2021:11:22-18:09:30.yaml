@@ -1,0 +1,39 @@
+Mini-Application Name: miniXyce
+Mini-Application Version: 1.0
+Parameter_parsing_time: 0
+Netlist_parsing_time: 0
+Netlist_file: ../tests/cir1.net
+Circuit_attributes: 
+  Number_of_devices: 5
+  Resistors_(R): 4
+  Voltage_sources_(V): 1
+Matrix_attributes: 
+  Global_rows: 4
+  Rows_per_proc_MIN: 4
+  Rows_per_proc_MAX: 4
+  Rows_per_proc_AVG: 4
+  Global_NNZ: 12
+  NNZ_per_proc_MIN: 12
+  NNZ_per_proc_MAX: 12
+  NNZ_per_proc_AVG: 12
+DCOP Calculation: 
+  Init_cond_specified: 0
+  GMRES_tolerance: 1e-12
+  GMRES_subspace_dim: 10
+  GMRES_iterations: 4
+  GMRES_restarts: 0
+  GMRES_native_residual: 3.34221e-16
+  DCOP_calculation_time: 0
+Transient Calculation: 
+  Number_of_time_steps: 4
+  Time_start: 0
+  Time_end: 5e-08
+  Time_step: 1e-08
+  GMRES_tolerance: 1e-12
+  GMRES_subspace_dim: 10
+  GMRES_average_iters: 1
+  GMRES_average_res: nan
+  Matrix_setup_time: 0
+  Transient_calculation_time: 0.167332
+I/O File Time: 3.4e-05
+Total Simulation Time: 0.167332

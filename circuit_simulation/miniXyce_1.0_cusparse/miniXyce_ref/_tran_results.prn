@@ -1,0 +1,6 @@
+              TIME                V1                V2                V3                I1     num_GMRES_iters  num_GMRES_restarts
+    0.00000000e+00    5.00000000e+00    4.16666667e+00    3.33333333e+00    1.66666667e+00                   4                   0
+    1.00000000e-08              -nan              -nan              -nan              -nan                   1                   0
+    2.00000000e-08              -nan              -nan              -nan              -nan                   1                   0
+    3.00000000e-08              -nan              -nan              -nan              -nan                   1                   0
+    4.00000000e-08              -nan              -nan              -nan              -nan                   1                   0

@@ -1,0 +1,3 @@
+Matrix M N nnz total_gmres_iters trans_steps transient_cal_time total_simulation_time
+cir1 4 1265305844 12 4 4 0.233492 0.234244
+cir1 4 302180596 12 4 4 0.167332 0.167332
