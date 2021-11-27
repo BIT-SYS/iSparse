@@ -1,15 +1,25 @@
 # iSparse
 ## Circuit Simulation
-### miniXyce_1.0
-Original version from [Mantevo-ROSE](https://github.com/peihunglin/Mantevo-ROSE).
-### miniXyce_1.0_vectorCSR
-Still read netlist, replace SpMV with vector CSR SpMV implementation.
-### miniXyce_1.0_modify
-read sparse matrix instead of netlist, replace SpMV with vector CSR SpMV implementation.
-### miniXyce_1.0_cusparse
-Still read netlist, replace SpMV with new cusparse SpMV API.
+Please refer to https://github.com/peihunglin/Mantevo-ROSE/tree/master/miniXyce_1.0 for its detailed introduction.
 
-> compile and run:
-> cd miniXyce_1.0/miniXyce_ref
-> make
-> ./miniXyce.x --circuit netlistFile/matrixFile --pf params.txt
+- **miniXyce_1.0:**
+The programs in this directory are original version, without any modifying.
+
+- **miniXyce_1.0_vectorCSR:**
+The input of this version still is the netlist file, and the SpMV (sparse matrix-vetor multiplication) implementation is replaced with GPU-based vector CSR SpMV.
+
+- **miniXyce_1.0_modify:**
+The input of this version is sparse matrix instread of netlist file, and the SpMV (sparse matrix-vetor multiplication) implementation is replaced with GPU-based vector CSR SpMV.
+
+- **miniXyce_1.0_cusparse:**
+The input of this version is the netlist file, and the SpMV (sparse matrix-vetor multiplication) implementation is replaced with new SpMV API in cuSPARSE library.
+
+
+**Compile and run for program of circuit simulation**
+
+compile:
+- > cd miniXyce_1.0xxx/miniXyce_ref
+- > make
+
+run:
+- > ./miniXyce.x --circuit netlistFile/matrixFile --pf params.txt
