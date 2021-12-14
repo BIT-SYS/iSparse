@@ -81,12 +81,36 @@ __global__ void norm_GPU(uint n, double *a, double *out)
     }
 }
 
-__global__ void reduce_GPU(double *a, double *norm_out)
+__global__ void reduce_GPU(const size_t blocks, double *a, double *norm_out)
 {
 
     __shared__ volatile double cache[THREADS_PER_BLOCK_NORM]; // thread shared memory
-    uint thread_id = thread_id = threadIdx.x + blockIdx.x * blockDim.x;
-    cache[threadIdx.x] = a[threadIdx.x];
+    uint thread_id = threadIdx.x + blockIdx.x * blockDim.x;
+    uint j = threadIdx.x;
+    uint l = 0;
+    uint p = blocks - blockDim.x;
+    if (p > 0)
+    {
+        cache[j] = a[j];
+        l = 1;
+        while ((j + l * blockDim.x) < blocks)
+        {
+            cache[j] += a[j + l * blockDim.x];
+            l++;
+        }
+    }
+    else
+    {
+        if (j < blocks)
+        {
+            cache[j] = a[j];
+        }
+        else
+        {
+            cache[j] = 0;
+        }
+    }
+     __syncthreads();
 
     if (blockDim.x >= 512 && threadIdx.x < 256)
     {
@@ -158,7 +182,7 @@ void norm2(uint n, double *a, double *ret)
     cudaMalloc((void **)&out, sizeof(double) * NUM_BLOCKS);
     norm_GPU<<<NUM_BLOCKS, THREADS_PER_BLOCK_NORM, 0>>>(n, a, out);
 
-    reduce_GPU<<<1, THREADS_PER_BLOCK_NORM, 0>>>(out, ret);
+    reduce_GPU<<<1, THREADS_PER_BLOCK_NORM, 0>>>(NUM_BLOCKS, out, ret);
     cudaFree(out);
 }
 
@@ -237,12 +261,37 @@ __global__ void dot_GPU(uint n, double *a, double *b, double *out)
     }
 }
 
-__global__ void reduce_GPU2(double *a, double *norm_out)
+__global__ void reduce_GPU2(const size_t blocks, double *a, double *norm_out)
 {
 
     __shared__ volatile double cache[THREADS_PER_BLOCK_NORM]; // thread shared memory
-    uint thread_id = thread_id = threadIdx.x + blockIdx.x * blockDim.x;
-    cache[threadIdx.x] = a[threadIdx.x];
+    uint thread_id = threadIdx.x + blockIdx.x * blockDim.x;
+    uint j = threadIdx.x;
+    uint l = 0;
+    uint p = blocks - blockDim.x;
+    if (p > 0)
+    {
+        cache[j] = a[j];
+        l = 1;
+        while ((j + l * blockDim.x) < blocks)
+        {
+            cache[j] += a[j + l * blockDim.x];
+            l++;
+        }
+    }
+    else
+    {
+        if (j < blocks)
+        {
+            cache[j] = a[j];
+        }
+        else
+        {
+            cache[j] = 0;
+        }
+    }
+     __syncthreads();
+
 
     if (blockDim.x >= 512 && threadIdx.x < 256)
     {
@@ -314,6 +363,6 @@ void dot2(uint n, double *a, double *b, double *ret)
     cudaMalloc((void **)&out, sizeof(double) * NUM_BLOCKS);
     dot_GPU<<<NUM_BLOCKS, THREADS_PER_BLOCK_NORM, 0>>>(n, a, b, out);
 
-    reduce_GPU2<<<1, THREADS_PER_BLOCK_NORM, 0>>>(out, ret);
+    reduce_GPU2<<<1, THREADS_PER_BLOCK_NORM, 0>>>(NUM_BLOCKS,out, ret);
     cudaFree(out);
 }
