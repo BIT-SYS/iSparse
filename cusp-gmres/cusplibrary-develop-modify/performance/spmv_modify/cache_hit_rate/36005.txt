@@ -1,0 +1,5 @@
+==36005== NVPROF is profiling process 36005, command: ./a.out /home/GaoJH/spmv/standard_matrix/hugetrace-00020.mtx
+==36005== Profiling application: ./a.out /home/GaoJH/spmv/standard_matrix/hugetrace-00020.mtx
+==36005== Profiling result:
+No events/metrics were profiled.
+==36005== Warning: Some profiling data are not recorded. Make sure cudaProfilerStop() or cuProfilerStop() is called before application exit to flush profile data.

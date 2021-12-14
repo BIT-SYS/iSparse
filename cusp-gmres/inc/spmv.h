@@ -69,6 +69,8 @@ __global__ void spmv_GPU_D(
         if (thread_lane == 0)
         {
             y[row] = sum;
+            
+            // printf("spmv %lg %lg\n",xd[row],sum);
         }
     }
 }

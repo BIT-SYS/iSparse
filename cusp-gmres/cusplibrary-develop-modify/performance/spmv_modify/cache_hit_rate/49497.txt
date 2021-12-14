@@ -1,0 +1,5 @@
+==49497== NVPROF is profiling process 49497, command: ./a.out /home/GaoJH/spmv/standard_matrix/torso3.mtx
+==49497== Profiling application: ./a.out /home/GaoJH/spmv/standard_matrix/torso3.mtx
+==49497== Profiling result:
+No events/metrics were profiled.
+==49497== Warning: Some profiling data are not recorded. Make sure cudaProfilerStop() or cuProfilerStop() is called before application exit to flush profile data.

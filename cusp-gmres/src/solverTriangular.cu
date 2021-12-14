@@ -8,7 +8,9 @@ __global__ void solverTri_GPU(int Am, int i, double *H, double *s)
     {
         for (int j = i; j >= 0; j--)
         {
+
             s[j] /= H[Am * j + j];
+
             for (int k = j - 1; k >= 0; k--)
             {
                 s[k] -= H[k * Am + j] * s[j];

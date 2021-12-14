@@ -3,7 +3,44 @@
 #include "sparseMatrix.h"
 #include <cuda_runtime.h>
 #define THREADS_PER_BLOCK_VECTOR 512
+// a=a+b*s
+__global__ void axpy3_GPU(
+    uint Am,
+    double *a,
+    double *b,
+    double s)
+{
 
+    __shared__ volatile double tempy[THREADS_PER_BLOCK_VECTOR];
+
+    const uint thread_id = THREADS_PER_BLOCK_VECTOR * blockIdx.x + threadIdx.x;
+
+    const uint num_vectors = THREADS_PER_BLOCK_VECTOR * gridDim.x;
+
+    for (uint row = thread_id; row < Am; row += num_vectors)
+    {
+        // printf("%f %f  %f\n",a[row] , b[row] , s);
+        tempy[threadIdx.x] = b[row] + a[row] * s;
+        b[row] = tempy[threadIdx.x];
+        // printf("s :%lg \n",b[row]);
+    }
+}
+
+/*
+*********rank(a)=Am
+*********a=a-b*s
+*/
+void axpy3(uint Am, double *a, double *b, double s)
+{
+   
+    size_t MAX_BLOCKS = 0;
+
+    MAX_BLOCKS = cusp::system::cuda::detail::max_active_blocks(axpy3_GPU, THREADS_PER_BLOCK_VECTOR, 0);
+    const size_t tmp = (Am + (THREADS_PER_BLOCK_VECTOR - 1)) / THREADS_PER_BLOCK_VECTOR;
+    const size_t NUM_BLOCKS = min(MAX_BLOCKS, tmp < 1 ? 1 : tmp);
+   
+    axpy3_GPU<<<NUM_BLOCKS, THREADS_PER_BLOCK_VECTOR, 0>>>(Am, a, b, s);
+}
 // a=a+b*s
 __global__ void axpy_GPU(
     uint Am,
@@ -22,6 +59,7 @@ __global__ void axpy_GPU(
     {
         tempy[threadIdx.x] = a[row] + b[row] * s;
         b[row] = tempy[threadIdx.x];
+        // printf("%f\n",b[row]);
     }
 }
 
@@ -54,7 +92,7 @@ __global__ void scal2_GPU(
 
     const uint num_vectors = THREADS_PER_BLOCK_VECTOR * gridDim.x;
     double s_tmp = sig / s[0];
-
+    // printf("%f\n",s_tmp);
     for (uint row = thread_id; row < Am; row += num_vectors)
     {
         tempy[threadIdx.x] = a[row] * s_tmp;
@@ -89,6 +127,7 @@ __global__ void copy_GPU(
     {
         tempy[threadIdx.x] = b[row];
         a[row] = tempy[threadIdx.x];
+        // printf("w %lg\n",b[row]);
     }
 }
 
@@ -141,6 +180,7 @@ __global__ void assign_GPU(
     if (thread_id == 0)
     {
         *a = *s;
+        // printf("%f   %f\n",*s,*a);
     }
 }
 

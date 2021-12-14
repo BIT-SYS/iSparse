@@ -66,6 +66,8 @@
         "optional": "cpp",
         "set": "cpp",
         "string": "cpp",
-        "string_view": "cpp"
+        "string_view": "cpp",
+        "cuda_runtime.h": "c",
+        "gmres.h": "c"
     }
 }

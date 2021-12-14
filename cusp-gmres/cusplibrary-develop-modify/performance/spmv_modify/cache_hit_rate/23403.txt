@@ -1,0 +1,5 @@
+==23403== NVPROF is profiling process 23403, command: ./a.out /home/GaoJH/spmv/standard_matrix/af_shell9.mtx
+==23403== Profiling application: ./a.out /home/GaoJH/spmv/standard_matrix/af_shell9.mtx
+==23403== Profiling result:
+No events/metrics were profiled.
+==23403== Warning: Some profiling data are not recorded. Make sure cudaProfilerStop() or cuProfilerStop() is called before application exit to flush profile data.

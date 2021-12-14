@@ -19,7 +19,7 @@ AOBJS+=$(patsubst $(DIR_SRC)/%.c, $(DIR_OBJ)/%.o, $(wildcard $(DIR_SRC)/*.c))
 #头文件，依赖文件
 DEPS=$(wildcard $(DIR_INC)/*.h)
 
-INCLUDES=-I/usr/local/cuda-11.2/include -I./$(DIR_INC) -I/home/liujie/basedMpSpMV/cusplibrary-develop-modify/
+INCLUDES=-I/usr/local/cuda-11.2/include -I./$(DIR_INC) -I/home/liujie/basedMpSpMV/cusplibrary-develop-modify
 LIBS=  -lcudart -lm  -lcusparse -lcublas
 
 PROG= gmres
