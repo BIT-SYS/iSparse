@@ -69,7 +69,7 @@ signed main(int argc, char *argv[])
     }
     
     // spmv calculation
-    spmv_stream_gpu(M, N, neg_format_new, xHostPtr, yHostPtr);
+    taichi_SpMV(M, N, neg_format_new, xHostPtr, yHostPtr);
     
     // validate calculated result
     int counter_wrong = 0;
@@ -102,7 +102,7 @@ signed main(int argc, char *argv[])
         y_ref = nullptr;
     }
 
-    free_taichi(neg_format_new);
+    free_taichi_new(neg_format_new);
 
     if (csrRowIndexHostPtr != nullptr)
     {
