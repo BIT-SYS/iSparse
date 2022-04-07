@@ -1,0 +1,159 @@
+SUDO_GID=1000
+MAIL=/var/mail/USER
+LC_TIME=zh_CN.UTF-8
+USER=USER
+LC_MONETARY=zh_CN.UTF-8
+SUDO_UID=1000
+LOGNAME=USER
+TERM=xterm
+USERNAME=USER
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/snap/bin
+LC_ADDRESS=zh_CN.UTF-8
+DISPLAY=localhost:10.0
+LC_TELEPHONE=zh_CN.UTF-8
+LANG=en_US.UTF-8
+LS_COLORS=rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arj=01;31:*.taz=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lz=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.axv=01;35:*.anx=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.axa=00;36:*.oga=00;36:*.spx=00;36:*.xspf=00;36:
+SUDO_COMMAND=/bin/sh collect_environment.sh
+LC_NAME=zh_CN.UTF-8
+SHELL=/bin/bash
+LC_MEASUREMENT=zh_CN.UTF-8
+LC_IDENTIFICATION=zh_CN.UTF-8
+LC_NUMERIC=zh_CN.UTF-8
+LC_PAPER=zh_CN.UTF-8
+Linux Z97X-UD3H 4.4.0-139-generic #165~14.04.1-Ubuntu SMP Wed Oct 31 10:55:11 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+Architecture:          x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                8
+On-line CPU(s) list:   0-7
+Thread(s) per core:    2
+Core(s) per socket:    4
+Socket(s):             1
+NUMA node(s):          1
+Vendor ID:             GenuineIntel
+CPU family:            6
+Model:                 60
+Stepping:              3
+CPU MHz:               3796.250
+BogoMIPS:              8000.67
+Virtualization:        VT-x
+L1d cache:             32K
+L1i cache:             32K
+L2 cache:              256K
+L3 cache:              8192K
+NUMA node0 CPU(s):     0-7
+MemTotal:       16289876 kB
+MemFree:          419492 kB
+MemAvailable:   15484664 kB
+Buffers:          367980 kB
+Cached:         14678652 kB
+SwapCached:        22644 kB
+Active:          1084956 kB
+Inactive:       14173764 kB
+Active(anon):      92832 kB
+Inactive(anon):   119928 kB
+Active(file):     992124 kB
+Inactive(file): 14053836 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+SwapTotal:      16631804 kB
+SwapFree:       16362808 kB
+Dirty:                 0 kB
+Writeback:             0 kB
+AnonPages:        203420 kB
+Mapped:           104684 kB
+Shmem:               672 kB
+Slab:             401284 kB
+SReclaimable:     356508 kB
+SUnreclaim:        44776 kB
+KernelStack:        7728 kB
+PageTables:        30000 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:    24776740 kB
+Committed_AS:    2981276 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:           0 kB
+VmallocChunk:          0 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:         0 kB
+CmaTotal:              0 kB
+CmaFree:               0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+DirectMap4k:    13563012 kB
+DirectMap2M:     3072000 kB
+DirectMap1G:           0 kB
+NAME   MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda      8:0    0 447.1G  0 disk 
+├─sda1   8:1    0 431.3G  0 part /
+├─sda2   8:2    0     1K  0 part 
+└─sda5   8:5    0  15.9G  0 part [SWAP]
+loop0    7:0    0         0 loop 
+loop1    7:1    0         0 loop 
+loop2    7:2    0         0 loop 
+loop3    7:3    0         0 loop 
+loop4    7:4    0         0 loop 
+loop5    7:5    0         0 loop 
+loop6    7:6    0         0 loop 
+loop7    7:7    0         0 loop 
+Wed Jun  2 17:53:29 2021       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 410.79       Driver Version: 410.79       CUDA Version: 10.0     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name        Persistence-M| Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|===============================+======================+======================|
+|   0  GeForce GTX 108...  Off  | 00000000:01:00.0 Off |                  N/A |
+| 33%   34C    P8    18W / 250W |     49MiB / 11178MiB |      0%      Default |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                       GPU Memory |
+|  GPU       PID   Type   Process name                             Usage      |
+|=============================================================================|
+|    0      1279      G   /usr/lib/xorg/Xorg                            37MiB |
+|    0      1980      G   compiz                                         9MiB |
++-----------------------------------------------------------------------------+
+H/W path        Device     Class          Description
+=====================================================
+                           system         Z97X-UD3H (To be filled by O.E.M.)
+/0                         bus            Z97X-UD3H-CF
+/0/0                       memory         64KiB BIOS
+/0/3d                      processor      Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz
+/0/3d/3e                   memory         256KiB L1 cache
+/0/3d/3f                   memory         1MiB L2 cache
+/0/3d/40                   memory         8MiB L3 cache
+/0/42                      memory         16GiB System Memory
+/0/42/0                    memory         DIMM [empty]
+/0/42/1                    memory         4GiB DIMM DDR3 Synchronous 1333 MHz (0.8 ns)
+/0/42/2                    memory         8GiB DIMM DDR3 Synchronous 1333 MHz (0.8 ns)
+/0/42/3                    memory         4GiB DIMM DDR3 Synchronous 1333 MHz (0.8 ns)
+/0/100                     bridge         4th Gen Core Processor DRAM Controller
+/0/100/1                   bridge         Xeon E3-1200 v3/4th Gen Core Processor PCI Express x16 Controller
+/0/100/1/0                 display        NVIDIA Corporation
+/0/100/1/0.1               multimedia     NVIDIA Corporation
+/0/100/2                   display        Xeon E3-1200 v3/4th Gen Core Processor Integrated Graphics Controller
+/0/100/3                   multimedia     Xeon E3-1200 v3/4th Gen Core Processor HD Audio Controller
+/0/100/14                  bus            9 Series Chipset Family USB xHCI Controller
+/0/100/16                  communication  9 Series Chipset Family ME Interface #1
+/0/100/19       eth0       network        Ethernet Connection I217-V
+/0/100/1a                  bus            9 Series Chipset Family USB EHCI Controller #2
+/0/100/1b                  multimedia     9 Series Chipset Family HD Audio Controller
+/0/100/1c                  bridge         9 Series Chipset Family PCI Express Root Port 1
+/0/100/1c.3                bridge         9 Series Chipset Family PCI Express Root Port 4
+/0/100/1c.3/0              bridge         82801 PCI Bridge
+/0/100/1d                  bus            9 Series Chipset Family USB EHCI Controller #1
+/0/100/1f                  bridge         9 Series Chipset Family Z97 LPC Controller
+/0/100/1f.2                storage        9 Series Chipset Family SATA Controller [AHCI Mode]
+/0/100/1f.3                bus            9 Series Chipset Family SMBus Controller
+/0/1            scsi1      storage        
+/0/1/0.0.0      /dev/sda   disk           480GB SanDisk SSD PLUS
+/0/1/0.0.0/1    /dev/sda1  volume         431GiB EXT4 volume
+/0/1/0.0.0/2    /dev/sda2  volume         15GiB Extended partition
+/0/1/0.0.0/2/5  /dev/sda5  volume         15GiB Linux swap / Solaris partition
+/1                         power          To Be Filled By O.E.M.
