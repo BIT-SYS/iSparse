@@ -1,0 +1,6116 @@
+total dict has been read
+dealing with matrix 1138_bus.mtx
+executing matrix
+1138_bus.mtx finished
+dealing with matrix 494_bus.mtx
+executing matrix
+494_bus.mtx finished
+dealing with matrix 662_bus.mtx
+executing matrix
+662_bus.mtx finished
+dealing with matrix 685_bus.mtx
+executing matrix
+685_bus.mtx finished
+dealing with matrix arc130.mtx
+executing matrix
+arc130.mtx finished
+dealing with matrix ash292.mtx
+executing matrix
+ash292.mtx finished
+dealing with matrix ash85.mtx
+executing matrix
+ash85.mtx finished
+dealing with matrix bcspwr01.mtx
+executing matrix
+bcspwr01.mtx finished
+dealing with matrix bcspwr02.mtx
+executing matrix
+bcspwr02.mtx finished
+dealing with matrix bcspwr03.mtx
+executing matrix
+bcspwr03.mtx finished
+dealing with matrix bcspwr04.mtx
+executing matrix
+bcspwr04.mtx finished
+dealing with matrix bcspwr05.mtx
+executing matrix
+bcspwr05.mtx finished
+dealing with matrix bcspwr06.mtx
+executing matrix
+bcspwr06.mtx finished
+dealing with matrix bcspwr07.mtx
+executing matrix
+bcspwr07.mtx finished
+dealing with matrix bcspwr08.mtx
+executing matrix
+bcspwr08.mtx finished
+dealing with matrix bcspwr09.mtx
+executing matrix
+bcspwr09.mtx finished
+dealing with matrix bcspwr10.mtx
+executing matrix
+bcspwr10.mtx finished
+dealing with matrix bcsstk01.mtx
+executing matrix
+bcsstk01.mtx finished
+dealing with matrix bcsstk02.mtx
+executing matrix
+bcsstk02.mtx finished
+dealing with matrix bcsstk03.mtx
+executing matrix
+bcsstk03.mtx finished
+dealing with matrix bcsstk04.mtx
+executing matrix
+bcsstk04.mtx finished
+dealing with matrix bcsstk05.mtx
+executing matrix
+bcsstk05.mtx finished
+dealing with matrix bcsstk06.mtx
+executing matrix
+bcsstk06.mtx finished
+dealing with matrix bcsstk07.mtx
+executing matrix
+bcsstk07.mtx finished
+dealing with matrix bcsstk08.mtx
+executing matrix
+bcsstk08.mtx finished
+dealing with matrix bcsstk09.mtx
+executing matrix
+bcsstk09.mtx finished
+dealing with matrix bcsstk10.mtx
+executing matrix
+bcsstk10.mtx finished
+dealing with matrix bcsstk11.mtx
+executing matrix
+bcsstk11.mtx finished
+dealing with matrix bcsstk12.mtx
+executing matrix
+bcsstk12.mtx finished
+dealing with matrix bcsstk13.mtx
+executing matrix
+bcsstk13.mtx finished
+dealing with matrix bcsstk14.mtx
+executing matrix
+bcsstk14.mtx finished
+dealing with matrix bcsstk15.mtx
+executing matrix
+bcsstk15.mtx finished
+dealing with matrix bcsstk16.mtx
+executing matrix
+bcsstk16.mtx finished
+dealing with matrix bcsstk17.mtx
+executing matrix
+bcsstk17.mtx finished
+dealing with matrix bcsstk18.mtx
+executing matrix
+bcsstk18.mtx finished
+dealing with matrix bcsstk19.mtx
+executing matrix
+bcsstk19.mtx finished
+dealing with matrix bcsstk20.mtx
+executing matrix
+bcsstk20.mtx finished
+dealing with matrix bcsstk21.mtx
+executing matrix
+bcsstk21.mtx finished
+dealing with matrix bcsstk22.mtx
+executing matrix
+bcsstk22.mtx finished
+dealing with matrix bcsstk23.mtx
+executing matrix
+bcsstk23.mtx finished
+dealing with matrix bcsstk24.mtx
+executing matrix
+bcsstk24.mtx finished
+dealing with matrix bcsstk25.mtx
+executing matrix
+bcsstk25.mtx finished
+dealing with matrix bcsstk26.mtx
+executing matrix
+bcsstk26.mtx finished
+dealing with matrix bcsstk27.mtx
+executing matrix
+bcsstk27.mtx finished
+dealing with matrix bcsstk28.mtx
+executing matrix
+bcsstk28.mtx finished
+dealing with matrix bcsstk29.mtx
+executing matrix
+bcsstk29.mtx finished
+dealing with matrix bcsstk30.mtx
+executing matrix
+bcsstk30.mtx finished
+dealing with matrix bcsstk31.mtx
+executing matrix
+bcsstk31.mtx finished
+dealing with matrix bcsstk32.mtx
+executing matrix
+bcsstk32.mtx finished
+dealing with matrix bcsstk33.mtx
+executing matrix
+bcsstk33.mtx finished
+dealing with matrix bcsstm01.mtx
+executing matrix
+bcsstm01.mtx finished
+dealing with matrix bcsstm02.mtx
+executing matrix
+bcsstm02.mtx finished
+dealing with matrix bcsstm03.mtx
+executing matrix
+bcsstm03.mtx finished
+dealing with matrix bcsstm04.mtx
+executing matrix
+bcsstm04.mtx finished
+dealing with matrix bcsstm05.mtx
+executing matrix
+bcsstm05.mtx finished
+dealing with matrix bcsstm06.mtx
+executing matrix
+bcsstm06.mtx finished
+dealing with matrix bcsstm07.mtx
+executing matrix
+bcsstm07.mtx finished
+dealing with matrix bcsstm08.mtx
+executing matrix
+bcsstm08.mtx finished
+dealing with matrix bcsstm09.mtx
+executing matrix
+bcsstm09.mtx finished
+dealing with matrix bcsstm10.mtx
+executing matrix
+bcsstm10.mtx finished
+dealing with matrix bcsstm11.mtx
+executing matrix
+bcsstm11.mtx finished
+dealing with matrix bcsstm12.mtx
+executing matrix
+bcsstm12.mtx finished
+dealing with matrix bcsstm13.mtx
+executing matrix
+bcsstm13.mtx finished
+dealing with matrix bcsstm19.mtx
+executing matrix
+bcsstm19.mtx finished
+dealing with matrix bcsstm20.mtx
+executing matrix
+bcsstm20.mtx finished
+dealing with matrix bcsstm21.mtx
+executing matrix
+bcsstm21.mtx finished
+dealing with matrix bcsstm22.mtx
+executing matrix
+bcsstm22.mtx finished
+dealing with matrix bcsstm23.mtx
+executing matrix
+bcsstm23.mtx finished
+dealing with matrix bcsstm24.mtx
+executing matrix
+bcsstm24.mtx finished
+dealing with matrix bcsstm25.mtx
+executing matrix
+bcsstm25.mtx finished
+dealing with matrix bcsstm26.mtx
+executing matrix
+bcsstm26.mtx finished
+dealing with matrix bcsstm27.mtx
+executing matrix
+bcsstm27.mtx finished
+dealing with matrix blckhole.mtx
+executing matrix
+blckhole.mtx finished
+dealing with matrix bp_0.mtx
+executing matrix
+bp_0.mtx finished
+dealing with matrix bp_1000.mtx
+executing matrix
+bp_1000.mtx finished
+dealing with matrix bp_1200.mtx
+executing matrix
+bp_1200.mtx finished
+dealing with matrix bp_1400.mtx
+executing matrix
+bp_1400.mtx finished
+dealing with matrix bp_1600.mtx
+executing matrix
+bp_1600.mtx finished
+dealing with matrix bp_200.mtx
+executing matrix
+bp_200.mtx finished
+dealing with matrix bp_400.mtx
+executing matrix
+bp_400.mtx finished
+dealing with matrix bp_600.mtx
+executing matrix
+bp_600.mtx finished
+dealing with matrix bp_800.mtx
+executing matrix
+bp_800.mtx finished
+dealing with matrix can_1054.mtx
+executing matrix
+can_1054.mtx finished
+dealing with matrix can_1072.mtx
+executing matrix
+can_1072.mtx finished
+dealing with matrix can_144.mtx
+executing matrix
+can_144.mtx finished
+dealing with matrix can_161.mtx
+executing matrix
+can_161.mtx finished
+dealing with matrix can_187.mtx
+executing matrix
+can_187.mtx finished
+dealing with matrix can_229.mtx
+executing matrix
+can_229.mtx finished
+dealing with matrix can_24.mtx
+executing matrix
+can_24.mtx finished
+dealing with matrix can_256.mtx
+executing matrix
+can_256.mtx finished
+dealing with matrix can_268.mtx
+executing matrix
+can_268.mtx finished
+dealing with matrix can_292.mtx
+executing matrix
+can_292.mtx finished
+dealing with matrix can_445.mtx
+executing matrix
+can_445.mtx finished
+dealing with matrix can_61.mtx
+executing matrix
+can_61.mtx finished
+dealing with matrix can_62.mtx
+executing matrix
+can_62.mtx finished
+dealing with matrix can_634.mtx
+executing matrix
+can_634.mtx finished
+dealing with matrix can_715.mtx
+executing matrix
+can_715.mtx finished
+dealing with matrix can_73.mtx
+executing matrix
+can_73.mtx finished
+dealing with matrix can_838.mtx
+executing matrix
+can_838.mtx finished
+dealing with matrix can_96.mtx
+executing matrix
+can_96.mtx finished
+dealing with matrix curtis54.mtx
+executing matrix
+curtis54.mtx finished
+dealing with matrix dwt_1005.mtx
+executing matrix
+dwt_1005.mtx finished
+dealing with matrix dwt_1007.mtx
+executing matrix
+dwt_1007.mtx finished
+dealing with matrix dwt_1242.mtx
+executing matrix
+dwt_1242.mtx finished
+dealing with matrix dwt_162.mtx
+executing matrix
+dwt_162.mtx finished
+dealing with matrix dwt_193.mtx
+executing matrix
+dwt_193.mtx finished
+dealing with matrix dwt_198.mtx
+executing matrix
+dwt_198.mtx finished
+dealing with matrix dwt_209.mtx
+executing matrix
+dwt_209.mtx finished
+dealing with matrix dwt_221.mtx
+executing matrix
+dwt_221.mtx finished
+dealing with matrix dwt_234.mtx
+executing matrix
+dwt_234.mtx finished
+dealing with matrix dwt_245.mtx
+executing matrix
+dwt_245.mtx finished
+dealing with matrix dwt_2680.mtx
+executing matrix
+dwt_2680.mtx finished
+dealing with matrix dwt_307.mtx
+executing matrix
+dwt_307.mtx finished
+dealing with matrix dwt_310.mtx
+executing matrix
+dwt_310.mtx finished
+dealing with matrix dwt_346.mtx
+executing matrix
+dwt_346.mtx finished
+dealing with matrix dwt_361.mtx
+executing matrix
+dwt_361.mtx finished
+dealing with matrix dwt_419.mtx
+executing matrix
+dwt_419.mtx finished
+dealing with matrix dwt_492.mtx
+executing matrix
+dwt_492.mtx finished
+dealing with matrix dwt_503.mtx
+executing matrix
+dwt_503.mtx finished
+dealing with matrix dwt_512.mtx
+executing matrix
+dwt_512.mtx finished
+dealing with matrix dwt_59.mtx
+executing matrix
+dwt_59.mtx finished
+dealing with matrix dwt_592.mtx
+executing matrix
+dwt_592.mtx finished
+dealing with matrix dwt_607.mtx
+executing matrix
+dwt_607.mtx finished
+dealing with matrix dwt_66.mtx
+executing matrix
+dwt_66.mtx finished
+dealing with matrix dwt_72.mtx
+executing matrix
+dwt_72.mtx finished
+dealing with matrix dwt_758.mtx
+executing matrix
+dwt_758.mtx finished
+dealing with matrix dwt_869.mtx
+executing matrix
+dwt_869.mtx finished
+dealing with matrix dwt_87.mtx
+executing matrix
+dwt_87.mtx finished
+dealing with matrix dwt_878.mtx
+executing matrix
+dwt_878.mtx finished
+dealing with matrix dwt_918.mtx
+executing matrix
+dwt_918.mtx finished
+dealing with matrix dwt_992.mtx
+executing matrix
+dwt_992.mtx finished
+dealing with matrix eris1176.mtx
+executing matrix
+eris1176.mtx finished
+dealing with matrix fs_183_1.mtx
+executing matrix
+fs_183_1.mtx finished
+dealing with matrix fs_183_3.mtx
+executing matrix
+fs_183_3.mtx finished
+dealing with matrix fs_183_4.mtx
+executing matrix
+fs_183_4.mtx finished
+dealing with matrix fs_183_6.mtx
+executing matrix
+fs_183_6.mtx finished
+dealing with matrix fs_541_1.mtx
+executing matrix
+fs_541_1.mtx finished
+dealing with matrix fs_541_2.mtx
+executing matrix
+fs_541_2.mtx finished
+dealing with matrix fs_541_3.mtx
+executing matrix
+fs_541_3.mtx finished
+dealing with matrix fs_541_4.mtx
+executing matrix
+fs_541_4.mtx finished
+dealing with matrix fs_680_1.mtx
+executing matrix
+fs_680_1.mtx finished
+dealing with matrix fs_680_2.mtx
+executing matrix
+fs_680_2.mtx finished
+dealing with matrix fs_680_3.mtx
+executing matrix
+fs_680_3.mtx finished
+dealing with matrix fs_760_1.mtx
+executing matrix
+fs_760_1.mtx finished
+dealing with matrix fs_760_2.mtx
+executing matrix
+fs_760_2.mtx finished
+dealing with matrix fs_760_3.mtx
+executing matrix
+fs_760_3.mtx finished
+dealing with matrix gemat11.mtx
+executing matrix
+gemat11.mtx finished
+dealing with matrix gemat12.mtx
+executing matrix
+gemat12.mtx finished
+dealing with matrix gent113.mtx
+executing matrix
+gent113.mtx finished
+dealing with matrix gr_30_30.mtx
+executing matrix
+gr_30_30.mtx finished
+dealing with matrix gre_1107.mtx
+executing matrix
+gre_1107.mtx finished
+dealing with matrix gre_115.mtx
+executing matrix
+gre_115.mtx finished
+dealing with matrix gre_185.mtx
+executing matrix
+gre_185.mtx finished
+dealing with matrix gre_216a.mtx
+executing matrix
+gre_216a.mtx finished
+dealing with matrix gre_216b.mtx
+executing matrix
+gre_216b.mtx finished
+dealing with matrix gre_343.mtx
+executing matrix
+gre_343.mtx finished
+dealing with matrix gre_512.mtx
+executing matrix
+gre_512.mtx finished
+dealing with matrix hor_131.mtx
+executing matrix
+hor_131.mtx finished
+dealing with matrix ibm32.mtx
+executing matrix
+ibm32.mtx finished
+dealing with matrix impcol_a.mtx
+executing matrix
+impcol_a.mtx finished
+dealing with matrix impcol_b.mtx
+executing matrix
+impcol_b.mtx finished
+dealing with matrix impcol_c.mtx
+executing matrix
+impcol_c.mtx finished
+dealing with matrix impcol_d.mtx
+executing matrix
+impcol_d.mtx finished
+dealing with matrix impcol_e.mtx
+executing matrix
+impcol_e.mtx finished
+dealing with matrix jagmesh1.mtx
+executing matrix
+jagmesh1.mtx finished
+dealing with matrix jagmesh2.mtx
+executing matrix
+jagmesh2.mtx finished
+dealing with matrix jagmesh3.mtx
+executing matrix
+jagmesh3.mtx finished
+dealing with matrix jagmesh4.mtx
+executing matrix
+jagmesh4.mtx finished
+dealing with matrix jagmesh5.mtx
+executing matrix
+jagmesh5.mtx finished
+dealing with matrix jagmesh6.mtx
+executing matrix
+jagmesh6.mtx finished
+dealing with matrix jagmesh7.mtx
+executing matrix
+jagmesh7.mtx finished
+dealing with matrix jagmesh8.mtx
+executing matrix
+jagmesh8.mtx finished
+dealing with matrix jagmesh9.mtx
+executing matrix
+jagmesh9.mtx finished
+dealing with matrix jgl009.mtx
+executing matrix
+jgl009.mtx finished
+dealing with matrix jgl011.mtx
+executing matrix
+jgl011.mtx finished
+dealing with matrix jpwh_991.mtx
+executing matrix
+jpwh_991.mtx finished
+dealing with matrix lns_131.mtx
+executing matrix
+lns_131.mtx finished
+dealing with matrix lns_3937.mtx
+executing matrix
+lns_3937.mtx finished
+dealing with matrix lns_511.mtx
+executing matrix
+lns_511.mtx finished
+dealing with matrix lnsp3937.mtx
+executing matrix
+lnsp3937.mtx finished
+dealing with matrix lnsp_131.mtx
+executing matrix
+lnsp_131.mtx finished
+dealing with matrix lnsp_511.mtx
+executing matrix
+lnsp_511.mtx finished
+dealing with matrix lshp1009.mtx
+executing matrix
+lshp1009.mtx finished
+dealing with matrix lshp1270.mtx
+executing matrix
+lshp1270.mtx finished
+dealing with matrix lshp1561.mtx
+executing matrix
+lshp1561.mtx finished
+dealing with matrix lshp1882.mtx
+executing matrix
+lshp1882.mtx finished
+dealing with matrix lshp2233.mtx
+executing matrix
+lshp2233.mtx finished
+dealing with matrix lshp2614.mtx
+executing matrix
+lshp2614.mtx finished
+dealing with matrix lshp3025.mtx
+executing matrix
+lshp3025.mtx finished
+dealing with matrix lshp3466.mtx
+executing matrix
+lshp3466.mtx finished
+dealing with matrix lshp_265.mtx
+executing matrix
+lshp_265.mtx finished
+dealing with matrix lshp_406.mtx
+executing matrix
+lshp_406.mtx finished
+dealing with matrix lshp_577.mtx
+executing matrix
+lshp_577.mtx finished
+dealing with matrix lshp_778.mtx
+executing matrix
+lshp_778.mtx finished
+dealing with matrix lund_a.mtx
+executing matrix
+lund_a.mtx finished
+dealing with matrix lund_b.mtx
+executing matrix
+lund_b.mtx finished
+dealing with matrix mahindas.mtx
+executing matrix
+mahindas.mtx finished
+dealing with matrix mbeacxc.mtx
+executing matrix
+mbeacxc.mtx finished
+dealing with matrix mbeaflw.mtx
+executing matrix
+mbeaflw.mtx finished
+dealing with matrix mbeause.mtx
+executing matrix
+mbeause.mtx finished
+dealing with matrix mcca.mtx
+executing matrix
+mcca.mtx finished
+dealing with matrix mcfe.mtx
+executing matrix
+mcfe.mtx finished
+dealing with matrix nnc1374.mtx
+executing matrix
+nnc1374.mtx finished
+dealing with matrix nnc261.mtx
+executing matrix
+nnc261.mtx finished
+dealing with matrix nnc666.mtx
+executing matrix
+nnc666.mtx finished
+dealing with matrix nos1.mtx
+executing matrix
+nos1.mtx finished
+dealing with matrix nos2.mtx
+executing matrix
+nos2.mtx finished
+dealing with matrix nos3.mtx
+executing matrix
+nos3.mtx finished
+dealing with matrix nos4.mtx
+executing matrix
+nos4.mtx finished
+dealing with matrix nos5.mtx
+executing matrix
+nos5.mtx finished
+dealing with matrix nos6.mtx
+executing matrix
+nos6.mtx finished
+dealing with matrix nos7.mtx
+executing matrix
+nos7.mtx finished
+dealing with matrix orani678.mtx
+executing matrix
+orani678.mtx finished
+dealing with matrix orsirr_1.mtx
+executing matrix
+orsirr_1.mtx finished
+dealing with matrix orsirr_2.mtx
+executing matrix
+orsirr_2.mtx finished
+dealing with matrix orsreg_1.mtx
+executing matrix
+orsreg_1.mtx finished
+dealing with matrix plat1919.mtx
+executing matrix
+plat1919.mtx finished
+dealing with matrix plat362.mtx
+executing matrix
+plat362.mtx finished
+dealing with matrix plsk1919.mtx
+executing matrix
+plsk1919.mtx finished
+dealing with matrix plskz362.mtx
+executing matrix
+plskz362.mtx finished
+dealing with matrix pores_1.mtx
+executing matrix
+pores_1.mtx finished
+dealing with matrix pores_2.mtx
+executing matrix
+pores_2.mtx finished
+dealing with matrix pores_3.mtx
+executing matrix
+pores_3.mtx finished
+dealing with matrix psmigr_1.mtx
+executing matrix
+psmigr_1.mtx finished
+dealing with matrix psmigr_2.mtx
+executing matrix
+psmigr_2.mtx finished
+dealing with matrix psmigr_3.mtx
+executing matrix
+psmigr_3.mtx finished
+dealing with matrix rgg010.mtx
+executing matrix
+rgg010.mtx finished
+dealing with matrix saylr1.mtx
+executing matrix
+saylr1.mtx finished
+dealing with matrix saylr3.mtx
+executing matrix
+saylr3.mtx finished
+dealing with matrix saylr4.mtx
+executing matrix
+saylr4.mtx finished
+dealing with matrix sherman1.mtx
+executing matrix
+sherman1.mtx finished
+dealing with matrix sherman2.mtx
+executing matrix
+sherman2.mtx finished
+dealing with matrix sherman3.mtx
+executing matrix
+sherman3.mtx finished
+dealing with matrix sherman4.mtx
+executing matrix
+sherman4.mtx finished
+dealing with matrix sherman5.mtx
+executing matrix
+sherman5.mtx finished
+dealing with matrix shl_0.mtx
+executing matrix
+shl_0.mtx finished
+dealing with matrix shl_200.mtx
+executing matrix
+shl_200.mtx finished
+dealing with matrix shl_400.mtx
+executing matrix
+shl_400.mtx finished
+dealing with matrix sstmodel.mtx
+executing matrix
+sstmodel.mtx finished
+dealing with matrix steam1.mtx
+executing matrix
+steam1.mtx finished
+dealing with matrix steam2.mtx
+executing matrix
+steam2.mtx finished
+dealing with matrix steam3.mtx
+executing matrix
+steam3.mtx finished
+dealing with matrix str_0.mtx
+executing matrix
+str_0.mtx finished
+dealing with matrix str_200.mtx
+executing matrix
+str_200.mtx finished
+dealing with matrix str_400.mtx
+executing matrix
+str_400.mtx finished
+dealing with matrix str_600.mtx
+executing matrix
+str_600.mtx finished
+dealing with matrix watt_1.mtx
+executing matrix
+watt_1.mtx finished
+dealing with matrix watt_2.mtx
+executing matrix
+watt_2.mtx finished
+dealing with matrix west0067.mtx
+executing matrix
+west0067.mtx finished
+dealing with matrix west0132.mtx
+executing matrix
+west0132.mtx finished
+dealing with matrix west0156.mtx
+executing matrix
+west0156.mtx finished
+dealing with matrix west0167.mtx
+executing matrix
+west0167.mtx finished
+dealing with matrix west0381.mtx
+executing matrix
+west0381.mtx finished
+dealing with matrix west0479.mtx
+executing matrix
+west0479.mtx finished
+dealing with matrix west0497.mtx
+executing matrix
+west0497.mtx finished
+dealing with matrix west0655.mtx
+executing matrix
+west0655.mtx finished
+dealing with matrix west0989.mtx
+executing matrix
+west0989.mtx finished
+dealing with matrix west1505.mtx
+executing matrix
+west1505.mtx finished
+dealing with matrix west2021.mtx
+executing matrix
+west2021.mtx finished
+dealing with matrix will199.mtx
+executing matrix
+will199.mtx finished
+dealing with matrix will57.mtx
+executing matrix
+will57.mtx finished
+dealing with matrix young3c.mtx
+executing matrix
+young3c.mtx finished
+dealing with matrix zenios.mtx
+executing matrix
+zenios.mtx finished
+dealing with matrix onetone1.mtx
+executing matrix
+onetone1.mtx finished
+dealing with matrix onetone2.mtx
+executing matrix
+onetone2.mtx finished
+dealing with matrix pre2.mtx
+executing matrix
+pre2.mtx finished
+dealing with matrix twotone.mtx
+executing matrix
+twotone.mtx finished
+dealing with matrix epb0.mtx
+executing matrix
+epb0.mtx finished
+dealing with matrix epb1.mtx
+executing matrix
+epb1.mtx finished
+dealing with matrix epb2.mtx
+executing matrix
+epb2.mtx finished
+dealing with matrix epb3.mtx
+executing matrix
+epb3.mtx finished
+dealing with matrix af23560.mtx
+executing matrix
+af23560.mtx finished
+dealing with matrix bfwa398.mtx
+executing matrix
+bfwa398.mtx finished
+dealing with matrix bfwa62.mtx
+executing matrix
+bfwa62.mtx finished
+dealing with matrix bfwa782.mtx
+executing matrix
+bfwa782.mtx finished
+dealing with matrix bfwb398.mtx
+executing matrix
+bfwb398.mtx finished
+dealing with matrix bfwb62.mtx
+executing matrix
+bfwb62.mtx finished
+dealing with matrix bfwb782.mtx
+executing matrix
+bfwb782.mtx finished
+dealing with matrix bwm200.mtx
+executing matrix
+bwm200.mtx finished
+dealing with matrix bwm2000.mtx
+executing matrix
+bwm2000.mtx finished
+dealing with matrix cdde1.mtx
+executing matrix
+cdde1.mtx finished
+dealing with matrix cdde2.mtx
+executing matrix
+cdde2.mtx finished
+dealing with matrix cdde3.mtx
+executing matrix
+cdde3.mtx finished
+dealing with matrix cdde4.mtx
+executing matrix
+cdde4.mtx finished
+dealing with matrix cdde5.mtx
+executing matrix
+cdde5.mtx finished
+dealing with matrix cdde6.mtx
+executing matrix
+cdde6.mtx finished
+dealing with matrix ck104.mtx
+executing matrix
+ck104.mtx finished
+dealing with matrix ck400.mtx
+executing matrix
+ck400.mtx finished
+dealing with matrix ck656.mtx
+executing matrix
+ck656.mtx finished
+dealing with matrix dw1024.mtx
+executing matrix
+dw1024.mtx finished
+dealing with matrix dw256A.mtx
+executing matrix
+dw256A.mtx finished
+dealing with matrix dw256B.mtx
+executing matrix
+dw256B.mtx finished
+dealing with matrix dw4096.mtx
+executing matrix
+dw4096.mtx finished
+dealing with matrix lop163.mtx
+executing matrix
+lop163.mtx finished
+dealing with matrix mhda416.mtx
+executing matrix
+mhda416.mtx finished
+dealing with matrix mhdb416.mtx
+executing matrix
+mhdb416.mtx finished
+dealing with matrix odepa400.mtx
+executing matrix
+odepa400.mtx finished
+dealing with matrix odepb400.mtx
+executing matrix
+odepb400.mtx finished
+dealing with matrix olm100.mtx
+executing matrix
+olm100.mtx finished
+dealing with matrix olm1000.mtx
+executing matrix
+olm1000.mtx finished
+dealing with matrix olm2000.mtx
+executing matrix
+olm2000.mtx finished
+dealing with matrix olm500.mtx
+executing matrix
+olm500.mtx finished
+dealing with matrix olm5000.mtx
+executing matrix
+olm5000.mtx finished
+dealing with matrix pde225.mtx
+executing matrix
+pde225.mtx finished
+dealing with matrix pde2961.mtx
+executing matrix
+pde2961.mtx finished
+dealing with matrix pde900.mtx
+executing matrix
+pde900.mtx finished
+dealing with matrix qh882.mtx
+executing matrix
+qh882.mtx finished
+dealing with matrix rbsa480.mtx
+executing matrix
+rbsa480.mtx finished
+dealing with matrix rbsb480.mtx
+executing matrix
+rbsb480.mtx finished
+dealing with matrix rdb2048.mtx
+executing matrix
+rdb2048.mtx finished
+dealing with matrix rdb5000.mtx
+executing matrix
+rdb5000.mtx finished
+dealing with matrix rdb968.mtx
+executing matrix
+rdb968.mtx finished
+dealing with matrix rw136.mtx
+executing matrix
+rw136.mtx finished
+dealing with matrix rw496.mtx
+executing matrix
+rw496.mtx finished
+dealing with matrix rw5151.mtx
+executing matrix
+rw5151.mtx finished
+dealing with matrix tub100.mtx
+executing matrix
+tub100.mtx finished
+dealing with matrix tub1000.mtx
+executing matrix
+tub1000.mtx finished
+dealing with matrix bcsstk34.mtx
+executing matrix
+bcsstk34.mtx finished
+dealing with matrix bcsstk35.mtx
+executing matrix
+bcsstk35.mtx finished
+dealing with matrix bcsstk36.mtx
+executing matrix
+bcsstk36.mtx finished
+dealing with matrix bcsstk37.mtx
+executing matrix
+bcsstk37.mtx finished
+dealing with matrix bcsstk38.mtx
+executing matrix
+bcsstk38.mtx finished
+dealing with matrix bcsstm34.mtx
+executing matrix
+bcsstm34.mtx finished
+dealing with matrix bcsstm35.mtx
+executing matrix
+bcsstm35.mtx finished
+dealing with matrix bcsstm36.mtx
+executing matrix
+bcsstm36.mtx finished
+dealing with matrix bcsstm37.mtx
+executing matrix
+bcsstm37.mtx finished
+dealing with matrix bcsstm38.mtx
+executing matrix
+bcsstm38.mtx finished
+dealing with matrix bcsstm39.mtx
+executing matrix
+bcsstm39.mtx finished
+dealing with matrix crystk01.mtx
+executing matrix
+crystk01.mtx finished
+dealing with matrix crystk02.mtx
+executing matrix
+crystk02.mtx finished
+dealing with matrix crystk03.mtx
+executing matrix
+crystk03.mtx finished
+dealing with matrix crystm01.mtx
+executing matrix
+crystm01.mtx finished
+dealing with matrix crystm02.mtx
+executing matrix
+crystm02.mtx finished
+dealing with matrix crystm03.mtx
+executing matrix
+crystm03.mtx finished
+dealing with matrix ct20stif.mtx
+executing matrix
+ct20stif.mtx finished
+dealing with matrix msc00726.mtx
+executing matrix
+msc00726.mtx finished
+dealing with matrix msc01050.mtx
+executing matrix
+msc01050.mtx finished
+dealing with matrix msc01440.mtx
+executing matrix
+msc01440.mtx finished
+dealing with matrix msc04515.mtx
+executing matrix
+msc04515.mtx finished
+dealing with matrix msc10848.mtx
+executing matrix
+msc10848.mtx finished
+dealing with matrix msc23052.mtx
+executing matrix
+msc23052.mtx finished
+dealing with matrix nasa1824.mtx
+executing matrix
+nasa1824.mtx finished
+dealing with matrix nasa2910.mtx
+executing matrix
+nasa2910.mtx finished
+dealing with matrix nasa4704.mtx
+executing matrix
+nasa4704.mtx finished
+dealing with matrix pcrystk02.mtx
+executing matrix
+pcrystk02.mtx finished
+dealing with matrix pcrystk03.mtx
+executing matrix
+pcrystk03.mtx finished
+dealing with matrix pct20stif.mtx
+executing matrix
+pct20stif.mtx finished
+dealing with matrix pwtk.mtx
+executing matrix
+pwtk.mtx finished
+dealing with matrix circuit_1.mtx
+executing matrix
+circuit_1.mtx finished
+dealing with matrix circuit_2.mtx
+executing matrix
+circuit_2.mtx finished
+dealing with matrix circuit_3.mtx
+executing matrix
+circuit_3.mtx finished
+dealing with matrix circuit_4.mtx
+executing matrix
+circuit_4.mtx finished
+dealing with matrix rma10.mtx
+executing matrix
+rma10.mtx finished
+dealing with matrix coater1.mtx
+executing matrix
+coater1.mtx finished
+dealing with matrix coater2.mtx
+executing matrix
+coater2.mtx finished
+dealing with matrix thermal.mtx
+executing matrix
+thermal.mtx finished
+dealing with matrix vibrobox.mtx
+executing matrix
+vibrobox.mtx finished
+dealing with matrix cavity01.mtx
+executing matrix
+cavity01.mtx finished
+dealing with matrix cavity02.mtx
+executing matrix
+cavity02.mtx finished
+dealing with matrix cavity03.mtx
+executing matrix
+cavity03.mtx finished
+dealing with matrix cavity04.mtx
+executing matrix
+cavity04.mtx finished
+dealing with matrix cavity05.mtx
+executing matrix
+cavity05.mtx finished
+dealing with matrix cavity06.mtx
+executing matrix
+cavity06.mtx finished
+dealing with matrix cavity07.mtx
+executing matrix
+cavity07.mtx finished
+dealing with matrix cavity08.mtx
+executing matrix
+cavity08.mtx finished
+dealing with matrix cavity09.mtx
+executing matrix
+cavity09.mtx finished
+dealing with matrix cavity10.mtx
+executing matrix
+cavity10.mtx finished
+dealing with matrix cavity11.mtx
+executing matrix
+cavity11.mtx finished
+dealing with matrix cavity12.mtx
+executing matrix
+cavity12.mtx finished
+dealing with matrix cavity13.mtx
+executing matrix
+cavity13.mtx finished
+dealing with matrix cavity14.mtx
+executing matrix
+cavity14.mtx finished
+dealing with matrix cavity15.mtx
+executing matrix
+cavity15.mtx finished
+dealing with matrix cavity16.mtx
+executing matrix
+cavity16.mtx finished
+dealing with matrix cavity17.mtx
+executing matrix
+cavity17.mtx finished
+dealing with matrix cavity18.mtx
+executing matrix
+cavity18.mtx finished
+dealing with matrix cavity19.mtx
+executing matrix
+cavity19.mtx finished
+dealing with matrix cavity20.mtx
+executing matrix
+cavity20.mtx finished
+dealing with matrix cavity21.mtx
+executing matrix
+cavity21.mtx finished
+dealing with matrix cavity22.mtx
+executing matrix
+cavity22.mtx finished
+dealing with matrix cavity23.mtx
+executing matrix
+cavity23.mtx finished
+dealing with matrix cavity24.mtx
+executing matrix
+cavity24.mtx finished
+dealing with matrix cavity25.mtx
+executing matrix
+cavity25.mtx finished
+dealing with matrix cavity26.mtx
+executing matrix
+cavity26.mtx finished
+dealing with matrix ex1.mtx
+executing matrix
+ex1.mtx finished
+dealing with matrix ex10.mtx
+executing matrix
+ex10.mtx finished
+dealing with matrix ex10hs.mtx
+executing matrix
+ex10hs.mtx finished
+dealing with matrix ex11.mtx
+executing matrix
+ex11.mtx finished
+dealing with matrix ex12.mtx
+executing matrix
+ex12.mtx finished
+dealing with matrix ex13.mtx
+executing matrix
+ex13.mtx finished
+dealing with matrix ex14.mtx
+executing matrix
+ex14.mtx finished
+dealing with matrix ex15.mtx
+executing matrix
+ex15.mtx finished
+dealing with matrix ex18.mtx
+executing matrix
+ex18.mtx finished
+dealing with matrix ex19.mtx
+executing matrix
+ex19.mtx finished
+dealing with matrix ex2.mtx
+executing matrix
+ex2.mtx finished
+dealing with matrix ex20.mtx
+executing matrix
+ex20.mtx finished
+dealing with matrix ex21.mtx
+executing matrix
+ex21.mtx finished
+dealing with matrix ex22.mtx
+executing matrix
+ex22.mtx finished
+dealing with matrix ex23.mtx
+executing matrix
+ex23.mtx finished
+dealing with matrix ex24.mtx
+executing matrix
+ex24.mtx finished
+dealing with matrix ex25.mtx
+executing matrix
+ex25.mtx finished
+dealing with matrix ex26.mtx
+executing matrix
+ex26.mtx finished
+dealing with matrix ex27.mtx
+executing matrix
+ex27.mtx finished
+dealing with matrix ex28.mtx
+executing matrix
+ex28.mtx finished
+dealing with matrix ex29.mtx
+executing matrix
+ex29.mtx finished
+dealing with matrix ex3.mtx
+executing matrix
+ex3.mtx finished
+dealing with matrix ex31.mtx
+executing matrix
+ex31.mtx finished
+dealing with matrix ex32.mtx
+executing matrix
+ex32.mtx finished
+dealing with matrix ex33.mtx
+executing matrix
+ex33.mtx finished
+dealing with matrix ex35.mtx
+executing matrix
+ex35.mtx finished
+dealing with matrix ex36.mtx
+executing matrix
+ex36.mtx finished
+dealing with matrix ex37.mtx
+executing matrix
+ex37.mtx finished
+dealing with matrix ex4.mtx
+executing matrix
+ex4.mtx finished
+dealing with matrix ex40.mtx
+executing matrix
+ex40.mtx finished
+dealing with matrix ex5.mtx
+executing matrix
+ex5.mtx finished
+dealing with matrix ex6.mtx
+executing matrix
+ex6.mtx finished
+dealing with matrix ex7.mtx
+executing matrix
+ex7.mtx finished
+dealing with matrix ex8.mtx
+executing matrix
+ex8.mtx finished
+dealing with matrix ex9.mtx
+executing matrix
+ex9.mtx finished
+dealing with matrix big.mtx
+executing matrix
+big.mtx finished
+dealing with matrix nopoly.mtx
+executing matrix
+nopoly.mtx finished
+dealing with matrix pesa.mtx
+executing matrix
+pesa.mtx finished
+dealing with matrix garon1.mtx
+executing matrix
+garon1.mtx finished
+dealing with matrix garon2.mtx
+executing matrix
+garon2.mtx finished
+dealing with matrix goodwin.mtx
+executing matrix
+goodwin.mtx finished
+dealing with matrix rim.mtx
+executing matrix
+rim.mtx finished
+dealing with matrix graham1.mtx
+executing matrix
+graham1.mtx finished
+dealing with matrix b1_ss.mtx
+executing matrix
+b1_ss.mtx finished
+dealing with matrix b2_ss.mtx
+executing matrix
+b2_ss.mtx finished
+dealing with matrix b_dyn.mtx
+executing matrix
+b_dyn.mtx finished
+dealing with matrix bayer01.mtx
+executing matrix
+bayer01.mtx finished
+dealing with matrix bayer02.mtx
+executing matrix
+bayer02.mtx finished
+dealing with matrix bayer03.mtx
+executing matrix
+bayer03.mtx finished
+dealing with matrix bayer04.mtx
+executing matrix
+bayer04.mtx finished
+dealing with matrix bayer05.mtx
+executing matrix
+bayer05.mtx finished
+dealing with matrix bayer06.mtx
+executing matrix
+bayer06.mtx finished
+dealing with matrix bayer07.mtx
+executing matrix
+bayer07.mtx finished
+dealing with matrix bayer08.mtx
+executing matrix
+bayer08.mtx finished
+dealing with matrix bayer09.mtx
+executing matrix
+bayer09.mtx finished
+dealing with matrix bayer10.mtx
+executing matrix
+bayer10.mtx finished
+dealing with matrix d_dyn.mtx
+executing matrix
+d_dyn.mtx finished
+dealing with matrix d_dyn1.mtx
+executing matrix
+d_dyn1.mtx finished
+dealing with matrix d_ss.mtx
+executing matrix
+d_ss.mtx finished
+dealing with matrix meg1.mtx
+executing matrix
+meg1.mtx finished
+dealing with matrix meg4.mtx
+executing matrix
+meg4.mtx finished
+dealing with matrix poli.mtx
+executing matrix
+poli.mtx finished
+dealing with matrix poli_large.mtx
+executing matrix
+poli_large.mtx finished
+dealing with matrix G1.mtx
+executing matrix
+G1.mtx finished
+dealing with matrix G10.mtx
+executing matrix
+G10.mtx finished
+dealing with matrix G11.mtx
+executing matrix
+G11.mtx finished
+dealing with matrix G12.mtx
+executing matrix
+G12.mtx finished
+dealing with matrix G13.mtx
+executing matrix
+G13.mtx finished
+dealing with matrix G14.mtx
+executing matrix
+G14.mtx finished
+dealing with matrix G15.mtx
+executing matrix
+G15.mtx finished
+dealing with matrix G16.mtx
+executing matrix
+G16.mtx finished
+dealing with matrix G17.mtx
+executing matrix
+G17.mtx finished
+dealing with matrix G18.mtx
+executing matrix
+G18.mtx finished
+dealing with matrix G19.mtx
+executing matrix
+G19.mtx finished
+dealing with matrix G2.mtx
+executing matrix
+G2.mtx finished
+dealing with matrix G20.mtx
+executing matrix
+G20.mtx finished
+dealing with matrix G21.mtx
+executing matrix
+G21.mtx finished
+dealing with matrix G22.mtx
+executing matrix
+G22.mtx finished
+dealing with matrix G23.mtx
+executing matrix
+G23.mtx finished
+dealing with matrix G24.mtx
+executing matrix
+G24.mtx finished
+dealing with matrix G25.mtx
+executing matrix
+G25.mtx finished
+dealing with matrix G26.mtx
+executing matrix
+G26.mtx finished
+dealing with matrix G27.mtx
+executing matrix
+G27.mtx finished
+dealing with matrix G28.mtx
+executing matrix
+G28.mtx finished
+dealing with matrix G29.mtx
+executing matrix
+G29.mtx finished
+dealing with matrix G3.mtx
+executing matrix
+G3.mtx finished
+dealing with matrix G30.mtx
+executing matrix
+G30.mtx finished
+dealing with matrix G31.mtx
+executing matrix
+G31.mtx finished
+dealing with matrix G32.mtx
+executing matrix
+G32.mtx finished
+dealing with matrix G33.mtx
+executing matrix
+G33.mtx finished
+dealing with matrix G34.mtx
+executing matrix
+G34.mtx finished
+dealing with matrix G35.mtx
+executing matrix
+G35.mtx finished
+dealing with matrix G36.mtx
+executing matrix
+G36.mtx finished
+dealing with matrix G37.mtx
+executing matrix
+G37.mtx finished
+dealing with matrix G38.mtx
+executing matrix
+G38.mtx finished
+dealing with matrix G39.mtx
+executing matrix
+G39.mtx finished
+dealing with matrix G4.mtx
+executing matrix
+G4.mtx finished
+dealing with matrix G40.mtx
+executing matrix
+G40.mtx finished
+dealing with matrix G41.mtx
+executing matrix
+G41.mtx finished
+dealing with matrix G42.mtx
+executing matrix
+G42.mtx finished
+dealing with matrix G43.mtx
+executing matrix
+G43.mtx finished
+dealing with matrix G44.mtx
+executing matrix
+G44.mtx finished
+dealing with matrix G45.mtx
+executing matrix
+G45.mtx finished
+dealing with matrix G46.mtx
+executing matrix
+G46.mtx finished
+dealing with matrix G47.mtx
+executing matrix
+G47.mtx finished
+dealing with matrix G48.mtx
+executing matrix
+G48.mtx finished
+dealing with matrix G49.mtx
+executing matrix
+G49.mtx finished
+dealing with matrix G5.mtx
+executing matrix
+G5.mtx finished
+dealing with matrix G50.mtx
+executing matrix
+G50.mtx finished
+dealing with matrix G51.mtx
+executing matrix
+G51.mtx finished
+dealing with matrix G52.mtx
+executing matrix
+G52.mtx finished
+dealing with matrix G53.mtx
+executing matrix
+G53.mtx finished
+dealing with matrix G54.mtx
+executing matrix
+G54.mtx finished
+dealing with matrix G55.mtx
+executing matrix
+G55.mtx finished
+dealing with matrix G56.mtx
+executing matrix
+G56.mtx finished
+dealing with matrix G57.mtx
+executing matrix
+G57.mtx finished
+dealing with matrix G58.mtx
+executing matrix
+G58.mtx finished
+dealing with matrix G59.mtx
+executing matrix
+G59.mtx finished
+dealing with matrix G6.mtx
+executing matrix
+G6.mtx finished
+dealing with matrix G60.mtx
+executing matrix
+G60.mtx finished
+dealing with matrix G61.mtx
+executing matrix
+G61.mtx finished
+dealing with matrix G62.mtx
+executing matrix
+G62.mtx finished
+dealing with matrix G63.mtx
+executing matrix
+G63.mtx finished
+dealing with matrix G64.mtx
+executing matrix
+G64.mtx finished
+dealing with matrix G65.mtx
+executing matrix
+G65.mtx finished
+dealing with matrix G66.mtx
+executing matrix
+G66.mtx finished
+dealing with matrix G67.mtx
+executing matrix
+G67.mtx finished
+dealing with matrix G7.mtx
+executing matrix
+G7.mtx finished
+dealing with matrix G8.mtx
+executing matrix
+G8.mtx finished
+dealing with matrix G9.mtx
+executing matrix
+G9.mtx finished
+dealing with matrix gupta1.mtx
+executing matrix
+gupta1.mtx finished
+dealing with matrix gupta2.mtx
+executing matrix
+gupta2.mtx finished
+dealing with matrix gupta3.mtx
+executing matrix
+gupta3.mtx finished
+dealing with matrix add20.mtx
+executing matrix
+add20.mtx finished
+dealing with matrix add32.mtx
+executing matrix
+add32.mtx finished
+dealing with matrix bcircuit.mtx
+executing matrix
+bcircuit.mtx finished
+dealing with matrix hcircuit.mtx
+executing matrix
+hcircuit.mtx finished
+dealing with matrix memplus.mtx
+executing matrix
+memplus.mtx finished
+dealing with matrix scircuit.mtx
+executing matrix
+scircuit.mtx finished
+dealing with matrix g7jac010.mtx
+executing matrix
+g7jac010.mtx finished
+dealing with matrix g7jac010sc.mtx
+executing matrix
+g7jac010sc.mtx finished
+dealing with matrix g7jac020.mtx
+executing matrix
+g7jac020.mtx finished
+dealing with matrix g7jac020sc.mtx
+executing matrix
+g7jac020sc.mtx finished
+dealing with matrix g7jac040.mtx
+executing matrix
+g7jac040.mtx finished
+dealing with matrix g7jac040sc.mtx
+executing matrix
+g7jac040sc.mtx finished
+dealing with matrix g7jac050sc.mtx
+executing matrix
+g7jac050sc.mtx finished
+dealing with matrix g7jac060.mtx
+executing matrix
+g7jac060.mtx finished
+dealing with matrix g7jac060sc.mtx
+executing matrix
+g7jac060sc.mtx finished
+dealing with matrix g7jac080.mtx
+executing matrix
+g7jac080.mtx finished
+dealing with matrix g7jac080sc.mtx
+executing matrix
+g7jac080sc.mtx finished
+dealing with matrix g7jac100.mtx
+executing matrix
+g7jac100.mtx finished
+dealing with matrix g7jac100sc.mtx
+executing matrix
+g7jac100sc.mtx finished
+dealing with matrix g7jac120.mtx
+executing matrix
+g7jac120.mtx finished
+dealing with matrix g7jac120sc.mtx
+executing matrix
+g7jac120sc.mtx finished
+dealing with matrix g7jac140.mtx
+executing matrix
+g7jac140.mtx finished
+dealing with matrix g7jac140sc.mtx
+executing matrix
+g7jac140sc.mtx finished
+dealing with matrix g7jac160.mtx
+executing matrix
+g7jac160.mtx finished
+dealing with matrix g7jac160sc.mtx
+executing matrix
+g7jac160sc.mtx finished
+dealing with matrix g7jac180.mtx
+executing matrix
+g7jac180.mtx finished
+dealing with matrix g7jac180sc.mtx
+executing matrix
+g7jac180sc.mtx finished
+dealing with matrix g7jac200.mtx
+executing matrix
+g7jac200.mtx finished
+dealing with matrix g7jac200sc.mtx
+executing matrix
+g7jac200sc.mtx finished
+dealing with matrix jan99jac020.mtx
+executing matrix
+jan99jac020.mtx finished
+dealing with matrix jan99jac020sc.mtx
+executing matrix
+jan99jac020sc.mtx finished
+dealing with matrix jan99jac040.mtx
+executing matrix
+jan99jac040.mtx finished
+dealing with matrix jan99jac040sc.mtx
+executing matrix
+jan99jac040sc.mtx finished
+dealing with matrix jan99jac060.mtx
+executing matrix
+jan99jac060.mtx finished
+dealing with matrix jan99jac060sc.mtx
+executing matrix
+jan99jac060sc.mtx finished
+dealing with matrix jan99jac080.mtx
+executing matrix
+jan99jac080.mtx finished
+dealing with matrix jan99jac080sc.mtx
+executing matrix
+jan99jac080sc.mtx finished
+dealing with matrix jan99jac100.mtx
+executing matrix
+jan99jac100.mtx finished
+dealing with matrix jan99jac100sc.mtx
+executing matrix
+jan99jac100sc.mtx finished
+dealing with matrix jan99jac120.mtx
+executing matrix
+jan99jac120.mtx finished
+dealing with matrix jan99jac120sc.mtx
+executing matrix
+jan99jac120sc.mtx finished
+dealing with matrix mark3jac020.mtx
+executing matrix
+mark3jac020.mtx finished
+dealing with matrix mark3jac020sc.mtx
+executing matrix
+mark3jac020sc.mtx finished
+dealing with matrix mark3jac040.mtx
+executing matrix
+mark3jac040.mtx finished
+dealing with matrix mark3jac040sc.mtx
+executing matrix
+mark3jac040sc.mtx finished
+dealing with matrix mark3jac060.mtx
+executing matrix
+mark3jac060.mtx finished
+dealing with matrix mark3jac060sc.mtx
+executing matrix
+mark3jac060sc.mtx finished
+dealing with matrix mark3jac080.mtx
+executing matrix
+mark3jac080.mtx finished
+dealing with matrix mark3jac080sc.mtx
+executing matrix
+mark3jac080sc.mtx finished
+dealing with matrix mark3jac100.mtx
+executing matrix
+mark3jac100.mtx finished
+dealing with matrix mark3jac100sc.mtx
+executing matrix
+mark3jac100sc.mtx finished
+dealing with matrix mark3jac120.mtx
+executing matrix
+mark3jac120.mtx finished
+dealing with matrix mark3jac120sc.mtx
+executing matrix
+mark3jac120sc.mtx finished
+dealing with matrix mark3jac140.mtx
+executing matrix
+mark3jac140.mtx finished
+dealing with matrix mark3jac140sc.mtx
+executing matrix
+mark3jac140sc.mtx finished
+dealing with matrix li.mtx
+executing matrix
+li.mtx finished
+dealing with matrix pli.mtx
+executing matrix
+pli.mtx finished
+dealing with matrix lhr01.mtx
+executing matrix
+lhr01.mtx finished
+dealing with matrix lhr02.mtx
+executing matrix
+lhr02.mtx finished
+dealing with matrix lhr04.mtx
+executing matrix
+lhr04.mtx finished
+dealing with matrix lhr04c.mtx
+executing matrix
+lhr04c.mtx finished
+dealing with matrix lhr07.mtx
+executing matrix
+lhr07.mtx finished
+dealing with matrix lhr07c.mtx
+executing matrix
+lhr07c.mtx finished
+dealing with matrix lhr10.mtx
+executing matrix
+lhr10.mtx finished
+dealing with matrix lhr10c.mtx
+executing matrix
+lhr10c.mtx finished
+dealing with matrix lhr11.mtx
+executing matrix
+lhr11.mtx finished
+dealing with matrix lhr11c.mtx
+executing matrix
+lhr11c.mtx finished
+dealing with matrix lhr14.mtx
+executing matrix
+lhr14.mtx finished
+dealing with matrix lhr14c.mtx
+executing matrix
+lhr14c.mtx finished
+dealing with matrix lhr17.mtx
+executing matrix
+lhr17.mtx finished
+dealing with matrix lhr17c.mtx
+executing matrix
+lhr17c.mtx finished
+dealing with matrix lhr34.mtx
+executing matrix
+lhr34.mtx finished
+dealing with matrix lhr34c.mtx
+executing matrix
+lhr34c.mtx finished
+dealing with matrix lhr71.mtx
+executing matrix
+lhr71.mtx finished
+dealing with matrix lhr71c.mtx
+executing matrix
+lhr71c.mtx finished
+dealing with matrix finan512.mtx
+executing matrix
+finan512.mtx finished
+dealing with matrix pfinan512.mtx
+executing matrix
+pfinan512.mtx finished
+dealing with matrix barth.mtx
+executing matrix
+barth.mtx finished
+dealing with matrix barth4.mtx
+executing matrix
+barth4.mtx finished
+dealing with matrix barth5.mtx
+executing matrix
+barth5.mtx finished
+dealing with matrix nasa2146.mtx
+executing matrix
+nasa2146.mtx finished
+dealing with matrix nasasrb.mtx
+executing matrix
+nasasrb.mtx finished
+dealing with matrix pwt.mtx
+executing matrix
+pwt.mtx finished
+dealing with matrix shuttle_eddy.mtx
+executing matrix
+shuttle_eddy.mtx finished
+dealing with matrix skirt.mtx
+executing matrix
+skirt.mtx finished
+dealing with matrix nemeth01.mtx
+executing matrix
+nemeth01.mtx finished
+dealing with matrix nemeth02.mtx
+executing matrix
+nemeth02.mtx finished
+dealing with matrix nemeth03.mtx
+executing matrix
+nemeth03.mtx finished
+dealing with matrix nemeth04.mtx
+executing matrix
+nemeth04.mtx finished
+dealing with matrix nemeth05.mtx
+executing matrix
+nemeth05.mtx finished
+dealing with matrix nemeth06.mtx
+executing matrix
+nemeth06.mtx finished
+dealing with matrix nemeth07.mtx
+executing matrix
+nemeth07.mtx finished
+dealing with matrix nemeth08.mtx
+executing matrix
+nemeth08.mtx finished
+dealing with matrix nemeth09.mtx
+executing matrix
+nemeth09.mtx finished
+dealing with matrix nemeth10.mtx
+executing matrix
+nemeth10.mtx finished
+dealing with matrix nemeth11.mtx
+executing matrix
+nemeth11.mtx finished
+dealing with matrix nemeth12.mtx
+executing matrix
+nemeth12.mtx finished
+dealing with matrix nemeth13.mtx
+executing matrix
+nemeth13.mtx finished
+dealing with matrix nemeth14.mtx
+executing matrix
+nemeth14.mtx finished
+dealing with matrix nemeth15.mtx
+executing matrix
+nemeth15.mtx finished
+dealing with matrix nemeth16.mtx
+executing matrix
+nemeth16.mtx finished
+dealing with matrix nemeth17.mtx
+executing matrix
+nemeth17.mtx finished
+dealing with matrix nemeth18.mtx
+executing matrix
+nemeth18.mtx finished
+dealing with matrix nemeth19.mtx
+executing matrix
+nemeth19.mtx finished
+dealing with matrix nemeth20.mtx
+executing matrix
+nemeth20.mtx finished
+dealing with matrix nemeth21.mtx
+executing matrix
+nemeth21.mtx finished
+dealing with matrix nemeth22.mtx
+executing matrix
+nemeth22.mtx finished
+dealing with matrix nemeth23.mtx
+executing matrix
+nemeth23.mtx finished
+dealing with matrix nemeth24.mtx
+executing matrix
+nemeth24.mtx finished
+dealing with matrix nemeth25.mtx
+executing matrix
+nemeth25.mtx finished
+dealing with matrix nemeth26.mtx
+executing matrix
+nemeth26.mtx finished
+dealing with matrix aft01.mtx
+executing matrix
+aft01.mtx finished
+dealing with matrix xenon1.mtx
+executing matrix
+xenon1.mtx finished
+dealing with matrix xenon2.mtx
+executing matrix
+xenon2.mtx finished
+dealing with matrix 3dtube.mtx
+executing matrix
+3dtube.mtx finished
+dealing with matrix cfd1.mtx
+executing matrix
+cfd1.mtx finished
+dealing with matrix cfd2.mtx
+executing matrix
+cfd2.mtx finished
+dealing with matrix gearbox.mtx
+executing matrix
+gearbox.mtx finished
+dealing with matrix struct3.mtx
+executing matrix
+struct3.mtx finished
+dealing with matrix struct4.mtx
+executing matrix
+struct4.mtx finished
+dealing with matrix shyy161.mtx
+executing matrix
+shyy161.mtx finished
+dealing with matrix shyy41.mtx
+executing matrix
+shyy41.mtx finished
+dealing with matrix appu.mtx
+executing matrix
+appu.mtx finished
+dealing with matrix bbmat.mtx
+executing matrix
+bbmat.mtx finished
+dealing with matrix olafu.mtx
+executing matrix
+olafu.mtx finished
+dealing with matrix raefsky1.mtx
+executing matrix
+raefsky1.mtx finished
+dealing with matrix raefsky2.mtx
+executing matrix
+raefsky2.mtx finished
+dealing with matrix raefsky3.mtx
+executing matrix
+raefsky3.mtx finished
+dealing with matrix raefsky4.mtx
+executing matrix
+raefsky4.mtx finished
+dealing with matrix raefsky5.mtx
+executing matrix
+raefsky5.mtx finished
+dealing with matrix raefsky6.mtx
+executing matrix
+raefsky6.mtx finished
+dealing with matrix venkat01.mtx
+executing matrix
+venkat01.mtx finished
+dealing with matrix venkat25.mtx
+executing matrix
+venkat25.mtx finished
+dealing with matrix venkat50.mtx
+executing matrix
+venkat50.mtx finished
+dealing with matrix utm1700b.mtx
+executing matrix
+utm1700b.mtx finished
+dealing with matrix utm300.mtx
+executing matrix
+utm300.mtx finished
+dealing with matrix utm3060.mtx
+executing matrix
+utm3060.mtx finished
+dealing with matrix utm5940.mtx
+executing matrix
+utm5940.mtx finished
+dealing with matrix av41092.mtx
+executing matrix
+av41092.mtx finished
+dealing with matrix swang1.mtx
+executing matrix
+swang1.mtx finished
+dealing with matrix swang2.mtx
+executing matrix
+swang2.mtx finished
+dealing with matrix wang1.mtx
+executing matrix
+wang1.mtx finished
+dealing with matrix wang2.mtx
+executing matrix
+wang2.mtx finished
+dealing with matrix wang3.mtx
+executing matrix
+wang3.mtx finished
+dealing with matrix wang4.mtx
+executing matrix
+wang4.mtx finished
+dealing with matrix Zhao1.mtx
+executing matrix
+Zhao1.mtx finished
+dealing with matrix Zhao2.mtx
+executing matrix
+Zhao2.mtx finished
+dealing with matrix extr1.mtx
+executing matrix
+extr1.mtx finished
+dealing with matrix hydr1.mtx
+executing matrix
+hydr1.mtx finished
+dealing with matrix radfr1.mtx
+executing matrix
+radfr1.mtx finished
+dealing with matrix rdist1.mtx
+executing matrix
+rdist1.mtx finished
+dealing with matrix rdist2.mtx
+executing matrix
+rdist2.mtx finished
+dealing with matrix rdist3a.mtx
+executing matrix
+rdist3a.mtx finished
+dealing with matrix k3plates.mtx
+executing matrix
+k3plates.mtx finished
+dealing with matrix m3plates.mtx
+executing matrix
+m3plates.mtx finished
+dealing with matrix qa8fk.mtx
+executing matrix
+qa8fk.mtx finished
+dealing with matrix qa8fm.mtx
+executing matrix
+qa8fm.mtx finished
+dealing with matrix bcsstk39.mtx
+executing matrix
+bcsstk39.mtx finished
+dealing with matrix pkustk01.mtx
+executing matrix
+pkustk01.mtx finished
+dealing with matrix pkustk02.mtx
+executing matrix
+pkustk02.mtx finished
+dealing with matrix pkustk03.mtx
+executing matrix
+pkustk03.mtx finished
+dealing with matrix pkustk04.mtx
+executing matrix
+pkustk04.mtx finished
+dealing with matrix pkustk05.mtx
+executing matrix
+pkustk05.mtx finished
+dealing with matrix pkustk06.mtx
+executing matrix
+pkustk06.mtx finished
+dealing with matrix pkustk07.mtx
+executing matrix
+pkustk07.mtx finished
+dealing with matrix pkustk08.mtx
+executing matrix
+pkustk08.mtx finished
+dealing with matrix pkustk09.mtx
+executing matrix
+pkustk09.mtx finished
+dealing with matrix pkustk10.mtx
+executing matrix
+pkustk10.mtx finished
+dealing with matrix pkustk11.mtx
+executing matrix
+pkustk11.mtx finished
+dealing with matrix pkustk12.mtx
+executing matrix
+pkustk12.mtx finished
+dealing with matrix pkustk13.mtx
+executing matrix
+pkustk13.mtx finished
+dealing with matrix pkustk14.mtx
+executing matrix
+pkustk14.mtx finished
+dealing with matrix pivtol.mtx
+executing matrix
+pivtol.mtx finished
+dealing with matrix comsol.mtx
+executing matrix
+comsol.mtx finished
+dealing with matrix bodyy4.mtx
+executing matrix
+bodyy4.mtx finished
+dealing with matrix bodyy5.mtx
+executing matrix
+bodyy5.mtx finished
+dealing with matrix bodyy6.mtx
+executing matrix
+bodyy6.mtx finished
+dealing with matrix commanche_dual.mtx
+executing matrix
+commanche_dual.mtx finished
+dealing with matrix mesh1e1.mtx
+executing matrix
+mesh1e1.mtx finished
+dealing with matrix mesh1em1.mtx
+executing matrix
+mesh1em1.mtx finished
+dealing with matrix mesh1em6.mtx
+executing matrix
+mesh1em6.mtx finished
+dealing with matrix mesh2e1.mtx
+executing matrix
+mesh2e1.mtx finished
+dealing with matrix mesh2em5.mtx
+executing matrix
+mesh2em5.mtx finished
+dealing with matrix mesh3e1.mtx
+executing matrix
+mesh3e1.mtx finished
+dealing with matrix mesh3em5.mtx
+executing matrix
+mesh3em5.mtx finished
+dealing with matrix onera_dual.mtx
+executing matrix
+onera_dual.mtx finished
+dealing with matrix sphere2.mtx
+executing matrix
+sphere2.mtx finished
+dealing with matrix sphere3.mtx
+executing matrix
+sphere3.mtx finished
+dealing with matrix tandem_dual.mtx
+executing matrix
+tandem_dual.mtx finished
+dealing with matrix tandem_vtx.mtx
+executing matrix
+tandem_vtx.mtx finished
+dealing with matrix fv1.mtx
+executing matrix
+fv1.mtx finished
+dealing with matrix fv2.mtx
+executing matrix
+fv2.mtx finished
+dealing with matrix fv3.mtx
+executing matrix
+fv3.mtx finished
+dealing with matrix heart1.mtx
+executing matrix
+heart1.mtx finished
+dealing with matrix heart2.mtx
+executing matrix
+heart2.mtx finished
+dealing with matrix heart3.mtx
+executing matrix
+heart3.mtx finished
+dealing with matrix lung1.mtx
+executing matrix
+lung1.mtx finished
+dealing with matrix lung2.mtx
+executing matrix
+lung2.mtx finished
+dealing with matrix stomach.mtx
+executing matrix
+stomach.mtx finished
+dealing with matrix torso1.mtx
+executing matrix
+torso1.mtx finished
+dealing with matrix torso2.mtx
+executing matrix
+torso2.mtx finished
+dealing with matrix torso3.mtx
+executing matrix
+torso3.mtx finished
+dealing with matrix e40r0100.mtx
+executing matrix
+e40r0100.mtx finished
+dealing with matrix shermanACa.mtx
+executing matrix
+shermanACa.mtx finished
+dealing with matrix shermanACb.mtx
+executing matrix
+shermanACb.mtx finished
+dealing with matrix shermanACd.mtx
+executing matrix
+shermanACd.mtx finished
+dealing with matrix cage3.mtx
+executing matrix
+cage3.mtx finished
+dealing with matrix cage4.mtx
+executing matrix
+cage4.mtx finished
+dealing with matrix cage5.mtx
+executing matrix
+cage5.mtx finished
+dealing with matrix cage6.mtx
+executing matrix
+cage6.mtx finished
+dealing with matrix cage7.mtx
+executing matrix
+cage7.mtx finished
+dealing with matrix cage8.mtx
+executing matrix
+cage8.mtx finished
+dealing with matrix cage9.mtx
+executing matrix
+cage9.mtx finished
+dealing with matrix cage10.mtx
+executing matrix
+cage10.mtx finished
+dealing with matrix cage11.mtx
+executing matrix
+cage11.mtx finished
+dealing with matrix cage12.mtx
+executing matrix
+cage12.mtx finished
+dealing with matrix cage13.mtx
+executing matrix
+cage13.mtx finished
+dealing with matrix cage14.mtx
+executing matrix
+cage14.mtx finished
+dealing with matrix cage15.mtx
+executing matrix
+cage15.mtx finished
+dealing with matrix fd12.mtx
+executing matrix
+fd12.mtx finished
+dealing with matrix fd15.mtx
+executing matrix
+fd15.mtx finished
+dealing with matrix fd18.mtx
+executing matrix
+fd18.mtx finished
+dealing with matrix sinc12.mtx
+executing matrix
+sinc12.mtx finished
+dealing with matrix sinc15.mtx
+executing matrix
+sinc15.mtx finished
+dealing with matrix sinc18.mtx
+executing matrix
+sinc18.mtx finished
+dealing with matrix Alemdar.mtx
+executing matrix
+Alemdar.mtx finished
+dealing with matrix Andrews.mtx
+executing matrix
+Andrews.mtx finished
+dealing with matrix ns3Da.mtx
+executing matrix
+ns3Da.mtx finished
+dealing with matrix poisson2D.mtx
+executing matrix
+poisson2D.mtx finished
+dealing with matrix poisson3Da.mtx
+executing matrix
+poisson3Da.mtx finished
+dealing with matrix poisson3Db.mtx
+executing matrix
+poisson3Db.mtx finished
+dealing with matrix problem1.mtx
+executing matrix
+problem1.mtx finished
+dealing with matrix sme3Da.mtx
+executing matrix
+sme3Da.mtx finished
+dealing with matrix sme3Db.mtx
+executing matrix
+sme3Db.mtx finished
+dealing with matrix sme3Dc.mtx
+executing matrix
+sme3Dc.mtx finished
+dealing with matrix cell1.mtx
+executing matrix
+cell1.mtx finished
+dealing with matrix cell2.mtx
+executing matrix
+cell2.mtx finished
+dealing with matrix nd3k.mtx
+executing matrix
+nd3k.mtx finished
+dealing with matrix nd6k.mtx
+executing matrix
+nd6k.mtx finished
+dealing with matrix nd12k.mtx
+executing matrix
+nd12k.mtx finished
+dealing with matrix nd24k.mtx
+executing matrix
+nd24k.mtx finished
+dealing with matrix af_shell1.mtx
+executing matrix
+af_shell1.mtx finished
+dealing with matrix af_shell2.mtx
+executing matrix
+af_shell2.mtx finished
+dealing with matrix af_shell3.mtx
+executing matrix
+af_shell3.mtx finished
+dealing with matrix af_shell4.mtx
+executing matrix
+af_shell4.mtx finished
+dealing with matrix af_shell5.mtx
+executing matrix
+af_shell5.mtx finished
+dealing with matrix af_shell6.mtx
+executing matrix
+af_shell6.mtx finished
+dealing with matrix af_shell7.mtx
+executing matrix
+af_shell7.mtx finished
+dealing with matrix af_shell8.mtx
+executing matrix
+af_shell8.mtx finished
+dealing with matrix af_shell9.mtx
+executing matrix
+af_shell9.mtx finished
+dealing with matrix c-62.mtx
+executing matrix
+c-62.mtx finished
+dealing with matrix c-64.mtx
+executing matrix
+c-64.mtx finished
+dealing with matrix c-66.mtx
+executing matrix
+c-66.mtx finished
+dealing with matrix c-67.mtx
+executing matrix
+c-67.mtx finished
+dealing with matrix c-73.mtx
+executing matrix
+c-73.mtx finished
+dealing with matrix 2D_27628_bjtcai.mtx
+executing matrix
+2D_27628_bjtcai.mtx finished
+dealing with matrix 2D_54019_highK.mtx
+executing matrix
+2D_54019_highK.mtx finished
+dealing with matrix 3D_28984_Tetra.mtx
+executing matrix
+3D_28984_Tetra.mtx finished
+dealing with matrix 3D_51448_3D.mtx
+executing matrix
+3D_51448_3D.mtx finished
+dealing with matrix ibm_matrix_2.mtx
+executing matrix
+ibm_matrix_2.mtx finished
+dealing with matrix matrix_9.mtx
+executing matrix
+matrix_9.mtx finished
+dealing with matrix matrix-new_3.mtx
+executing matrix
+matrix-new_3.mtx finished
+dealing with matrix barrier2-10.mtx
+executing matrix
+barrier2-10.mtx finished
+dealing with matrix barrier2-11.mtx
+executing matrix
+barrier2-11.mtx finished
+dealing with matrix barrier2-12.mtx
+executing matrix
+barrier2-12.mtx finished
+dealing with matrix barrier2-1.mtx
+executing matrix
+barrier2-1.mtx finished
+dealing with matrix barrier2-2.mtx
+executing matrix
+barrier2-2.mtx finished
+dealing with matrix barrier2-3.mtx
+executing matrix
+barrier2-3.mtx finished
+dealing with matrix barrier2-4.mtx
+executing matrix
+barrier2-4.mtx finished
+dealing with matrix barrier2-9.mtx
+executing matrix
+barrier2-9.mtx finished
+dealing with matrix igbt3.mtx
+executing matrix
+igbt3.mtx finished
+dealing with matrix nmos3.mtx
+executing matrix
+nmos3.mtx finished
+dealing with matrix ohne2.mtx
+executing matrix
+ohne2.mtx finished
+dealing with matrix para-10.mtx
+executing matrix
+para-10.mtx finished
+dealing with matrix para-4.mtx
+executing matrix
+para-4.mtx finished
+dealing with matrix para-5.mtx
+executing matrix
+para-5.mtx finished
+dealing with matrix para-6.mtx
+executing matrix
+para-6.mtx finished
+dealing with matrix para-7.mtx
+executing matrix
+para-7.mtx finished
+dealing with matrix para-8.mtx
+executing matrix
+para-8.mtx finished
+dealing with matrix para-9.mtx
+executing matrix
+para-9.mtx finished
+dealing with matrix Stanford.mtx
+executing matrix
+Stanford.mtx finished
+dealing with matrix Stanford_Berkeley.mtx
+executing matrix
+Stanford_Berkeley.mtx finished
+dealing with matrix language.mtx
+executing matrix
+language.mtx finished
+dealing with matrix ecl32.mtx
+executing matrix
+ecl32.mtx finished
+dealing with matrix adder_dcop_01.mtx
+executing matrix
+adder_dcop_01.mtx finished
+dealing with matrix adder_dcop_02.mtx
+executing matrix
+adder_dcop_02.mtx finished
+dealing with matrix adder_dcop_03.mtx
+executing matrix
+adder_dcop_03.mtx finished
+dealing with matrix adder_dcop_04.mtx
+executing matrix
+adder_dcop_04.mtx finished
+dealing with matrix adder_dcop_05.mtx
+executing matrix
+adder_dcop_05.mtx finished
+dealing with matrix adder_dcop_06.mtx
+executing matrix
+adder_dcop_06.mtx finished
+dealing with matrix adder_dcop_07.mtx
+executing matrix
+adder_dcop_07.mtx finished
+dealing with matrix adder_dcop_08.mtx
+executing matrix
+adder_dcop_08.mtx finished
+dealing with matrix adder_dcop_09.mtx
+executing matrix
+adder_dcop_09.mtx finished
+dealing with matrix adder_dcop_10.mtx
+executing matrix
+adder_dcop_10.mtx finished
+dealing with matrix adder_dcop_11.mtx
+executing matrix
+adder_dcop_11.mtx finished
+dealing with matrix adder_dcop_12.mtx
+executing matrix
+adder_dcop_12.mtx finished
+dealing with matrix adder_dcop_13.mtx
+executing matrix
+adder_dcop_13.mtx finished
+dealing with matrix adder_dcop_14.mtx
+executing matrix
+adder_dcop_14.mtx finished
+dealing with matrix adder_dcop_15.mtx
+executing matrix
+adder_dcop_15.mtx finished
+dealing with matrix adder_dcop_16.mtx
+executing matrix
+adder_dcop_16.mtx finished
+dealing with matrix adder_dcop_17.mtx
+executing matrix
+adder_dcop_17.mtx finished
+dealing with matrix adder_dcop_18.mtx
+executing matrix
+adder_dcop_18.mtx finished
+dealing with matrix adder_dcop_19.mtx
+executing matrix
+adder_dcop_19.mtx finished
+dealing with matrix adder_dcop_20.mtx
+executing matrix
+adder_dcop_20.mtx finished
+dealing with matrix adder_dcop_21.mtx
+executing matrix
+adder_dcop_21.mtx finished
+dealing with matrix adder_dcop_22.mtx
+executing matrix
+adder_dcop_22.mtx finished
+dealing with matrix adder_dcop_23.mtx
+executing matrix
+adder_dcop_23.mtx finished
+dealing with matrix adder_dcop_24.mtx
+executing matrix
+adder_dcop_24.mtx finished
+dealing with matrix adder_dcop_25.mtx
+executing matrix
+adder_dcop_25.mtx finished
+dealing with matrix adder_dcop_26.mtx
+executing matrix
+adder_dcop_26.mtx finished
+dealing with matrix adder_dcop_27.mtx
+executing matrix
+adder_dcop_27.mtx finished
+dealing with matrix adder_dcop_28.mtx
+executing matrix
+adder_dcop_28.mtx finished
+dealing with matrix adder_dcop_29.mtx
+executing matrix
+adder_dcop_29.mtx finished
+dealing with matrix adder_dcop_30.mtx
+executing matrix
+adder_dcop_30.mtx finished
+dealing with matrix adder_dcop_31.mtx
+executing matrix
+adder_dcop_31.mtx finished
+dealing with matrix adder_dcop_32.mtx
+executing matrix
+adder_dcop_32.mtx finished
+dealing with matrix adder_dcop_33.mtx
+executing matrix
+adder_dcop_33.mtx finished
+dealing with matrix adder_dcop_34.mtx
+executing matrix
+adder_dcop_34.mtx finished
+dealing with matrix adder_dcop_35.mtx
+executing matrix
+adder_dcop_35.mtx finished
+dealing with matrix adder_dcop_36.mtx
+executing matrix
+adder_dcop_36.mtx finished
+dealing with matrix adder_dcop_37.mtx
+executing matrix
+adder_dcop_37.mtx finished
+dealing with matrix adder_dcop_38.mtx
+executing matrix
+adder_dcop_38.mtx finished
+dealing with matrix adder_dcop_39.mtx
+executing matrix
+adder_dcop_39.mtx finished
+dealing with matrix adder_dcop_40.mtx
+executing matrix
+adder_dcop_40.mtx finished
+dealing with matrix adder_dcop_41.mtx
+executing matrix
+adder_dcop_41.mtx finished
+dealing with matrix adder_dcop_42.mtx
+executing matrix
+adder_dcop_42.mtx finished
+dealing with matrix adder_dcop_43.mtx
+executing matrix
+adder_dcop_43.mtx finished
+dealing with matrix adder_dcop_44.mtx
+executing matrix
+adder_dcop_44.mtx finished
+dealing with matrix adder_dcop_45.mtx
+executing matrix
+adder_dcop_45.mtx finished
+dealing with matrix adder_dcop_46.mtx
+executing matrix
+adder_dcop_46.mtx finished
+dealing with matrix adder_dcop_47.mtx
+executing matrix
+adder_dcop_47.mtx finished
+dealing with matrix adder_dcop_48.mtx
+executing matrix
+adder_dcop_48.mtx finished
+dealing with matrix adder_dcop_49.mtx
+executing matrix
+adder_dcop_49.mtx finished
+dealing with matrix adder_dcop_50.mtx
+executing matrix
+adder_dcop_50.mtx finished
+dealing with matrix adder_dcop_51.mtx
+executing matrix
+adder_dcop_51.mtx finished
+dealing with matrix adder_dcop_52.mtx
+executing matrix
+adder_dcop_52.mtx finished
+dealing with matrix adder_dcop_53.mtx
+executing matrix
+adder_dcop_53.mtx finished
+dealing with matrix adder_dcop_54.mtx
+executing matrix
+adder_dcop_54.mtx finished
+dealing with matrix adder_dcop_55.mtx
+executing matrix
+adder_dcop_55.mtx finished
+dealing with matrix adder_dcop_56.mtx
+executing matrix
+adder_dcop_56.mtx finished
+dealing with matrix adder_dcop_57.mtx
+executing matrix
+adder_dcop_57.mtx finished
+dealing with matrix adder_dcop_58.mtx
+executing matrix
+adder_dcop_58.mtx finished
+dealing with matrix adder_dcop_59.mtx
+executing matrix
+adder_dcop_59.mtx finished
+dealing with matrix adder_dcop_60.mtx
+executing matrix
+adder_dcop_60.mtx finished
+dealing with matrix adder_dcop_61.mtx
+executing matrix
+adder_dcop_61.mtx finished
+dealing with matrix adder_dcop_62.mtx
+executing matrix
+adder_dcop_62.mtx finished
+dealing with matrix adder_dcop_63.mtx
+executing matrix
+adder_dcop_63.mtx finished
+dealing with matrix adder_dcop_64.mtx
+executing matrix
+adder_dcop_64.mtx finished
+dealing with matrix adder_dcop_65.mtx
+executing matrix
+adder_dcop_65.mtx finished
+dealing with matrix adder_dcop_66.mtx
+executing matrix
+adder_dcop_66.mtx finished
+dealing with matrix adder_dcop_67.mtx
+executing matrix
+adder_dcop_67.mtx finished
+dealing with matrix adder_dcop_68.mtx
+executing matrix
+adder_dcop_68.mtx finished
+dealing with matrix adder_dcop_69.mtx
+executing matrix
+adder_dcop_69.mtx finished
+dealing with matrix adder_trans_01.mtx
+executing matrix
+adder_trans_01.mtx finished
+dealing with matrix adder_trans_02.mtx
+executing matrix
+adder_trans_02.mtx finished
+dealing with matrix fpga_dcop_01.mtx
+executing matrix
+fpga_dcop_01.mtx finished
+dealing with matrix fpga_dcop_02.mtx
+executing matrix
+fpga_dcop_02.mtx finished
+dealing with matrix fpga_dcop_03.mtx
+executing matrix
+fpga_dcop_03.mtx finished
+dealing with matrix fpga_dcop_04.mtx
+executing matrix
+fpga_dcop_04.mtx finished
+dealing with matrix fpga_dcop_05.mtx
+executing matrix
+fpga_dcop_05.mtx finished
+dealing with matrix fpga_dcop_06.mtx
+executing matrix
+fpga_dcop_06.mtx finished
+dealing with matrix fpga_dcop_07.mtx
+executing matrix
+fpga_dcop_07.mtx finished
+dealing with matrix fpga_dcop_08.mtx
+executing matrix
+fpga_dcop_08.mtx finished
+dealing with matrix fpga_dcop_09.mtx
+executing matrix
+fpga_dcop_09.mtx finished
+dealing with matrix fpga_dcop_10.mtx
+executing matrix
+fpga_dcop_10.mtx finished
+dealing with matrix fpga_dcop_11.mtx
+executing matrix
+fpga_dcop_11.mtx finished
+dealing with matrix fpga_dcop_12.mtx
+executing matrix
+fpga_dcop_12.mtx finished
+dealing with matrix fpga_dcop_13.mtx
+executing matrix
+fpga_dcop_13.mtx finished
+dealing with matrix fpga_dcop_14.mtx
+executing matrix
+fpga_dcop_14.mtx finished
+dealing with matrix fpga_dcop_15.mtx
+executing matrix
+fpga_dcop_15.mtx finished
+dealing with matrix fpga_dcop_16.mtx
+executing matrix
+fpga_dcop_16.mtx finished
+dealing with matrix fpga_dcop_17.mtx
+executing matrix
+fpga_dcop_17.mtx finished
+dealing with matrix fpga_dcop_18.mtx
+executing matrix
+fpga_dcop_18.mtx finished
+dealing with matrix fpga_dcop_19.mtx
+executing matrix
+fpga_dcop_19.mtx finished
+dealing with matrix fpga_dcop_20.mtx
+executing matrix
+fpga_dcop_20.mtx finished
+dealing with matrix fpga_dcop_21.mtx
+executing matrix
+fpga_dcop_21.mtx finished
+dealing with matrix fpga_dcop_22.mtx
+executing matrix
+fpga_dcop_22.mtx finished
+dealing with matrix fpga_dcop_23.mtx
+executing matrix
+fpga_dcop_23.mtx finished
+dealing with matrix fpga_dcop_24.mtx
+executing matrix
+fpga_dcop_24.mtx finished
+dealing with matrix fpga_dcop_25.mtx
+executing matrix
+fpga_dcop_25.mtx finished
+dealing with matrix fpga_dcop_26.mtx
+executing matrix
+fpga_dcop_26.mtx finished
+dealing with matrix fpga_dcop_27.mtx
+executing matrix
+fpga_dcop_27.mtx finished
+dealing with matrix fpga_dcop_28.mtx
+executing matrix
+fpga_dcop_28.mtx finished
+dealing with matrix fpga_dcop_29.mtx
+executing matrix
+fpga_dcop_29.mtx finished
+dealing with matrix fpga_dcop_30.mtx
+executing matrix
+fpga_dcop_30.mtx finished
+dealing with matrix fpga_dcop_31.mtx
+executing matrix
+fpga_dcop_31.mtx finished
+dealing with matrix fpga_dcop_32.mtx
+executing matrix
+fpga_dcop_32.mtx finished
+dealing with matrix fpga_dcop_33.mtx
+executing matrix
+fpga_dcop_33.mtx finished
+dealing with matrix fpga_dcop_34.mtx
+executing matrix
+fpga_dcop_34.mtx finished
+dealing with matrix fpga_dcop_35.mtx
+executing matrix
+fpga_dcop_35.mtx finished
+dealing with matrix fpga_dcop_36.mtx
+executing matrix
+fpga_dcop_36.mtx finished
+dealing with matrix fpga_dcop_37.mtx
+executing matrix
+fpga_dcop_37.mtx finished
+dealing with matrix fpga_dcop_38.mtx
+executing matrix
+fpga_dcop_38.mtx finished
+dealing with matrix fpga_dcop_39.mtx
+executing matrix
+fpga_dcop_39.mtx finished
+dealing with matrix fpga_dcop_40.mtx
+executing matrix
+fpga_dcop_40.mtx finished
+dealing with matrix fpga_dcop_41.mtx
+executing matrix
+fpga_dcop_41.mtx finished
+dealing with matrix fpga_dcop_42.mtx
+executing matrix
+fpga_dcop_42.mtx finished
+dealing with matrix fpga_dcop_43.mtx
+executing matrix
+fpga_dcop_43.mtx finished
+dealing with matrix fpga_dcop_44.mtx
+executing matrix
+fpga_dcop_44.mtx finished
+dealing with matrix fpga_dcop_45.mtx
+executing matrix
+fpga_dcop_45.mtx finished
+dealing with matrix fpga_dcop_46.mtx
+executing matrix
+fpga_dcop_46.mtx finished
+dealing with matrix fpga_dcop_47.mtx
+executing matrix
+fpga_dcop_47.mtx finished
+dealing with matrix fpga_dcop_48.mtx
+executing matrix
+fpga_dcop_48.mtx finished
+dealing with matrix fpga_dcop_49.mtx
+executing matrix
+fpga_dcop_49.mtx finished
+dealing with matrix fpga_dcop_50.mtx
+executing matrix
+fpga_dcop_50.mtx finished
+dealing with matrix fpga_dcop_51.mtx
+executing matrix
+fpga_dcop_51.mtx finished
+dealing with matrix fpga_trans_01.mtx
+executing matrix
+fpga_trans_01.mtx finished
+dealing with matrix fpga_trans_02.mtx
+executing matrix
+fpga_trans_02.mtx finished
+dealing with matrix init_adder1.mtx
+executing matrix
+init_adder1.mtx finished
+dealing with matrix mult_dcop_01.mtx
+executing matrix
+mult_dcop_01.mtx finished
+dealing with matrix mult_dcop_02.mtx
+executing matrix
+mult_dcop_02.mtx finished
+dealing with matrix mult_dcop_03.mtx
+executing matrix
+mult_dcop_03.mtx finished
+dealing with matrix oscil_dcop_01.mtx
+executing matrix
+oscil_dcop_01.mtx finished
+dealing with matrix oscil_dcop_02.mtx
+executing matrix
+oscil_dcop_02.mtx finished
+dealing with matrix oscil_dcop_03.mtx
+executing matrix
+oscil_dcop_03.mtx finished
+dealing with matrix oscil_dcop_04.mtx
+executing matrix
+oscil_dcop_04.mtx finished
+dealing with matrix oscil_dcop_05.mtx
+executing matrix
+oscil_dcop_05.mtx finished
+dealing with matrix oscil_dcop_06.mtx
+executing matrix
+oscil_dcop_06.mtx finished
+dealing with matrix oscil_dcop_07.mtx
+executing matrix
+oscil_dcop_07.mtx finished
+dealing with matrix oscil_dcop_08.mtx
+executing matrix
+oscil_dcop_08.mtx finished
+dealing with matrix oscil_dcop_09.mtx
+executing matrix
+oscil_dcop_09.mtx finished
+dealing with matrix oscil_dcop_10.mtx
+executing matrix
+oscil_dcop_10.mtx finished
+dealing with matrix oscil_dcop_11.mtx
+executing matrix
+oscil_dcop_11.mtx finished
+dealing with matrix oscil_dcop_12.mtx
+executing matrix
+oscil_dcop_12.mtx finished
+dealing with matrix oscil_dcop_13.mtx
+executing matrix
+oscil_dcop_13.mtx finished
+dealing with matrix oscil_dcop_14.mtx
+executing matrix
+oscil_dcop_14.mtx finished
+dealing with matrix oscil_dcop_15.mtx
+executing matrix
+oscil_dcop_15.mtx finished
+dealing with matrix oscil_dcop_16.mtx
+executing matrix
+oscil_dcop_16.mtx finished
+dealing with matrix oscil_dcop_17.mtx
+executing matrix
+oscil_dcop_17.mtx finished
+dealing with matrix oscil_dcop_18.mtx
+executing matrix
+oscil_dcop_18.mtx finished
+dealing with matrix oscil_dcop_19.mtx
+executing matrix
+oscil_dcop_19.mtx finished
+dealing with matrix oscil_dcop_20.mtx
+executing matrix
+oscil_dcop_20.mtx finished
+dealing with matrix oscil_dcop_21.mtx
+executing matrix
+oscil_dcop_21.mtx finished
+dealing with matrix oscil_dcop_22.mtx
+executing matrix
+oscil_dcop_22.mtx finished
+dealing with matrix oscil_dcop_23.mtx
+executing matrix
+oscil_dcop_23.mtx finished
+dealing with matrix oscil_dcop_24.mtx
+executing matrix
+oscil_dcop_24.mtx finished
+dealing with matrix oscil_dcop_25.mtx
+executing matrix
+oscil_dcop_25.mtx finished
+dealing with matrix oscil_dcop_26.mtx
+executing matrix
+oscil_dcop_26.mtx finished
+dealing with matrix oscil_dcop_27.mtx
+executing matrix
+oscil_dcop_27.mtx finished
+dealing with matrix oscil_dcop_28.mtx
+executing matrix
+oscil_dcop_28.mtx finished
+dealing with matrix oscil_dcop_29.mtx
+executing matrix
+oscil_dcop_29.mtx finished
+dealing with matrix oscil_dcop_30.mtx
+executing matrix
+oscil_dcop_30.mtx finished
+dealing with matrix oscil_dcop_31.mtx
+executing matrix
+oscil_dcop_31.mtx finished
+dealing with matrix oscil_dcop_32.mtx
+executing matrix
+oscil_dcop_32.mtx finished
+dealing with matrix oscil_dcop_33.mtx
+executing matrix
+oscil_dcop_33.mtx finished
+dealing with matrix oscil_dcop_34.mtx
+executing matrix
+oscil_dcop_34.mtx finished
+dealing with matrix oscil_dcop_35.mtx
+executing matrix
+oscil_dcop_35.mtx finished
+dealing with matrix oscil_dcop_36.mtx
+executing matrix
+oscil_dcop_36.mtx finished
+dealing with matrix oscil_dcop_37.mtx
+executing matrix
+oscil_dcop_37.mtx finished
+dealing with matrix oscil_dcop_38.mtx
+executing matrix
+oscil_dcop_38.mtx finished
+dealing with matrix oscil_dcop_39.mtx
+executing matrix
+oscil_dcop_39.mtx finished
+dealing with matrix oscil_dcop_40.mtx
+executing matrix
+oscil_dcop_40.mtx finished
+dealing with matrix oscil_dcop_41.mtx
+executing matrix
+oscil_dcop_41.mtx finished
+dealing with matrix oscil_dcop_42.mtx
+executing matrix
+oscil_dcop_42.mtx finished
+dealing with matrix oscil_dcop_43.mtx
+executing matrix
+oscil_dcop_43.mtx finished
+dealing with matrix oscil_dcop_44.mtx
+executing matrix
+oscil_dcop_44.mtx finished
+dealing with matrix oscil_dcop_45.mtx
+executing matrix
+oscil_dcop_45.mtx finished
+dealing with matrix oscil_dcop_46.mtx
+executing matrix
+oscil_dcop_46.mtx finished
+dealing with matrix oscil_dcop_47.mtx
+executing matrix
+oscil_dcop_47.mtx finished
+dealing with matrix oscil_dcop_48.mtx
+executing matrix
+oscil_dcop_48.mtx finished
+dealing with matrix oscil_dcop_49.mtx
+executing matrix
+oscil_dcop_49.mtx finished
+dealing with matrix oscil_dcop_50.mtx
+executing matrix
+oscil_dcop_50.mtx finished
+dealing with matrix oscil_dcop_51.mtx
+executing matrix
+oscil_dcop_51.mtx finished
+dealing with matrix oscil_dcop_52.mtx
+executing matrix
+oscil_dcop_52.mtx finished
+dealing with matrix oscil_dcop_53.mtx
+executing matrix
+oscil_dcop_53.mtx finished
+dealing with matrix oscil_dcop_54.mtx
+executing matrix
+oscil_dcop_54.mtx finished
+dealing with matrix oscil_dcop_55.mtx
+executing matrix
+oscil_dcop_55.mtx finished
+dealing with matrix oscil_dcop_56.mtx
+executing matrix
+oscil_dcop_56.mtx finished
+dealing with matrix oscil_dcop_57.mtx
+executing matrix
+oscil_dcop_57.mtx finished
+dealing with matrix oscil_trans_01.mtx
+executing matrix
+oscil_trans_01.mtx finished
+dealing with matrix Pd.mtx
+executing matrix
+Pd.mtx finished
+dealing with matrix Harvard500.mtx
+executing matrix
+Harvard500.mtx finished
+dealing with matrix cegb2802.mtx
+executing matrix
+cegb2802.mtx finished
+dealing with matrix cegb2919.mtx
+executing matrix
+cegb2919.mtx finished
+dealing with matrix cegb3024.mtx
+executing matrix
+cegb3024.mtx finished
+dealing with matrix cegb3306.mtx
+executing matrix
+cegb3306.mtx finished
+dealing with matrix lap_25.mtx
+executing matrix
+lap_25.mtx finished
+dealing with matrix lock1074.mtx
+executing matrix
+lock1074.mtx finished
+dealing with matrix lock2232.mtx
+executing matrix
+lock2232.mtx finished
+dealing with matrix lock3491.mtx
+executing matrix
+lock3491.mtx finished
+dealing with matrix lock_700.mtx
+executing matrix
+lock_700.mtx finished
+dealing with matrix man_5976.mtx
+executing matrix
+man_5976.mtx finished
+dealing with matrix coupled.mtx
+executing matrix
+coupled.mtx finished
+dealing with matrix Pres_Poisson.mtx
+executing matrix
+Pres_Poisson.mtx finished
+dealing with matrix rajat01.mtx
+executing matrix
+rajat01.mtx finished
+dealing with matrix rajat02.mtx
+executing matrix
+rajat02.mtx finished
+dealing with matrix rajat03.mtx
+executing matrix
+rajat03.mtx finished
+dealing with matrix rajat04.mtx
+executing matrix
+rajat04.mtx finished
+dealing with matrix rajat05.mtx
+executing matrix
+rajat05.mtx finished
+dealing with matrix rajat06.mtx
+executing matrix
+rajat06.mtx finished
+dealing with matrix rajat07.mtx
+executing matrix
+rajat07.mtx finished
+dealing with matrix rajat08.mtx
+executing matrix
+rajat08.mtx finished
+dealing with matrix rajat09.mtx
+executing matrix
+rajat09.mtx finished
+dealing with matrix rajat10.mtx
+executing matrix
+rajat10.mtx finished
+dealing with matrix rajat11.mtx
+executing matrix
+rajat11.mtx finished
+dealing with matrix rajat12.mtx
+executing matrix
+rajat12.mtx finished
+dealing with matrix rajat13.mtx
+executing matrix
+rajat13.mtx finished
+dealing with matrix rajat14.mtx
+executing matrix
+rajat14.mtx finished
+dealing with matrix Hamrle1.mtx
+executing matrix
+Hamrle1.mtx finished
+dealing with matrix Hamrle2.mtx
+executing matrix
+Hamrle2.mtx finished
+dealing with matrix Hamrle3.mtx
+executing matrix
+Hamrle3.mtx finished
+dealing with matrix gyro_k.mtx
+executing matrix
+gyro_k.mtx finished
+dealing with matrix gyro_m.mtx
+executing matrix
+gyro_m.mtx finished
+dealing with matrix t2dah_a.mtx
+executing matrix
+t2dah_a.mtx finished
+dealing with matrix t2dah_e.mtx
+executing matrix
+t2dah_e.mtx finished
+dealing with matrix t2dal_a.mtx
+executing matrix
+t2dal_a.mtx finished
+dealing with matrix t2dal_e.mtx
+executing matrix
+t2dal_e.mtx finished
+dealing with matrix t3dh_a.mtx
+executing matrix
+t3dh_a.mtx finished
+dealing with matrix t3dh_e.mtx
+executing matrix
+t3dh_e.mtx finished
+dealing with matrix t3dl_a.mtx
+executing matrix
+t3dl_a.mtx finished
+dealing with matrix t3dl_e.mtx
+executing matrix
+t3dl_e.mtx finished
+dealing with matrix powersim.mtx
+executing matrix
+powersim.mtx finished
+dealing with matrix Lin.mtx
+executing matrix
+Lin.mtx finished
+dealing with matrix sts4098.mtx
+executing matrix
+sts4098.mtx finished
+dealing with matrix aug2d.mtx
+executing matrix
+aug2d.mtx finished
+dealing with matrix aug2dc.mtx
+executing matrix
+aug2dc.mtx finished
+dealing with matrix aug3d.mtx
+executing matrix
+aug3d.mtx finished
+dealing with matrix aug3dcqp.mtx
+executing matrix
+aug3dcqp.mtx finished
+dealing with matrix bmw3_2.mtx
+executing matrix
+bmw3_2.mtx finished
+dealing with matrix c-55.mtx
+executing matrix
+c-55.mtx finished
+dealing with matrix c-58.mtx
+executing matrix
+c-58.mtx finished
+dealing with matrix c-59.mtx
+executing matrix
+c-59.mtx finished
+dealing with matrix c-62ghs.mtx
+executing matrix
+c-62ghs.mtx finished
+dealing with matrix c-63.mtx
+executing matrix
+c-63.mtx finished
+dealing with matrix c-68.mtx
+executing matrix
+c-68.mtx finished
+dealing with matrix c-69.mtx
+executing matrix
+c-69.mtx finished
+dealing with matrix c-70.mtx
+executing matrix
+c-70.mtx finished
+dealing with matrix c-71.mtx
+executing matrix
+c-71.mtx finished
+dealing with matrix c-72.mtx
+executing matrix
+c-72.mtx finished
+dealing with matrix copter2.mtx
+executing matrix
+copter2.mtx finished
+dealing with matrix d_pretok.mtx
+executing matrix
+d_pretok.mtx finished
+dealing with matrix darcy003.mtx
+executing matrix
+darcy003.mtx finished
+dealing with matrix dawson5.mtx
+executing matrix
+dawson5.mtx finished
+dealing with matrix dtoc.mtx
+executing matrix
+dtoc.mtx finished
+dealing with matrix exdata_1.mtx
+executing matrix
+exdata_1.mtx finished
+dealing with matrix helm2d03.mtx
+executing matrix
+helm2d03.mtx finished
+dealing with matrix helm3d01.mtx
+executing matrix
+helm3d01.mtx finished
+dealing with matrix k1_san.mtx
+executing matrix
+k1_san.mtx finished
+dealing with matrix laser.mtx
+executing matrix
+laser.mtx finished
+dealing with matrix mario001.mtx
+executing matrix
+mario001.mtx finished
+dealing with matrix mario002.mtx
+executing matrix
+mario002.mtx finished
+dealing with matrix ncvxqp1.mtx
+executing matrix
+ncvxqp1.mtx finished
+dealing with matrix ncvxqp9.mtx
+executing matrix
+ncvxqp9.mtx finished
+dealing with matrix olesnik0.mtx
+executing matrix
+olesnik0.mtx finished
+dealing with matrix sit100.mtx
+executing matrix
+sit100.mtx finished
+dealing with matrix stokes128.mtx
+executing matrix
+stokes128.mtx finished
+dealing with matrix stokes64.mtx
+executing matrix
+stokes64.mtx finished
+dealing with matrix stokes64s.mtx
+executing matrix
+stokes64s.mtx finished
+dealing with matrix tuma1.mtx
+executing matrix
+tuma1.mtx finished
+dealing with matrix tuma2.mtx
+executing matrix
+tuma2.mtx finished
+dealing with matrix turon_m.mtx
+executing matrix
+turon_m.mtx finished
+dealing with matrix audikw_1.mtx
+executing matrix
+audikw_1.mtx finished
+dealing with matrix bmw7st_1.mtx
+executing matrix
+bmw7st_1.mtx finished
+dealing with matrix bmwcra_1.mtx
+executing matrix
+bmwcra_1.mtx finished
+dealing with matrix copter1.mtx
+executing matrix
+copter1.mtx finished
+dealing with matrix crankseg_1.mtx
+executing matrix
+crankseg_1.mtx finished
+dealing with matrix crankseg_2.mtx
+executing matrix
+crankseg_2.mtx finished
+dealing with matrix crplat2.mtx
+executing matrix
+crplat2.mtx finished
+dealing with matrix fcondp2.mtx
+executing matrix
+fcondp2.mtx finished
+dealing with matrix finance256.mtx
+executing matrix
+finance256.mtx finished
+dealing with matrix ford1.mtx
+executing matrix
+ford1.mtx finished
+dealing with matrix ford2.mtx
+executing matrix
+ford2.mtx finished
+dealing with matrix fullb.mtx
+executing matrix
+fullb.mtx finished
+dealing with matrix halfb.mtx
+executing matrix
+halfb.mtx finished
+dealing with matrix hood.mtx
+executing matrix
+hood.mtx finished
+dealing with matrix inline_1.mtx
+executing matrix
+inline_1.mtx finished
+dealing with matrix ldoor.mtx
+executing matrix
+ldoor.mtx finished
+dealing with matrix m_t1.mtx
+executing matrix
+m_t1.mtx finished
+dealing with matrix oilpan.mtx
+executing matrix
+oilpan.mtx finished
+dealing with matrix opt1.mtx
+executing matrix
+opt1.mtx finished
+dealing with matrix pds10.mtx
+executing matrix
+pds10.mtx finished
+dealing with matrix ramage02.mtx
+executing matrix
+ramage02.mtx finished
+dealing with matrix s3dkq4m2.mtx
+executing matrix
+s3dkq4m2.mtx finished
+dealing with matrix s3dkt3m2.mtx
+executing matrix
+s3dkt3m2.mtx finished
+dealing with matrix ship_001.mtx
+executing matrix
+ship_001.mtx finished
+dealing with matrix ship_003.mtx
+executing matrix
+ship_003.mtx finished
+dealing with matrix shipsec1.mtx
+executing matrix
+shipsec1.mtx finished
+dealing with matrix shipsec5.mtx
+executing matrix
+shipsec5.mtx finished
+dealing with matrix shipsec8.mtx
+executing matrix
+shipsec8.mtx finished
+dealing with matrix srb1.mtx
+executing matrix
+srb1.mtx finished
+dealing with matrix thread.mtx
+executing matrix
+thread.mtx finished
+dealing with matrix trdheim.mtx
+executing matrix
+trdheim.mtx finished
+dealing with matrix troll.mtx
+executing matrix
+troll.mtx finished
+dealing with matrix tsyl201.mtx
+executing matrix
+tsyl201.mtx finished
+dealing with matrix vanbody.mtx
+executing matrix
+vanbody.mtx finished
+dealing with matrix wathen100.mtx
+executing matrix
+wathen100.mtx finished
+dealing with matrix wathen120.mtx
+executing matrix
+wathen120.mtx finished
+dealing with matrix x104.mtx
+executing matrix
+x104.mtx finished
+dealing with matrix a0nsdsil.mtx
+executing matrix
+a0nsdsil.mtx finished
+dealing with matrix a2nnsnsl.mtx
+executing matrix
+a2nnsnsl.mtx finished
+dealing with matrix a5esindl.mtx
+executing matrix
+a5esindl.mtx finished
+dealing with matrix blockqp1.mtx
+executing matrix
+blockqp1.mtx finished
+dealing with matrix bloweya.mtx
+executing matrix
+bloweya.mtx finished
+dealing with matrix boyd1.mtx
+executing matrix
+boyd1.mtx finished
+dealing with matrix boyd2.mtx
+executing matrix
+boyd2.mtx finished
+dealing with matrix brainpc2.mtx
+executing matrix
+brainpc2.mtx finished
+dealing with matrix bratu3d.mtx
+executing matrix
+bratu3d.mtx finished
+dealing with matrix cont-201.mtx
+executing matrix
+cont-201.mtx finished
+dealing with matrix cont-300.mtx
+executing matrix
+cont-300.mtx finished
+dealing with matrix dixmaanl.mtx
+executing matrix
+dixmaanl.mtx finished
+dealing with matrix linverse.mtx
+executing matrix
+linverse.mtx finished
+dealing with matrix ncvxbqp1.mtx
+executing matrix
+ncvxbqp1.mtx finished
+dealing with matrix ncvxqp3.mtx
+executing matrix
+ncvxqp3.mtx finished
+dealing with matrix ncvxqp5.mtx
+executing matrix
+ncvxqp5.mtx finished
+dealing with matrix ncvxqp7.mtx
+executing matrix
+ncvxqp7.mtx finished
+dealing with matrix sparsine.mtx
+executing matrix
+sparsine.mtx finished
+dealing with matrix spmsrtls.mtx
+executing matrix
+spmsrtls.mtx finished
+dealing with matrix cvxbqp1.mtx
+executing matrix
+cvxbqp1.mtx finished
+dealing with matrix gridgena.mtx
+executing matrix
+gridgena.mtx finished
+dealing with matrix jnlbrng1.mtx
+executing matrix
+jnlbrng1.mtx finished
+dealing with matrix minsurfo.mtx
+executing matrix
+minsurfo.mtx finished
+dealing with matrix obstclae.mtx
+executing matrix
+obstclae.mtx finished
+dealing with matrix torsion1.mtx
+executing matrix
+torsion1.mtx finished
+dealing with matrix rajat15.mtx
+executing matrix
+rajat15.mtx finished
+dealing with matrix airfoil_2d.mtx
+executing matrix
+airfoil_2d.mtx finished
+dealing with matrix dc1.mtx
+executing matrix
+dc1.mtx finished
+dealing with matrix dc2.mtx
+executing matrix
+dc2.mtx finished
+dealing with matrix dc3.mtx
+executing matrix
+dc3.mtx finished
+dealing with matrix trans4.mtx
+executing matrix
+trans4.mtx finished
+dealing with matrix trans5.mtx
+executing matrix
+trans5.mtx finished
+dealing with matrix robot.mtx
+executing matrix
+robot.mtx finished
+dealing with matrix rotor1.mtx
+executing matrix
+rotor1.mtx finished
+dealing with matrix rotor2.mtx
+executing matrix
+rotor2.mtx finished
+dealing with matrix tomography.mtx
+executing matrix
+tomography.mtx finished
+dealing with matrix Kuu.mtx
+executing matrix
+Kuu.mtx finished
+dealing with matrix Muu.mtx
+executing matrix
+Muu.mtx finished
+dealing with matrix std1_Jac2_db.mtx
+executing matrix
+std1_Jac2_db.mtx finished
+dealing with matrix std1_Jac2.mtx
+executing matrix
+std1_Jac2.mtx finished
+dealing with matrix std1_Jac3_db.mtx
+executing matrix
+std1_Jac3_db.mtx finished
+dealing with matrix std1_Jac3.mtx
+executing matrix
+std1_Jac3.mtx finished
+dealing with matrix Zd_Jac2_db.mtx
+executing matrix
+Zd_Jac2_db.mtx finished
+dealing with matrix Zd_Jac2.mtx
+executing matrix
+Zd_Jac2.mtx finished
+dealing with matrix Zd_Jac3_db.mtx
+executing matrix
+Zd_Jac3_db.mtx finished
+dealing with matrix Zd_Jac3.mtx
+executing matrix
+Zd_Jac3.mtx finished
+dealing with matrix Zd_Jac6_db.mtx
+executing matrix
+Zd_Jac6_db.mtx finished
+dealing with matrix Zd_Jac6.mtx
+executing matrix
+Zd_Jac6.mtx finished
+dealing with matrix rajat16.mtx
+executing matrix
+rajat16.mtx finished
+dealing with matrix rajat17.mtx
+executing matrix
+rajat17.mtx finished
+dealing with matrix rajat18.mtx
+executing matrix
+rajat18.mtx finished
+dealing with matrix rajat19.mtx
+executing matrix
+rajat19.mtx finished
+dealing with matrix bundle1.mtx
+executing matrix
+bundle1.mtx finished
+dealing with matrix benzene.mtx
+executing matrix
+benzene.mtx finished
+dealing with matrix CO.mtx
+executing matrix
+CO.mtx finished
+dealing with matrix Ga10As10H30.mtx
+executing matrix
+Ga10As10H30.mtx finished
+dealing with matrix Ga19As19H42.mtx
+executing matrix
+Ga19As19H42.mtx finished
+dealing with matrix Ga3As3H12.mtx
+executing matrix
+Ga3As3H12.mtx finished
+dealing with matrix Ga41As41H72.mtx
+executing matrix
+Ga41As41H72.mtx finished
+dealing with matrix GaAsH6.mtx
+executing matrix
+GaAsH6.mtx finished
+dealing with matrix Ge87H76.mtx
+executing matrix
+Ge87H76.mtx finished
+dealing with matrix Ge99H100.mtx
+executing matrix
+Ge99H100.mtx finished
+dealing with matrix H2O.mtx
+executing matrix
+H2O.mtx finished
+dealing with matrix Na5.mtx
+executing matrix
+Na5.mtx finished
+dealing with matrix Si10H16.mtx
+executing matrix
+Si10H16.mtx finished
+dealing with matrix Si2.mtx
+executing matrix
+Si2.mtx finished
+dealing with matrix Si34H36.mtx
+executing matrix
+Si34H36.mtx finished
+dealing with matrix Si41Ge41H72.mtx
+executing matrix
+Si41Ge41H72.mtx finished
+dealing with matrix Si5H12.mtx
+executing matrix
+Si5H12.mtx finished
+dealing with matrix Si87H76.mtx
+executing matrix
+Si87H76.mtx finished
+dealing with matrix SiH4.mtx
+executing matrix
+SiH4.mtx finished
+dealing with matrix SiNa.mtx
+executing matrix
+SiNa.mtx finished
+dealing with matrix SiO2.mtx
+executing matrix
+SiO2.mtx finished
+dealing with matrix SiO.mtx
+executing matrix
+SiO.mtx finished
+dealing with matrix rajat20.mtx
+executing matrix
+rajat20.mtx finished
+dealing with matrix rajat21.mtx
+executing matrix
+rajat21.mtx finished
+dealing with matrix rajat22.mtx
+executing matrix
+rajat22.mtx finished
+dealing with matrix rajat23.mtx
+executing matrix
+rajat23.mtx finished
+dealing with matrix rajat24.mtx
+executing matrix
+rajat24.mtx finished
+dealing with matrix rajat25.mtx
+executing matrix
+rajat25.mtx finished
+dealing with matrix rajat26.mtx
+executing matrix
+rajat26.mtx finished
+dealing with matrix rajat27.mtx
+executing matrix
+rajat27.mtx finished
+dealing with matrix rajat28.mtx
+executing matrix
+rajat28.mtx finished
+dealing with matrix Sieber.mtx
+executing matrix
+Sieber.mtx finished
+dealing with matrix ins2.mtx
+executing matrix
+ins2.mtx finished
+dealing with matrix lp1.mtx
+executing matrix
+lp1.mtx finished
+dealing with matrix lpl1.mtx
+executing matrix
+lpl1.mtx finished
+dealing with matrix mip1.mtx
+executing matrix
+mip1.mtx finished
+dealing with matrix net100.mtx
+executing matrix
+net100.mtx finished
+dealing with matrix net125.mtx
+executing matrix
+net125.mtx finished
+dealing with matrix net150.mtx
+executing matrix
+net150.mtx finished
+dealing with matrix net25.mtx
+executing matrix
+net25.mtx finished
+dealing with matrix net4-1.mtx
+executing matrix
+net4-1.mtx finished
+dealing with matrix net50.mtx
+executing matrix
+net50.mtx finished
+dealing with matrix net75.mtx
+executing matrix
+net75.mtx finished
+dealing with matrix pattern1.mtx
+executing matrix
+pattern1.mtx finished
+dealing with matrix fp.mtx
+executing matrix
+fp.mtx finished
+dealing with matrix rajat29.mtx
+executing matrix
+rajat29.mtx finished
+dealing with matrix rajat30.mtx
+executing matrix
+rajat30.mtx finished
+dealing with matrix rajat31.mtx
+executing matrix
+rajat31.mtx finished
+dealing with matrix laminar_duct3D.mtx
+executing matrix
+laminar_duct3D.mtx finished
+dealing with matrix Chem97ZtZ.mtx
+executing matrix
+Chem97ZtZ.mtx finished
+dealing with matrix thermal1.mtx
+executing matrix
+thermal1.mtx finished
+dealing with matrix thermal2.mtx
+executing matrix
+thermal2.mtx finished
+dealing with matrix Kaufhold.mtx
+executing matrix
+Kaufhold.mtx finished
+dealing with matrix ted_A.mtx
+executing matrix
+ted_A.mtx finished
+dealing with matrix ted_B.mtx
+executing matrix
+ted_B.mtx finished
+dealing with matrix ted_A_unscaled.mtx
+executing matrix
+ted_A_unscaled.mtx finished
+dealing with matrix ted_B_unscaled.mtx
+executing matrix
+ted_B_unscaled.mtx finished
+dealing with matrix F1.mtx
+executing matrix
+F1.mtx finished
+dealing with matrix G2_circuit.mtx
+executing matrix
+G2_circuit.mtx finished
+dealing with matrix ckt11752_dc_1.mtx
+executing matrix
+ckt11752_dc_1.mtx finished
+dealing with matrix ckt11752_tr_0.mtx
+executing matrix
+ckt11752_tr_0.mtx finished
+dealing with matrix ASIC_100k.mtx
+executing matrix
+ASIC_100k.mtx finished
+dealing with matrix ASIC_100ks.mtx
+executing matrix
+ASIC_100ks.mtx finished
+dealing with matrix ASIC_320k.mtx
+executing matrix
+ASIC_320k.mtx finished
+dealing with matrix ASIC_320ks.mtx
+executing matrix
+ASIC_320ks.mtx finished
+dealing with matrix ASIC_680k.mtx
+executing matrix
+ASIC_680k.mtx finished
+dealing with matrix ASIC_680ks.mtx
+executing matrix
+ASIC_680ks.mtx finished
+dealing with matrix G3_circuit.mtx
+executing matrix
+G3_circuit.mtx finished
+dealing with matrix apache1.mtx
+executing matrix
+apache1.mtx finished
+dealing with matrix apache2.mtx
+executing matrix
+apache2.mtx finished
+dealing with matrix bloweybl.mtx
+executing matrix
+bloweybl.mtx finished
+dealing with matrix bloweybq.mtx
+executing matrix
+bloweybq.mtx finished
+dealing with matrix cvxqp3.mtx
+executing matrix
+cvxqp3.mtx finished
+dealing with matrix qpband.mtx
+executing matrix
+qpband.mtx finished
+dealing with matrix chipcool0.mtx
+executing matrix
+chipcool0.mtx finished
+dealing with matrix chipcool1.mtx
+executing matrix
+chipcool1.mtx finished
+dealing with matrix filter2D.mtx
+executing matrix
+filter2D.mtx finished
+dealing with matrix filter3D.mtx
+executing matrix
+filter3D.mtx finished
+dealing with matrix flowmeter0.mtx
+executing matrix
+flowmeter0.mtx finished
+dealing with matrix flowmeter5.mtx
+executing matrix
+flowmeter5.mtx finished
+dealing with matrix gas_sensor.mtx
+executing matrix
+gas_sensor.mtx finished
+dealing with matrix gyro.mtx
+executing matrix
+gyro.mtx finished
+dealing with matrix inlet.mtx
+executing matrix
+inlet.mtx finished
+dealing with matrix LF10000.mtx
+executing matrix
+LF10000.mtx finished
+dealing with matrix LF10.mtx
+executing matrix
+LF10.mtx finished
+dealing with matrix LFAT5000.mtx
+executing matrix
+LFAT5000.mtx finished
+dealing with matrix LFAT5.mtx
+executing matrix
+LFAT5.mtx finished
+dealing with matrix piston.mtx
+executing matrix
+piston.mtx finished
+dealing with matrix rail_1357.mtx
+executing matrix
+rail_1357.mtx finished
+dealing with matrix rail_20209.mtx
+executing matrix
+rail_20209.mtx finished
+dealing with matrix rail_5177.mtx
+executing matrix
+rail_5177.mtx finished
+dealing with matrix rail_79841.mtx
+executing matrix
+rail_79841.mtx finished
+dealing with matrix spiral.mtx
+executing matrix
+spiral.mtx finished
+dealing with matrix t2dah.mtx
+executing matrix
+t2dah.mtx finished
+dealing with matrix t2dal_bci.mtx
+executing matrix
+t2dal_bci.mtx finished
+dealing with matrix t2dal.mtx
+executing matrix
+t2dal.mtx finished
+dealing with matrix t3dh.mtx
+executing matrix
+t3dh.mtx finished
+dealing with matrix t3dl.mtx
+executing matrix
+t3dl.mtx finished
+dealing with matrix bone010.mtx
+executing matrix
+bone010.mtx finished
+dealing with matrix boneS01.mtx
+executing matrix
+boneS01.mtx finished
+dealing with matrix boneS10.mtx
+executing matrix
+boneS10.mtx finished
+dealing with matrix California.mtx
+executing matrix
+California.mtx finished
+dealing with matrix CSphd.mtx
+executing matrix
+CSphd.mtx finished
+dealing with matrix dictionary28.mtx
+executing matrix
+dictionary28.mtx finished
+dealing with matrix EAT_RS.mtx
+executing matrix
+EAT_RS.mtx finished
+dealing with matrix EAT_SR.mtx
+executing matrix
+EAT_SR.mtx finished
+dealing with matrix EPA.mtx
+executing matrix
+EPA.mtx finished
+dealing with matrix Erdos02.mtx
+executing matrix
+Erdos02.mtx finished
+dealing with matrix Erdos971.mtx
+executing matrix
+Erdos971.mtx finished
+dealing with matrix Erdos972.mtx
+executing matrix
+Erdos972.mtx finished
+dealing with matrix Erdos981.mtx
+executing matrix
+Erdos981.mtx finished
+dealing with matrix Erdos982.mtx
+executing matrix
+Erdos982.mtx finished
+dealing with matrix Erdos991.mtx
+executing matrix
+Erdos991.mtx finished
+dealing with matrix Erdos992.mtx
+executing matrix
+Erdos992.mtx finished
+dealing with matrix EVA.mtx
+executing matrix
+EVA.mtx finished
+dealing with matrix FA.mtx
+executing matrix
+FA.mtx finished
+dealing with matrix foldoc.mtx
+executing matrix
+foldoc.mtx finished
+dealing with matrix football.mtx
+executing matrix
+football.mtx finished
+dealing with matrix GD00_a.mtx
+executing matrix
+GD00_a.mtx finished
+dealing with matrix GD00_c.mtx
+executing matrix
+GD00_c.mtx finished
+dealing with matrix GD01_a.mtx
+executing matrix
+GD01_a.mtx finished
+dealing with matrix GD01_Acap.mtx
+executing matrix
+GD01_Acap.mtx finished
+dealing with matrix GD01_b.mtx
+executing matrix
+GD01_b.mtx finished
+dealing with matrix GD01_c.mtx
+executing matrix
+GD01_c.mtx finished
+dealing with matrix GD02_a.mtx
+executing matrix
+GD02_a.mtx finished
+dealing with matrix GD02_b.mtx
+executing matrix
+GD02_b.mtx finished
+dealing with matrix GD06_Java.mtx
+executing matrix
+GD06_Java.mtx finished
+dealing with matrix GD06_theory.mtx
+executing matrix
+GD06_theory.mtx finished
+dealing with matrix GD95_a.mtx
+executing matrix
+GD95_a.mtx finished
+dealing with matrix GD95_b.mtx
+executing matrix
+GD95_b.mtx finished
+dealing with matrix GD95_c.mtx
+executing matrix
+GD95_c.mtx finished
+dealing with matrix GD96_a.mtx
+executing matrix
+GD96_a.mtx finished
+dealing with matrix GD96_b.mtx
+executing matrix
+GD96_b.mtx finished
+dealing with matrix GD96_c.mtx
+executing matrix
+GD96_c.mtx finished
+dealing with matrix GD96_d.mtx
+executing matrix
+GD96_d.mtx finished
+dealing with matrix GD97_a.mtx
+executing matrix
+GD97_a.mtx finished
+dealing with matrix GD97_b.mtx
+executing matrix
+GD97_b.mtx finished
+dealing with matrix GD97_c.mtx
+executing matrix
+GD97_c.mtx finished
+dealing with matrix GD98_a.mtx
+executing matrix
+GD98_a.mtx finished
+dealing with matrix GD98_b.mtx
+executing matrix
+GD98_b.mtx finished
+dealing with matrix GD98_c.mtx
+executing matrix
+GD98_c.mtx finished
+dealing with matrix GD99_b.mtx
+executing matrix
+GD99_b.mtx finished
+dealing with matrix GD99_c.mtx
+executing matrix
+GD99_c.mtx finished
+dealing with matrix geom.mtx
+executing matrix
+geom.mtx finished
+dealing with matrix GlossGT.mtx
+executing matrix
+GlossGT.mtx finished
+dealing with matrix HEP-th.mtx
+executing matrix
+HEP-th.mtx finished
+dealing with matrix HEP-th-new.mtx
+executing matrix
+HEP-th-new.mtx finished
+dealing with matrix internet.mtx
+executing matrix
+internet.mtx finished
+dealing with matrix Journals.mtx
+executing matrix
+Journals.mtx finished
+dealing with matrix Kohonen.mtx
+executing matrix
+Kohonen.mtx finished
+dealing with matrix Lederberg.mtx
+executing matrix
+Lederberg.mtx finished
+dealing with matrix NotreDame_www.mtx
+executing matrix
+NotreDame_www.mtx finished
+dealing with matrix NotreDame_yeast.mtx
+executing matrix
+NotreDame_yeast.mtx finished
+dealing with matrix ODLIS.mtx
+executing matrix
+ODLIS.mtx finished
+dealing with matrix patents_main.mtx
+executing matrix
+patents_main.mtx finished
+dealing with matrix patents.mtx
+executing matrix
+patents.mtx finished
+dealing with matrix Ragusa16.mtx
+executing matrix
+Ragusa16.mtx finished
+dealing with matrix Ragusa18.mtx
+executing matrix
+Ragusa18.mtx finished
+dealing with matrix Reuters911.mtx
+executing matrix
+Reuters911.mtx finished
+dealing with matrix Roget.mtx
+executing matrix
+Roget.mtx finished
+dealing with matrix Sandi_authors.mtx
+executing matrix
+Sandi_authors.mtx finished
+dealing with matrix SciMet.mtx
+executing matrix
+SciMet.mtx finished
+dealing with matrix SmaGri.mtx
+executing matrix
+SmaGri.mtx finished
+dealing with matrix SmallW.mtx
+executing matrix
+SmallW.mtx finished
+dealing with matrix Stranke94.mtx
+executing matrix
+Stranke94.mtx finished
+dealing with matrix Tina_AskCal.mtx
+executing matrix
+Tina_AskCal.mtx finished
+dealing with matrix Tina_AskCog.mtx
+executing matrix
+Tina_AskCog.mtx finished
+dealing with matrix Tina_DisCal.mtx
+executing matrix
+Tina_DisCal.mtx finished
+dealing with matrix Tina_DisCog.mtx
+executing matrix
+Tina_DisCog.mtx finished
+dealing with matrix USAir97.mtx
+executing matrix
+USAir97.mtx finished
+dealing with matrix USpowerGrid.mtx
+executing matrix
+USpowerGrid.mtx finished
+dealing with matrix Wordnet3.mtx
+executing matrix
+Wordnet3.mtx finished
+dealing with matrix yeast.mtx
+executing matrix
+yeast.mtx finished
+dealing with matrix Zewail.mtx
+executing matrix
+Zewail.mtx finished
+dealing with matrix extr1b.mtx
+executing matrix
+extr1b.mtx finished
+dealing with matrix hydr1c.mtx
+executing matrix
+hydr1c.mtx finished
+dealing with matrix c-18.mtx
+executing matrix
+c-18.mtx finished
+dealing with matrix c-19.mtx
+executing matrix
+c-19.mtx finished
+dealing with matrix c-20.mtx
+executing matrix
+c-20.mtx finished
+dealing with matrix c-21.mtx
+executing matrix
+c-21.mtx finished
+dealing with matrix c-22.mtx
+executing matrix
+c-22.mtx finished
+dealing with matrix c-23.mtx
+executing matrix
+c-23.mtx finished
+dealing with matrix c-24.mtx
+executing matrix
+c-24.mtx finished
+dealing with matrix c-25.mtx
+executing matrix
+c-25.mtx finished
+dealing with matrix c-26.mtx
+executing matrix
+c-26.mtx finished
+dealing with matrix c-27.mtx
+executing matrix
+c-27.mtx finished
+dealing with matrix c-28.mtx
+executing matrix
+c-28.mtx finished
+dealing with matrix c-29.mtx
+executing matrix
+c-29.mtx finished
+dealing with matrix c-30.mtx
+executing matrix
+c-30.mtx finished
+dealing with matrix c-31.mtx
+executing matrix
+c-31.mtx finished
+dealing with matrix c-32.mtx
+executing matrix
+c-32.mtx finished
+dealing with matrix c-33.mtx
+executing matrix
+c-33.mtx finished
+dealing with matrix c-34.mtx
+executing matrix
+c-34.mtx finished
+dealing with matrix c-35.mtx
+executing matrix
+c-35.mtx finished
+dealing with matrix c-36.mtx
+executing matrix
+c-36.mtx finished
+dealing with matrix c-37.mtx
+executing matrix
+c-37.mtx finished
+dealing with matrix c-38.mtx
+executing matrix
+c-38.mtx finished
+dealing with matrix c-39.mtx
+executing matrix
+c-39.mtx finished
+dealing with matrix c-40.mtx
+executing matrix
+c-40.mtx finished
+dealing with matrix c-41.mtx
+executing matrix
+c-41.mtx finished
+dealing with matrix c-42.mtx
+executing matrix
+c-42.mtx finished
+dealing with matrix c-43.mtx
+executing matrix
+c-43.mtx finished
+dealing with matrix c-44.mtx
+executing matrix
+c-44.mtx finished
+dealing with matrix c-45.mtx
+executing matrix
+c-45.mtx finished
+dealing with matrix c-46.mtx
+executing matrix
+c-46.mtx finished
+dealing with matrix c-47.mtx
+executing matrix
+c-47.mtx finished
+dealing with matrix c-48.mtx
+executing matrix
+c-48.mtx finished
+dealing with matrix c-49.mtx
+executing matrix
+c-49.mtx finished
+dealing with matrix c-50.mtx
+executing matrix
+c-50.mtx finished
+dealing with matrix c-51.mtx
+executing matrix
+c-51.mtx finished
+dealing with matrix c-52.mtx
+executing matrix
+c-52.mtx finished
+dealing with matrix c-53.mtx
+executing matrix
+c-53.mtx finished
+dealing with matrix c-54.mtx
+executing matrix
+c-54.mtx finished
+dealing with matrix c-56.mtx
+executing matrix
+c-56.mtx finished
+dealing with matrix c-57.mtx
+executing matrix
+c-57.mtx finished
+dealing with matrix c-60.mtx
+executing matrix
+c-60.mtx finished
+dealing with matrix c-61.mtx
+executing matrix
+c-61.mtx finished
+dealing with matrix c-65.mtx
+executing matrix
+c-65.mtx finished
+dealing with matrix c-big.mtx
+executing matrix
+c-big.mtx finished
+dealing with matrix af_0_k101.mtx
+executing matrix
+af_0_k101.mtx finished
+dealing with matrix af_1_k101.mtx
+executing matrix
+af_1_k101.mtx finished
+dealing with matrix af_2_k101.mtx
+executing matrix
+af_2_k101.mtx finished
+dealing with matrix af_3_k101.mtx
+executing matrix
+af_3_k101.mtx finished
+dealing with matrix af_4_k101.mtx
+executing matrix
+af_4_k101.mtx finished
+dealing with matrix af_5_k101.mtx
+executing matrix
+af_5_k101.mtx finished
+dealing with matrix af_shell10.mtx
+executing matrix
+af_shell10.mtx finished
+dealing with matrix c-64b.mtx
+executing matrix
+c-64b.mtx finished
+dealing with matrix c-66b.mtx
+executing matrix
+c-66b.mtx finished
+dealing with matrix c-67b.mtx
+executing matrix
+c-67b.mtx finished
+dealing with matrix c-73b.mtx
+executing matrix
+c-73b.mtx finished
+dealing with matrix s1rmq4m1.mtx
+executing matrix
+s1rmq4m1.mtx finished
+dealing with matrix s2rmq4m1.mtx
+executing matrix
+s2rmq4m1.mtx finished
+dealing with matrix s3rmq4m1.mtx
+executing matrix
+s3rmq4m1.mtx finished
+dealing with matrix s1rmt3m1.mtx
+executing matrix
+s1rmt3m1.mtx finished
+dealing with matrix s2rmt3m1.mtx
+executing matrix
+s2rmt3m1.mtx finished
+dealing with matrix s3rmt3m1.mtx
+executing matrix
+s3rmt3m1.mtx finished
+dealing with matrix s3rmt3m3.mtx
+executing matrix
+s3rmt3m3.mtx finished
+dealing with matrix cryg10000.mtx
+executing matrix
+cryg10000.mtx finished
+dealing with matrix cryg2500.mtx
+executing matrix
+cryg2500.mtx finished
+dealing with matrix dw2048.mtx
+executing matrix
+dw2048.mtx finished
+dealing with matrix dw8192.mtx
+executing matrix
+dw8192.mtx finished
+dealing with matrix dwa512.mtx
+executing matrix
+dwa512.mtx finished
+dealing with matrix dwb512.mtx
+executing matrix
+dwb512.mtx finished
+dealing with matrix mhd3200a.mtx
+executing matrix
+mhd3200a.mtx finished
+dealing with matrix mhd3200b.mtx
+executing matrix
+mhd3200b.mtx finished
+dealing with matrix mhd4800a.mtx
+executing matrix
+mhd4800a.mtx finished
+dealing with matrix mhd4800b.mtx
+executing matrix
+mhd4800b.mtx finished
+dealing with matrix qh1484.mtx
+executing matrix
+qh1484.mtx finished
+dealing with matrix qh768.mtx
+executing matrix
+qh768.mtx finished
+dealing with matrix rdb1250.mtx
+executing matrix
+rdb1250.mtx finished
+dealing with matrix rdb1250l.mtx
+executing matrix
+rdb1250l.mtx finished
+dealing with matrix rdb200.mtx
+executing matrix
+rdb200.mtx finished
+dealing with matrix rdb200l.mtx
+executing matrix
+rdb200l.mtx finished
+dealing with matrix rdb2048_noL.mtx
+executing matrix
+rdb2048_noL.mtx finished
+dealing with matrix rdb3200l.mtx
+executing matrix
+rdb3200l.mtx finished
+dealing with matrix rdb450.mtx
+executing matrix
+rdb450.mtx finished
+dealing with matrix rdb450l.mtx
+executing matrix
+rdb450l.mtx finished
+dealing with matrix rdb800l.mtx
+executing matrix
+rdb800l.mtx finished
+dealing with matrix tols1090.mtx
+executing matrix
+tols1090.mtx finished
+dealing with matrix tols2000.mtx
+executing matrix
+tols2000.mtx finished
+dealing with matrix tols340.mtx
+executing matrix
+tols340.mtx finished
+dealing with matrix tols4000.mtx
+executing matrix
+tols4000.mtx finished
+dealing with matrix tols90.mtx
+executing matrix
+tols90.mtx finished
+dealing with matrix invextr1_new.mtx
+executing matrix
+invextr1_new.mtx finished
+dealing with matrix mixtank_new.mtx
+executing matrix
+mixtank_new.mtx finished
+dealing with matrix msdoor.mtx
+executing matrix
+msdoor.mtx finished
+dealing with matrix iprob.mtx
+executing matrix
+iprob.mtx finished
+dealing with matrix wb-cs-stanford.mtx
+executing matrix
+wb-cs-stanford.mtx finished
+dealing with matrix wb-edu.mtx
+executing matrix
+wb-edu.mtx finished
+dealing with matrix wikipedia-20051105.mtx
+executing matrix
+wikipedia-20051105.mtx finished
+dealing with matrix wikipedia-20060925.mtx
+executing matrix
+wikipedia-20060925.mtx finished
+dealing with matrix wikipedia-20061104.mtx
+executing matrix
+wikipedia-20061104.mtx finished
+dealing with matrix wikipedia-20070206.mtx
+executing matrix
+wikipedia-20070206.mtx finished
+dealing with matrix Dubcova1.mtx
+executing matrix
+Dubcova1.mtx finished
+dealing with matrix Dubcova2.mtx
+executing matrix
+Dubcova2.mtx finished
+dealing with matrix Dubcova3.mtx
+executing matrix
+Dubcova3.mtx finished
+dealing with matrix BenElechi1.mtx
+executing matrix
+BenElechi1.mtx finished
+dealing with matrix FEM_3D_thermal1.mtx
+executing matrix
+FEM_3D_thermal1.mtx finished
+dealing with matrix FEM_3D_thermal2.mtx
+executing matrix
+FEM_3D_thermal2.mtx finished
+dealing with matrix parabolic_fem.mtx
+executing matrix
+parabolic_fem.mtx finished
+dealing with matrix chem_master1.mtx
+executing matrix
+chem_master1.mtx finished
+dealing with matrix Baumann.mtx
+executing matrix
+Baumann.mtx finished
+dealing with matrix crashbasis.mtx
+executing matrix
+crashbasis.mtx finished
+dealing with matrix majorbasis.mtx
+executing matrix
+majorbasis.mtx finished
+dealing with matrix F2.mtx
+executing matrix
+F2.mtx finished
+dealing with matrix Ill_Stokes.mtx
+executing matrix
+Ill_Stokes.mtx finished
+dealing with matrix Raj1.mtx
+executing matrix
+Raj1.mtx finished
+dealing with matrix Chebyshev1.mtx
+executing matrix
+Chebyshev1.mtx finished
+dealing with matrix Chebyshev2.mtx
+executing matrix
+Chebyshev2.mtx finished
+dealing with matrix Chebyshev3.mtx
+executing matrix
+Chebyshev3.mtx finished
+dealing with matrix Chebyshev4.mtx
+executing matrix
+Chebyshev4.mtx finished
+dealing with matrix viscoplastic1.mtx
+executing matrix
+viscoplastic1.mtx finished
+dealing with matrix viscoplastic2.mtx
+executing matrix
+viscoplastic2.mtx finished
+dealing with matrix hvdc1.mtx
+executing matrix
+hvdc1.mtx finished
+dealing with matrix hvdc2.mtx
+executing matrix
+hvdc2.mtx finished
+dealing with matrix kkt_power.mtx
+executing matrix
+kkt_power.mtx finished
+dealing with matrix viscorocks.mtx
+executing matrix
+viscorocks.mtx finished
+dealing with matrix water_tank.mtx
+executing matrix
+water_tank.mtx finished
+dealing with matrix ecology1.mtx
+executing matrix
+ecology1.mtx finished
+dealing with matrix ecology2.mtx
+executing matrix
+ecology2.mtx finished
+dealing with matrix eurqsa.mtx
+executing matrix
+eurqsa.mtx finished
+dealing with matrix denormal.mtx
+executing matrix
+denormal.mtx finished
+dealing with matrix largebasis.mtx
+executing matrix
+largebasis.mtx finished
+dealing with matrix circuit204.mtx
+executing matrix
+circuit204.mtx finished
+dealing with matrix t2em.mtx
+executing matrix
+t2em.mtx finished
+dealing with matrix tmt_unsym.mtx
+executing matrix
+tmt_unsym.mtx finished
+dealing with matrix tmt_sym.mtx
+executing matrix
+tmt_sym.mtx finished
+dealing with matrix nlpkkt80.mtx
+executing matrix
+nlpkkt80.mtx finished
+dealing with matrix nlpkkt120.mtx
+executing matrix
+nlpkkt120.mtx finished
+dealing with matrix nlpkkt160.mtx
+executing matrix
+nlpkkt160.mtx finished
+dealing with matrix nlpkkt200.mtx
+executing matrix
+nlpkkt200.mtx finished
+dealing with matrix nlpkkt240.mtx
+executing matrix
+nlpkkt240.mtx finished
+dealing with matrix s4dkt3m2.mtx
+executing matrix
+s4dkt3m2.mtx finished
+dealing with matrix g3rmt3m3.mtx
+executing matrix
+g3rmt3m3.mtx finished
+dealing with matrix t520.mtx
+executing matrix
+t520.mtx finished
+dealing with matrix smt.mtx
+executing matrix
+smt.mtx finished
+dealing with matrix engine.mtx
+executing matrix
+engine.mtx finished
+dealing with matrix plbuckle.mtx
+executing matrix
+plbuckle.mtx finished
+dealing with matrix cbuckle.mtx
+executing matrix
+cbuckle.mtx finished
+dealing with matrix cyl6.mtx
+executing matrix
+cyl6.mtx finished
+dealing with matrix tube1.mtx
+executing matrix
+tube1.mtx finished
+dealing with matrix tube2.mtx
+executing matrix
+tube2.mtx finished
+dealing with matrix t2d_q4.mtx
+executing matrix
+t2d_q4.mtx finished
+dealing with matrix t2d_q9.mtx
+executing matrix
+t2d_q9.mtx finished
+dealing with matrix 2cubes_sphere.mtx
+executing matrix
+2cubes_sphere.mtx finished
+dealing with matrix bibd_81_2.mtx
+executing matrix
+bibd_81_2.mtx finished
+dealing with matrix CAG_mat1916.mtx
+executing matrix
+CAG_mat1916.mtx finished
+dealing with matrix CAG_mat364.mtx
+executing matrix
+CAG_mat364.mtx finished
+dealing with matrix CAG_mat72.mtx
+executing matrix
+CAG_mat72.mtx finished
+dealing with matrix ch5-5-b3.mtx
+executing matrix
+ch5-5-b3.mtx finished
+dealing with matrix ch7-8-b5.mtx
+executing matrix
+ch7-8-b5.mtx finished
+dealing with matrix m133-b3.mtx
+executing matrix
+m133-b3.mtx finished
+dealing with matrix n3c6-b1.mtx
+executing matrix
+n3c6-b1.mtx finished
+dealing with matrix n3c6-b7.mtx
+executing matrix
+n3c6-b7.mtx finished
+dealing with matrix shar_te2-b3.mtx
+executing matrix
+shar_te2-b3.mtx finished
+dealing with matrix case39.mtx
+executing matrix
+case39.mtx finished
+dealing with matrix cat_ears_2_1.mtx
+executing matrix
+cat_ears_2_1.mtx finished
+dealing with matrix 08blocks.mtx
+executing matrix
+08blocks.mtx finished
+dealing with matrix Trefethen_20b.mtx
+executing matrix
+Trefethen_20b.mtx finished
+dealing with matrix Trefethen_20.mtx
+executing matrix
+Trefethen_20.mtx finished
+dealing with matrix Trefethen_150.mtx
+executing matrix
+Trefethen_150.mtx finished
+dealing with matrix Trefethen_200b.mtx
+executing matrix
+Trefethen_200b.mtx finished
+dealing with matrix Trefethen_200.mtx
+executing matrix
+Trefethen_200.mtx finished
+dealing with matrix Trefethen_300.mtx
+executing matrix
+Trefethen_300.mtx finished
+dealing with matrix Trefethen_500.mtx
+executing matrix
+Trefethen_500.mtx finished
+dealing with matrix Trefethen_700.mtx
+executing matrix
+Trefethen_700.mtx finished
+dealing with matrix Trefethen_2000.mtx
+executing matrix
+Trefethen_2000.mtx finished
+dealing with matrix Trefethen_20000b.mtx
+executing matrix
+Trefethen_20000b.mtx finished
+dealing with matrix Trefethen_20000.mtx
+executing matrix
+Trefethen_20000.mtx finished
+dealing with matrix case9.mtx
+executing matrix
+case9.mtx finished
+dealing with matrix Freescale1.mtx
+executing matrix
+Freescale1.mtx finished
+dealing with matrix TSOPF_RS_b2383.mtx
+executing matrix
+TSOPF_RS_b2383.mtx finished
+dealing with matrix TSOPF_FS_b300.mtx
+executing matrix
+TSOPF_FS_b300.mtx finished
+dealing with matrix TSOPF_FS_b162_c1.mtx
+executing matrix
+TSOPF_FS_b162_c1.mtx finished
+dealing with matrix TSOPF_FS_b162_c3.mtx
+executing matrix
+TSOPF_FS_b162_c3.mtx finished
+dealing with matrix TSOPF_FS_b162_c4.mtx
+executing matrix
+TSOPF_FS_b162_c4.mtx finished
+dealing with matrix TSOPF_FS_b300_c1.mtx
+executing matrix
+TSOPF_FS_b300_c1.mtx finished
+dealing with matrix TSOPF_FS_b300_c2.mtx
+executing matrix
+TSOPF_FS_b300_c2.mtx finished
+dealing with matrix TSOPF_FS_b300_c3.mtx
+executing matrix
+TSOPF_FS_b300_c3.mtx finished
+dealing with matrix TSOPF_FS_b39_c19.mtx
+executing matrix
+TSOPF_FS_b39_c19.mtx finished
+dealing with matrix TSOPF_FS_b39_c30.mtx
+executing matrix
+TSOPF_FS_b39_c30.mtx finished
+dealing with matrix TSOPF_FS_b39_c7.mtx
+executing matrix
+TSOPF_FS_b39_c7.mtx finished
+dealing with matrix TSOPF_FS_b9_c1.mtx
+executing matrix
+TSOPF_FS_b9_c1.mtx finished
+dealing with matrix TSOPF_FS_b9_c6.mtx
+executing matrix
+TSOPF_FS_b9_c6.mtx finished
+dealing with matrix TSOPF_RS_b162_c1.mtx
+executing matrix
+TSOPF_RS_b162_c1.mtx finished
+dealing with matrix TSOPF_RS_b162_c3.mtx
+executing matrix
+TSOPF_RS_b162_c3.mtx finished
+dealing with matrix TSOPF_RS_b162_c4.mtx
+executing matrix
+TSOPF_RS_b162_c4.mtx finished
+dealing with matrix TSOPF_RS_b2052_c1.mtx
+executing matrix
+TSOPF_RS_b2052_c1.mtx finished
+dealing with matrix TSOPF_RS_b2383_c1.mtx
+executing matrix
+TSOPF_RS_b2383_c1.mtx finished
+dealing with matrix TSOPF_RS_b300_c1.mtx
+executing matrix
+TSOPF_RS_b300_c1.mtx finished
+dealing with matrix TSOPF_RS_b300_c2.mtx
+executing matrix
+TSOPF_RS_b300_c2.mtx finished
+dealing with matrix TSOPF_RS_b300_c3.mtx
+executing matrix
+TSOPF_RS_b300_c3.mtx finished
+dealing with matrix TSOPF_RS_b39_c19.mtx
+executing matrix
+TSOPF_RS_b39_c19.mtx finished
+dealing with matrix TSOPF_RS_b39_c30.mtx
+executing matrix
+TSOPF_RS_b39_c30.mtx finished
+dealing with matrix TSOPF_RS_b39_c7.mtx
+executing matrix
+TSOPF_RS_b39_c7.mtx finished
+dealing with matrix TSOPF_RS_b678_c1.mtx
+executing matrix
+TSOPF_RS_b678_c1.mtx finished
+dealing with matrix TSOPF_RS_b678_c2.mtx
+executing matrix
+TSOPF_RS_b678_c2.mtx finished
+dealing with matrix TSOPF_RS_b9_c6.mtx
+executing matrix
+TSOPF_RS_b9_c6.mtx finished
+dealing with matrix TS.mtx
+executing matrix
+TS.mtx finished
+dealing with matrix thermomech_TC.mtx
+executing matrix
+thermomech_TC.mtx finished
+dealing with matrix thermomech_TK.mtx
+executing matrix
+thermomech_TK.mtx finished
+dealing with matrix thermomech_dM.mtx
+executing matrix
+thermomech_dM.mtx finished
+dealing with matrix thermomech_dK.mtx
+executing matrix
+thermomech_dK.mtx finished
+dealing with matrix shallow_water1.mtx
+executing matrix
+shallow_water1.mtx finished
+dealing with matrix shallow_water2.mtx
+executing matrix
+shallow_water2.mtx finished
+dealing with matrix atmosmodd.mtx
+executing matrix
+atmosmodd.mtx finished
+dealing with matrix atmosmodj.mtx
+executing matrix
+atmosmodj.mtx finished
+dealing with matrix atmosmodl.mtx
+executing matrix
+atmosmodl.mtx finished
+dealing with matrix atmosmodm.mtx
+executing matrix
+atmosmodm.mtx finished
+dealing with matrix ABACUS_shell_ud.mtx
+executing matrix
+ABACUS_shell_ud.mtx finished
+dealing with matrix memchip.mtx
+executing matrix
+memchip.mtx finished
+dealing with matrix transient.mtx
+executing matrix
+transient.mtx finished
+dealing with matrix circuit5M.mtx
+executing matrix
+circuit5M.mtx finished
+dealing with matrix circuit5M_dc.mtx
+executing matrix
+circuit5M_dc.mtx finished
+dealing with matrix poli3.mtx
+executing matrix
+poli3.mtx finished
+dealing with matrix poli4.mtx
+executing matrix
+poli4.mtx finished
+dealing with matrix human_gene1.mtx
+executing matrix
+human_gene1.mtx finished
+dealing with matrix human_gene2.mtx
+executing matrix
+human_gene2.mtx finished
+dealing with matrix mouse_gene.mtx
+executing matrix
+mouse_gene.mtx finished
+dealing with matrix offshore.mtx
+executing matrix
+offshore.mtx finished
+dealing with matrix soc-Epinions1.mtx
+executing matrix
+soc-Epinions1.mtx finished
+dealing with matrix soc-LiveJournal1.mtx
+executing matrix
+soc-LiveJournal1.mtx finished
+dealing with matrix soc-Slashdot0811.mtx
+executing matrix
+soc-Slashdot0811.mtx finished
+dealing with matrix soc-Slashdot0902.mtx
+executing matrix
+soc-Slashdot0902.mtx finished
+dealing with matrix wiki-Vote.mtx
+executing matrix
+wiki-Vote.mtx finished
+dealing with matrix email-EuAll.mtx
+executing matrix
+email-EuAll.mtx finished
+dealing with matrix email-Enron.mtx
+executing matrix
+email-Enron.mtx finished
+dealing with matrix wiki-Talk.mtx
+executing matrix
+wiki-Talk.mtx finished
+dealing with matrix cit-HepPh.mtx
+executing matrix
+cit-HepPh.mtx finished
+dealing with matrix cit-HepTh.mtx
+executing matrix
+cit-HepTh.mtx finished
+dealing with matrix cit-Patents.mtx
+executing matrix
+cit-Patents.mtx finished
+dealing with matrix ca-AstroPh.mtx
+executing matrix
+ca-AstroPh.mtx finished
+dealing with matrix ca-CondMat.mtx
+executing matrix
+ca-CondMat.mtx finished
+dealing with matrix ca-GrQc.mtx
+executing matrix
+ca-GrQc.mtx finished
+dealing with matrix ca-HepPh.mtx
+executing matrix
+ca-HepPh.mtx finished
+dealing with matrix ca-HepTh.mtx
+executing matrix
+ca-HepTh.mtx finished
+dealing with matrix web-BerkStan.mtx
+executing matrix
+web-BerkStan.mtx finished
+dealing with matrix web-Google.mtx
+executing matrix
+web-Google.mtx finished
+dealing with matrix web-NotreDame.mtx
+executing matrix
+web-NotreDame.mtx finished
+dealing with matrix web-Stanford.mtx
+executing matrix
+web-Stanford.mtx finished
+dealing with matrix amazon0302.mtx
+executing matrix
+amazon0302.mtx finished
+dealing with matrix amazon0312.mtx
+executing matrix
+amazon0312.mtx finished
+dealing with matrix amazon0505.mtx
+executing matrix
+amazon0505.mtx finished
+dealing with matrix amazon0601.mtx
+executing matrix
+amazon0601.mtx finished
+dealing with matrix p2p-Gnutella04.mtx
+executing matrix
+p2p-Gnutella04.mtx finished
+dealing with matrix p2p-Gnutella05.mtx
+executing matrix
+p2p-Gnutella05.mtx finished
+dealing with matrix p2p-Gnutella06.mtx
+executing matrix
+p2p-Gnutella06.mtx finished
+dealing with matrix p2p-Gnutella08.mtx
+executing matrix
+p2p-Gnutella08.mtx finished
+dealing with matrix p2p-Gnutella09.mtx
+executing matrix
+p2p-Gnutella09.mtx finished
+dealing with matrix p2p-Gnutella24.mtx
+executing matrix
+p2p-Gnutella24.mtx finished
+dealing with matrix p2p-Gnutella25.mtx
+executing matrix
+p2p-Gnutella25.mtx finished
+dealing with matrix p2p-Gnutella30.mtx
+executing matrix
+p2p-Gnutella30.mtx finished
+dealing with matrix p2p-Gnutella31.mtx
+executing matrix
+p2p-Gnutella31.mtx finished
+dealing with matrix roadNet-CA.mtx
+executing matrix
+roadNet-CA.mtx finished
+dealing with matrix roadNet-PA.mtx
+executing matrix
+roadNet-PA.mtx finished
+dealing with matrix roadNet-TX.mtx
+executing matrix
+roadNet-TX.mtx finished
+dealing with matrix as-735.mtx
+executing matrix
+as-735.mtx finished
+dealing with matrix as-Skitter.mtx
+executing matrix
+as-Skitter.mtx finished
+dealing with matrix as-caida.mtx
+executing matrix
+as-caida.mtx finished
+dealing with matrix Oregon-1.mtx
+executing matrix
+Oregon-1.mtx finished
+dealing with matrix Oregon-2.mtx
+executing matrix
+Oregon-2.mtx finished
+dealing with matrix soc-sign-epinions.mtx
+executing matrix
+soc-sign-epinions.mtx finished
+dealing with matrix soc-sign-Slashdot081106.mtx
+executing matrix
+soc-sign-Slashdot081106.mtx finished
+dealing with matrix soc-sign-Slashdot090216.mtx
+executing matrix
+soc-sign-Slashdot090216.mtx finished
+dealing with matrix soc-sign-Slashdot090221.mtx
+executing matrix
+soc-sign-Slashdot090221.mtx finished
+dealing with matrix gsm_106857.mtx
+executing matrix
+gsm_106857.mtx finished
+dealing with matrix flickr.mtx
+executing matrix
+flickr.mtx finished
+dealing with matrix minnesota.mtx
+executing matrix
+minnesota.mtx finished
+dealing with matrix usroads-48.mtx
+executing matrix
+usroads-48.mtx finished
+dealing with matrix usroads.mtx
+executing matrix
+usroads.mtx finished
+dealing with matrix DK01R.mtx
+executing matrix
+DK01R.mtx finished
+dealing with matrix GT01R.mtx
+executing matrix
+GT01R.mtx finished
+dealing with matrix PR02R.mtx
+executing matrix
+PR02R.mtx finished
+dealing with matrix RM07R.mtx
+executing matrix
+RM07R.mtx finished
+dealing with matrix ww_36_pmec_36.mtx
+executing matrix
+ww_36_pmec_36.mtx finished
+dealing with matrix ww_vref_6405.mtx
+executing matrix
+ww_vref_6405.mtx finished
+dealing with matrix xingo_afonso_itaipu.mtx
+executing matrix
+xingo_afonso_itaipu.mtx finished
+dealing with matrix mimo8x8_system.mtx
+executing matrix
+mimo8x8_system.mtx finished
+dealing with matrix mimo28x28_system.mtx
+executing matrix
+mimo28x28_system.mtx finished
+dealing with matrix mimo46x46_system.mtx
+executing matrix
+mimo46x46_system.mtx finished
+dealing with matrix juba40k.mtx
+executing matrix
+juba40k.mtx finished
+dealing with matrix bauru5727.mtx
+executing matrix
+bauru5727.mtx finished
+dealing with matrix zeros_nopss_13k.mtx
+executing matrix
+zeros_nopss_13k.mtx finished
+dealing with matrix descriptor_xingo6u.mtx
+executing matrix
+descriptor_xingo6u.mtx finished
+dealing with matrix nopss_11k.mtx
+executing matrix
+nopss_11k.mtx finished
+dealing with matrix xingo3012.mtx
+executing matrix
+xingo3012.mtx finished
+dealing with matrix bips98_606.mtx
+executing matrix
+bips98_606.mtx finished
+dealing with matrix bips98_1142.mtx
+executing matrix
+bips98_1142.mtx finished
+dealing with matrix bips98_1450.mtx
+executing matrix
+bips98_1450.mtx finished
+dealing with matrix bips07_1693.mtx
+executing matrix
+bips07_1693.mtx finished
+dealing with matrix bips07_1998.mtx
+executing matrix
+bips07_1998.mtx finished
+dealing with matrix bips07_2476.mtx
+executing matrix
+bips07_2476.mtx finished
+dealing with matrix bips07_3078.mtx
+executing matrix
+bips07_3078.mtx finished
+dealing with matrix M10PI_n1.mtx
+executing matrix
+M10PI_n1.mtx finished
+dealing with matrix M20PI_n1.mtx
+executing matrix
+M20PI_n1.mtx finished
+dealing with matrix M40PI_n1.mtx
+executing matrix
+M40PI_n1.mtx finished
+dealing with matrix M80PI_n1.mtx
+executing matrix
+M80PI_n1.mtx finished
+dealing with matrix M10PI_n.mtx
+executing matrix
+M10PI_n.mtx finished
+dealing with matrix M20PI_n.mtx
+executing matrix
+M20PI_n.mtx finished
+dealing with matrix M40PI_n.mtx
+executing matrix
+M40PI_n.mtx finished
+dealing with matrix M80PI_n.mtx
+executing matrix
+M80PI_n.mtx finished
+dealing with matrix S10PI_n1.mtx
+executing matrix
+S10PI_n1.mtx finished
+dealing with matrix S20PI_n1.mtx
+executing matrix
+S20PI_n1.mtx finished
+dealing with matrix S40PI_n1.mtx
+executing matrix
+S40PI_n1.mtx finished
+dealing with matrix S80PI_n1.mtx
+executing matrix
+S80PI_n1.mtx finished
+dealing with matrix S10PI_n.mtx
+executing matrix
+S10PI_n.mtx finished
+dealing with matrix S20PI_n.mtx
+executing matrix
+S20PI_n.mtx finished
+dealing with matrix S40PI_n.mtx
+executing matrix
+S40PI_n.mtx finished
+dealing with matrix S80PI_n.mtx
+executing matrix
+S80PI_n.mtx finished
+dealing with matrix pdb1HYS.mtx
+executing matrix
+pdb1HYS.mtx finished
+dealing with matrix consph.mtx
+executing matrix
+consph.mtx finished
+dealing with matrix cant.mtx
+executing matrix
+cant.mtx finished
+dealing with matrix mac_econ_fwd500.mtx
+executing matrix
+mac_econ_fwd500.mtx finished
+dealing with matrix mc2depi.mtx
+executing matrix
+mc2depi.mtx finished
+dealing with matrix cop20k_A.mtx
+executing matrix
+cop20k_A.mtx finished
+dealing with matrix webbase-1M.mtx
+executing matrix
+webbase-1M.mtx finished
+dealing with matrix FullChip.mtx
+executing matrix
+FullChip.mtx finished
+dealing with matrix HV15R.mtx
+executing matrix
+HV15R.mtx finished
+dealing with matrix dielFilterV2real.mtx
+executing matrix
+dielFilterV2real.mtx finished
+dealing with matrix dielFilterV3real.mtx
+executing matrix
+dielFilterV3real.mtx finished
+dealing with matrix adjnoun.mtx
+executing matrix
+adjnoun.mtx finished
+dealing with matrix as-22july06.mtx
+executing matrix
+as-22july06.mtx finished
+dealing with matrix astro-ph.mtx
+executing matrix
+astro-ph.mtx finished
+dealing with matrix celegansneural.mtx
+executing matrix
+celegansneural.mtx finished
+dealing with matrix cond-mat.mtx
+executing matrix
+cond-mat.mtx finished
+dealing with matrix cond-mat-2003.mtx
+executing matrix
+cond-mat-2003.mtx finished
+dealing with matrix cond-mat-2005.mtx
+executing matrix
+cond-mat-2005.mtx finished
+dealing with matrix dolphins.mtx
+executing matrix
+dolphins.mtx finished
+dealing with matrix karate.mtx
+executing matrix
+karate.mtx finished
+dealing with matrix lesmis.mtx
+executing matrix
+lesmis.mtx finished
+dealing with matrix netscience.mtx
+executing matrix
+netscience.mtx finished
+dealing with matrix polblogs.mtx
+executing matrix
+polblogs.mtx finished
+dealing with matrix polbooks.mtx
+executing matrix
+polbooks.mtx finished
+dealing with matrix power.mtx
+executing matrix
+power.mtx finished
+dealing with matrix PGPgiantcompo.mtx
+executing matrix
+PGPgiantcompo.mtx finished
+dealing with matrix jazz.mtx
+executing matrix
+jazz.mtx finished
+dealing with matrix celegans_metabolic.mtx
+executing matrix
+celegans_metabolic.mtx finished
+dealing with matrix email.mtx
+executing matrix
+email.mtx finished
+dealing with matrix 3elt.mtx
+executing matrix
+3elt.mtx finished
+dealing with matrix 3elt_dual.mtx
+executing matrix
+3elt_dual.mtx finished
+dealing with matrix airfoil1.mtx
+executing matrix
+airfoil1.mtx finished
+dealing with matrix airfoil1_dual.mtx
+executing matrix
+airfoil1_dual.mtx finished
+dealing with matrix big_dual.mtx
+executing matrix
+big_dual.mtx finished
+dealing with matrix crack.mtx
+executing matrix
+crack.mtx finished
+dealing with matrix crack_dual.mtx
+executing matrix
+crack_dual.mtx finished
+dealing with matrix grid1.mtx
+executing matrix
+grid1.mtx finished
+dealing with matrix grid1_dual.mtx
+executing matrix
+grid1_dual.mtx finished
+dealing with matrix grid2.mtx
+executing matrix
+grid2.mtx finished
+dealing with matrix grid2_dual.mtx
+executing matrix
+grid2_dual.mtx finished
+dealing with matrix netz4504.mtx
+executing matrix
+netz4504.mtx finished
+dealing with matrix netz4504_dual.mtx
+executing matrix
+netz4504_dual.mtx finished
+dealing with matrix ukerbe1.mtx
+executing matrix
+ukerbe1.mtx finished
+dealing with matrix ukerbe1_dual.mtx
+executing matrix
+ukerbe1_dual.mtx finished
+dealing with matrix whitaker3.mtx
+executing matrix
+whitaker3.mtx finished
+dealing with matrix whitaker3_dual.mtx
+executing matrix
+whitaker3_dual.mtx finished
+dealing with matrix brack2.mtx
+executing matrix
+brack2.mtx finished
+dealing with matrix wave.mtx
+executing matrix
+wave.mtx finished
+dealing with matrix diag.mtx
+executing matrix
+diag.mtx finished
+dealing with matrix L.mtx
+executing matrix
+L.mtx finished
+dealing with matrix L-9.mtx
+executing matrix
+L-9.mtx finished
+dealing with matrix stufe.mtx
+executing matrix
+stufe.mtx finished
+dealing with matrix stufe-10.mtx
+executing matrix
+stufe-10.mtx finished
+dealing with matrix biplane-9.mtx
+executing matrix
+biplane-9.mtx finished
+dealing with matrix shock-9.mtx
+executing matrix
+shock-9.mtx finished
+dealing with matrix bfly.mtx
+executing matrix
+bfly.mtx finished
+dealing with matrix cage.mtx
+executing matrix
+cage.mtx finished
+dealing with matrix cca.mtx
+executing matrix
+cca.mtx finished
+dealing with matrix ccc.mtx
+executing matrix
+ccc.mtx finished
+dealing with matrix debr.mtx
+executing matrix
+debr.mtx finished
+dealing with matrix se.mtx
+exterminate called after throwing an instance of 'thrust::system::system_error'
+  what():  cudaErrorIllegalAddress: an illegal memory access was encountered
+Aborted (core dumped)
+terminate called after throwing an instance of 'thrust::system::system_error'
+  what():  cudaErrorIllegalAddress: an illegal memory access was encountered
+Aborted (core dumped)
+ecuting matrix
+se.mtx finished
+dealing with matrix cnr-2000.mtx
+executing matrix
+cnr-2000.mtx finished
+dealing with matrix in-2004.mtx
+executing matrix
+in-2004.mtx finished
+dealing with matrix eu-2005.mtx
+executing matrix
+eu-2005.mtx finished
+dealing with matrix enron.mtx
+executing matrix
+enron.mtx finished
+dealing with matrix amazon-2008.mtx
+executing matrix
+amazon-2008.mtx finished
+dealing with matrix ljournal-2008.mtx
+executing matrix
+ljournal-2008.mtx finished
+dealing with matrix hollywood-2009.mtx
+executing matrix
+hollywood-2009.mtx finished
+dealing with matrix dblp-2010.mtx
+executing matrix
+dblp-2010.mtx finished
+dealing with matrix webbase-2001.mtx
+executing matrix
+webbase-2001.mtx finished
+dealing with matrix uk-2002.mtx
+executing matrix
+uk-2002.mtx finished
+dealing with matrix indochina-2004.mtx
+executing matrix
+indochina-2004.mtx finished
+dealing with matrix arabic-2005.mtx
+executing matrix
+arabic-2005.mtx finished
+dealing with matrix uk-2005.mtx
+executing matrix
+uk-2005.mtx finished
+dealing with matrix caidaRouterLevel.mtx
+executing matrix
+caidaRouterLevel.mtx finished
+dealing with matrix chesapeake.mtx
+executing matrix
+chesapeake.mtx finished
+dealing with matrix road_central.mtx
+executing matrix
+road_central.mtx finished
+dealing with matrix road_usa.mtx
+executing matrix
+road_usa.mtx finished
+dealing with matrix citationCiteseer.mtx
+executing matrix
+citationCiteseer.mtx finished
+dealing with matrix coAuthorsCiteseer.mtx
+executing matrix
+coAuthorsCiteseer.mtx finished
+dealing with matrix coAuthorsDBLP.mtx
+executing matrix
+coAuthorsDBLP.mtx finished
+dealing with matrix coPapersCiteseer.mtx
+executing matrix
+coPapersCiteseer.mtx finished
+dealing with matrix coPapersDBLP.mtx
+executing matrix
+coPapersDBLP.mtx finished
+dealing with matrix delaunay_n10.mtx
+executing matrix
+delaunay_n10.mtx finished
+dealing with matrix delaunay_n11.mtx
+executing matrix
+delaunay_n11.mtx finished
+dealing with matrix delaunay_n12.mtx
+executing matrix
+delaunay_n12.mtx finished
+dealing with matrix delaunay_n13.mtx
+executing matrix
+delaunay_n13.mtx finished
+dealing with matrix delaunay_n14.mtx
+executing matrix
+delaunay_n14.mtx finished
+dealing with matrix delaunay_n15.mtx
+executing matrix
+delaunay_n15.mtx finished
+dealing with matrix delaunay_n16.mtx
+executing matrix
+delaunay_n16.mtx finished
+dealing with matrix delaunay_n17.mtx
+executing matrix
+delaunay_n17.mtx finished
+dealing with matrix delaunay_n18.mtx
+executing matrix
+delaunay_n18.mtx finished
+dealing with matrix delaunay_n19.mtx
+executing matrix
+delaunay_n19.mtx finished
+dealing with matrix delaunay_n20.mtx
+executing matrix
+delaunay_n20.mtx finished
+dealing with matrix delaunay_n21.mtx
+executing matrix
+delaunay_n21.mtx finished
+dealing with matrix delaunay_n22.mtx
+executing matrix
+delaunay_n22.mtx finished
+dealing with matrix delaunay_n23.mtx
+executing matrix
+delaunay_n23.mtx finished
+dealing with matrix delaunay_n24.mtx
+executing matrix
+delaunay_n24.mtx finished
+dealing with matrix hugebubbles-00000.mtx
+executing matrix
+hugebubbles-00000.mtx finished
+dealing with matrix hugebubbles-00010.mtx
+executing matrix
+hugebubbles-00010.mtx finished
+dealing with matrix hugebubbles-00020.mtx
+executing matrix
+hugebubbles-00020.mtx finished
+dealing with matrix hugetrace-00000.mtx
+executing matrix
+hugetrace-00000.mtx finished
+dealing with matrix hugetrace-00010.mtx
+executing matrix
+hugetrace-00010.mtx finished
+dealing with matrix hugetrace-00020.mtx
+executing matrix
+hugetrace-00020.mtx finished
+dealing with matrix hugetric-00000.mtx
+executing matrix
+hugetric-00000.mtx finished
+dealing with matrix hugetric-00010.mtx
+executing matrix
+hugetric-00010.mtx finished
+dealing with matrix hugetric-00020.mtx
+executing matrix
+hugetric-00020.mtx finished
+dealing with matrix kron_g500-logn16.mtx
+executing matrix
+kron_g500-logn16.mtx finished
+dealing with matrix kron_g500-logn17.mtx
+executing matrix
+kron_g500-logn17.mtx finished
+dealing with matrix kron_g500-logn18.mtx
+executing matrix
+kron_g500-logn18.mtx finished
+dealing with matrix kron_g500-logn19.mtx
+executing matrix
+kron_g500-logn19.mtx finished
+dealing witshed
+dealing with matrix TSOPF_RS_b678_c2.mtx
+executing matrix
+TSOPF_RS_b678_c2.mtx finished
+dealing with matrix TSOPF_RS_b9_c6.mtx
+executing matrix
+TSOPF_RS_b9_c6.mtx finished
+dealing with matrix TS.mtx
+executing matrix
+TS.mtx finished
+dealing with matrix thermomech_TC.mtx
+executing matrix
+thermomech_TC.mtx finished
+dealing with matrix thermomech_TK.mtx
+executing matrix
+thermomech_TK.mtx finished
+dealing with matrix thermomech_dM.mtx
+executing matrix
+thermomech_dM.mtx finished
+dealing with matrix thermomech_dK.mtx
+executing matrix
+thermomech_dK.mtx finished
+dealing with matrix shallow_water1.mtx
+executing matrix
+shallow_water1.mtx finished
+dealing with matrix shallow_water2.mtx
+executing matrix
+shallow_water2.mtx finished
+dealing with matrix atmosmodd.mtx
+executing matrix
+atmosmodd.mtx finished
+dealing with matrix atmosmodj.mtx
+executing matrix
+atmosmodj.mtx finished
+dealing with matrix atmosmodl.mtx
+executing matrix
+atmosmodl.mtx finished
+dealing with matrix atmosmodm.mtx
+executing matrix
+atmosmodm.mtx finished
+dealing with matrix ABACUS_shell_ud.mtx
+executing matrix
+ABACUS_shell_ud.mtx finished
+dealing with matrix memchip.mtx
+executing matrix
+memchip.mtx finished
+dealing with matrix transient.mtx
+executing matrix
+transient.mtx finished
+dealing with matrix circuit5M.mtx
+executing matrix
+circuit5M.mtx finished
+dealing with matrix circuit5M_dc.mtx
+executing matrix
+circuit5M_dc.mtx finished
+dealing with matrix poli3.mtx
+executing matrix
+poli3.mtx finished
+dealing with matrix poli4.mtx
+executing matrix
+poli4.mtx finished
+dealing with matrix human_gene1.mtx
+executing matrix
+human_gene1.mtx finished
+dealing with matrix human_gene2.mtx
+executing matrix
+human_gene2.mtx finished
+dealing with matrix mouse_gene.mtx
+executing matrix
+mouse_gene.mtx finished
+dealing with matrix offshore.mtx
+executing matrix
+offshore.mtx finished
+dealing with matrix soc-Epinions1.mtx
+executing matrix
+soc-Epinions1.mtx finished
+dealing with matrix soc-LiveJournal1.mtx
+executing matrix
+soc-LiveJournal1.mtx finished
+dealing with matrix soc-Slashdot0811.mtx
+executing matrix
+soc-Slashdot0811.mtx finished
+dealing with matrix soc-Slashdot0902.mtx
+executing matrix
+soc-Slashdot0902.mtx finished
+dealing with matrix wiki-Vote.mtx
+executing matrix
+wiki-Vote.mtx finished
+dealing with matrix email-EuAll.mtx
+executing matrix
+email-EuAll.mtx finished
+dealing with matrix email-Enron.mtx
+executing matrix
+email-Enron.mtx finished
+dealing with matrix wiki-Talk.mtx
+executing matrix
+wiki-Talk.mtx finished
+dealing with matrix cit-HepPh.mtx
+executing matrix
+cit-HepPh.mtx finished
+dealing with matrix cit-HepTh.mtx
+executing matrix
+cit-HepTh.mtx finished
+dealing with matrix cit-Patents.mtx
+executing matrix
+cit-Patents.mtx finished
+dealing with matrix ca-AstroPh.mtx
+executing matrix
+ca-AstroPh.mtx finished
+dealing with matrix ca-CondMat.mtx
+executing matrix
+ca-CondMat.mtx finished
+dealing with matrix ca-GrQc.mtx
+executing matrix
+ca-GrQc.mtx finished
+dealing with matrix ca-HepPh.mtx
+executing matrix
+ca-HepPh.mtx finished
+dealing with matrix ca-HepTh.mtx
+executing matrix
+ca-HepTh.mtx finished
+dealing with matrix web-BerkStan.mtx
+executing matrix
+web-BerkStan.mtx finished
+dealing with matrix web-Google.mtx
+executing matrix
+web-Google.mtx finished
+dealing with matrix web-NotreDame.mtx
+executing matrix
+web-NotreDame.mtx finished
+dealing with matrix web-Stanford.mtx
+executing matrix
+web-Stanford.mtx finished
+dealing with matrix amazon0302.mtx
+executing matrix
+amazon0302.mtx finished
+dealing with matrix amazon0312.mtx
+executing matrix
+amazon0312.mtx finished
+dealing with matrix amazon0505.mtx
+executing matrix
+amazon0505.mtx finished
+dealing with matrix amazon0601.mtx
+executing matrix
+amazon0601.mtx finished
+dealing with matrix p2p-Gnutella04.mtx
+executing matrix
+p2p-Gnutella04.mtx finished
+dealing with matrix p2p-Gnutella05.mtx
+executing matrix
+p2p-Gnutella05.mtx finished
+dealing with matrix p2p-Gnutella06.mtx
+executing matrix
+p2p-Gnutella06.mtx finished
+dealing with matrix p2p-Gnutella08.mtx
+executing matrix
+p2p-Gnutella08.mtx finished
+dealing with matrix p2p-Gnutella09.mtx
+executing matrix
+p2p-Gnutella09.mtx finished
+dealing with matrix p2p-Gnutella24.mtx
+executing matrix
+p2p-Gnutella24.mtx finished
+dealing with matrix p2p-Gnutella25.mtx
+executing matrix
+p2p-Gnutella25.mtx finished
+dealing with matrix p2p-Gnutella30.mtx
+executing matrix
+p2p-Gnutella30.mtx finished
+dealing with matrix p2p-Gnutella31.mtx
+executing matrix
+p2p-Gnutella31.mtx finished
+dealing with matrix roadNet-CA.mtx
+executing matrix
+roadNet-CA.mtx finished
+dealing with matrix roadNet-PA.mtx
+executing matrix
+roadNet-PA.mtx finished
+dealing with matrix roadNet-TX.mtx
+executing matrix
+roadNet-TX.mtx finished
+dealing with matrix as-735.mtx
+executing matrix
+as-735.mtx finished
+dealing with matrix as-Skitter.mtx
+executing matrix
+as-Skitter.mtx finished
+dealing with matrix as-caida.mtx
+executing matrix
+as-caida.mtx finished
+dealing with matrix Oregon-1.mtx
+executing matrix
+Oregon-1.mtx finished
+dealing with matrix Oregon-2.mtx
+executing matrix
+Oregon-2.mtx finished
+dealing with matrix soc-sign-epinions.mtx
+executing matrix
+soc-sign-epinions.mtx finished
+dealing with matrix soc-sign-Slashdot081106.mtx
+executing matrix
+soc-sign-Slashdot081106.mtx finished
+dealing with matrix soc-sign-Slashdot090216.mtx
+executing matrix
+soc-sign-Slashdot090216.mtx finished
+dealing with matrix soc-sign-Slashdot090221.mtx
+executing matrix
+soc-sign-Slashdot090221.mtx finished
+dealing with matrix gsm_106857.mtx
+executing matrix
+gsm_106857.mtx finished
+dealing with matrix flickr.mtx
+executing matrix
+flickr.mtx finished
+dealing with matrix minnesota.mtx
+executing matrix
+minnesota.mtx finished
+dealing with matrix usroads-48.mtx
+executing matrix
+usroads-48.mtx finished
+dealing with matrix usroads.mtx
+executing matrix
+usroads.mtx finished
+dealing with matrix DK01R.mtx
+executing matrix
+DK01R.mtx finished
+dealing with matrix GT01R.mtx
+executing matrix
+GT01R.mtx finished
+dealing with matrix PR02R.mtx
+executing matrix
+PR02R.mtx finished
+dealing with matrix RM07R.mtx
+executing matrix
+RM07R.mtx finished
+dealing with matrix ww_36_pmec_36.mtx
+executing matrix
+ww_36_pmec_36.mtx finished
+dealing with matrix ww_vref_6405.mtx
+executing matrix
+ww_vref_6405.mtx finished
+dealing with matrix xingo_afonso_itaipu.mtx
+executing matrix
+xingo_afonso_itaipu.mtx finished
+dealing with matrix mimo8x8_system.mtx
+executing matrix
+mimo8x8_system.mtx finished
+dealing with matrix mimo28x28_system.mtx
+executing matrix
+mimo28x28_system.mtx finished
+dealing with matrix mimo46x46_system.mtx
+executing matrix
+mimo46x46_system.mtx finished
+dealing with matrix juba40k.mtx
+executing matrix
+juba40k.mtx finished
+dealing with matrix bauru5727.mtx
+executing matrix
+bauru5727.mtx finished
+dealing with matrix zeros_nopss_13k.mtx
+executing matrix
+zeros_nopss_13k.mtx finished
+dealing with matrix descriptor_xingo6u.mtx
+executing matrix
+descriptor_xingo6u.mtx finished
+dealing with matrix nopss_11k.mtx
+executing matrix
+nopss_11k.mtx finished
+dealing with matrix xingo3012.mtx
+executing matrix
+xingo3012.mtx finished
+dealing with matrix bips98_606.mtx
+executing matrix
+bips98_606.mtx finished
+dealing with matrix bips98_1142.mtx
+executing matrix
+bips98_1142.mtx finished
+dealing with matrix bips98_1450.mtx
+executing matrix
+bips98_1450.mtx finished
+dealing with matrix bips07_1693.mtx
+executing matrix
+bips07_1693.mtx finished
+dealing with matrix bips07_1998.mtx
+executing matrix
+bips07_1998.mtx finished
+dealing with matrix bips07_2476.mtx
+executing matrix
+bips07_2476.mtx finished
+dealing with matrix bips07_3078.mtx
+executing matrix
+bips07_3078.mtx finished
+dealing with matrix M10PI_n1.mtx
+executing matrix
+M10PI_n1.mtx finished
+dealing with matrix M20PI_n1.mtx
+executing matrix
+M20PI_n1.mtx finished
+dealing with matrix M40PI_n1.mtx
+executing matrix
+M40PI_n1.mtx finished
+dealing with matrix M80PI_n1.mtx
+executing matrix
+M80PI_n1.mtx finished
+dealing with matrix M10PI_n.mtx
+executing matrix
+M10PI_n.mtx finished
+dealing with matrix M20PI_n.mtx
+executing matrix
+M20PI_n.mtx finished
+dealing with matrix M40PI_n.mtx
+executing matrix
+M40PI_n.mtx finished
+dealing with matrix M80PI_n.mtx
+executing matrix
+M80PI_n.mtx finished
+dealing with matrix S10PI_n1.mtx
+executing matrix
+S10PI_n1.mtx finished
+dealing with matrix S20PI_n1.mtx
+executing matrix
+S20PI_n1.mtx finished
+dealing with matrix S40PI_n1.mtx
+executing matrix
+S40PI_n1.mtx finished
+dealing with matrix S80PI_n1.mtx
+executing matrix
+S80PI_n1.mtx finished
+dealing with matrix S10PI_n.mtx
+executing matrix
+S10PI_n.mtx finished
+dealing with matrix S20PI_n.mtx
+executing matrix
+S20PI_n.mtx finished
+dealing with matrix S40PI_n.mtx
+executing matrix
+S40PI_n.mtx finished
+dealing with matrix S80PI_n.mtx
+executing matrix
+S80PI_n.mtx finished
+dealing with matrix pdb1HYS.mtx
+executing matrix
+pdb1HYS.mtx finished
+dealing with matrix consph.mtx
+executing matrix
+consph.mtx finished
+dealing with matrix cant.mtx
+executing matrix
+cant.mtx finished
+dealing with matrix mac_econ_fwd500.mtx
+executing matrix
+mac_econ_fwd500.mtx finished
+dealing with matrix mc2depi.mtx
+executing matrix
+mc2depi.mtx finished
+dealing with matrix cop20k_A.mtx
+executing matrix
+cop20k_A.mtx finished
+dealing with matrix webbase-1M.mtx
+executing matrix
+webbase-1M.mtx finished
+dealing with matrix FullChip.mtx
+executing matrix
+FullChip.mtx finished
+dealing with matrix HV15R.mtx
+executing matrix
+HV15R.mtx finished
+dealing with matrix dielFilterV2real.mtx
+executing matrix
+dielFilterV2real.mtx finished
+dealing with matrix dielFilterV3real.mtx
+executing matrix
+dielFilterV3real.mtx finished
+dealing with matrix adjnoun.mtx
+executing matrix
+adjnoun.mtx finished
+dealing with matrix as-22july06.mtx
+executing matrix
+as-22july06.mtx finished
+dealing with matrix astro-ph.mtx
+executing matrix
+astro-ph.mtx finished
+dealing with matrix celegansneural.mtx
+executing matrix
+celegansneural.mtx finished
+dealing with matrix cond-mat.mtx
+executing matrix
+cond-mat.mtx finished
+dealing with matrix cond-mat-2003.mtx
+executing matrix
+cond-mat-2003.mtx finished
+dealing with matrix cond-mat-2005.mtx
+executing matrix
+cond-mat-2005.mtx finished
+dealing with matrix dolphins.mtx
+executing matrix
+dolphins.mtx finished
+dealing with matrix karate.mtx
+executing matrix
+karate.mtx finished
+dealing with matrix lesmis.mtx
+executing matrix
+lesmis.mtx finished
+dealing with matrix netscience.mtx
+executing matrix
+netscience.mtx finished
+dealing with matrix polblogs.mtx
+executing matrix
+polblogs.mtx finished
+dealing with matrix polbooks.mtx
+executing matrix
+polbooks.mtx finished
+dealing with matrix power.mtx
+executing matrix
+power.mtx finished
+dealing with matrix PGPgiantcompo.mtx
+executing matrix
+PGPgiantcompo.mtx finished
+dealing with matrix jazz.mtx
+executing matrix
+jazz.mtx finished
+dealing with matrix celegans_metabolic.mtx
+executing matrix
+celegans_metabolic.mtx finished
+dealing with matrix email.mtx
+executing matrix
+email.mtx finished
+dealing with matrix 3elt.mtx
+executing matrix
+3elt.mtx finished
+dealing with matrix 3elt_dual.mtx
+executing matrix
+3elt_dual.mtx finished
+dealing with matrix airfoil1.mtx
+executing matrix
+airfoil1.mtx finished
+dealing with matrix airfoil1_dual.mtx
+executing matrix
+airfoil1_dual.mtx finished
+dealing with matrix big_dual.mtx
+executing matrix
+big_dual.mtx finished
+dealing with matrix crack.mtx
+executing matrix
+crack.mtx finished
+dealing with matrix crack_dual.mtx
+executing matrix
+crack_dual.mtx finished
+dealing with matrix grid1.mtx
+executing matrix
+grid1.mtx finished
+dealing with matrix grid1_dual.mtx
+executing matrix
+grid1_dual.mtx finished
+dealing with matrix grid2.mtx
+executing matrix
+grid2.mtx finished
+dealing with matrix grid2_dual.mtx
+executing matrix
+grid2_dual.mtx finished
+dealing with matrix netz4504.mtx
+executing matrix
+netz4504.mtx finished
+dealing with matrix netz4504_dual.mtx
+executing matrix
+netz4504_dual.mtx finished
+dealing with matrix ukerbe1.mtx
+executing matrix
+ukerbe1.mtx finished
+dealing with matrix ukerbe1_dual.mtx
+executing matrix
+ukerbe1_dual.mtx finished
+dealing with matrix whitaker3.mtx
+executing matrix
+whitaker3.mtx finished
+dealing with matrix whitaker3_dual.mtx
+executing matrix
+whitaker3_dual.mtx finished
+dealing with matrix brack2.mtx
+executing matrix
+brack2.mtx finished
+dealing with matrix wave.mtx
+executing matrix
+wave.mtx finished
+dealing with matrix diag.mtx
+executing matrix
+diag.mtx finished
+dealing with matrix L.mtx
+executing matrix
+L.mtx finished
+dealing with matrix L-9.mtx
+executing matrix
+L-9.mtx finished
+dealing with matrix stufe.mtx
+executing matrix
+stufe.mtx finished
+dealing with matrix stufe-10.mtx
+executing matrix
+stufe-10.mtx finished
+dealing with matrix biplane-9.mtx
+executing matrix
+biplane-9.mtx finished
+dealing with matrix shock-9.mtx
+executing matrix
+shock-9.mtx finished
+dealing with matrix bfly.mtx
+executing matrix
+bfly.mtx finished
+dealing with matrix cage.mtx
+executing matrix
+cage.mtx finished
+dealing with matrix cca.mtx
+executing matrix
+cca.mtx finished
+dealing with matrix ccc.mtx
+executing matrix
+ccc.mtx finished
+dealing with matrix debr.mtx
+executing matrix
+debr.mtx finished
+dealing with matrix se.mtx
+exterminate called after throwing an instance of 'thrust::system::system_error'
+  what():  cudaErrorIllegalAddress: an illegal memory access was encountered
+Aborted (core dumped)
+terminate called after throwing an instance of 'thrust::system::system_error'
+  what():  cudaErrorIllegalAddress: an illegal memory access was encountered
+Aborted (core dumped)
+ecuting matrix
+se.mtx finished
+dealing with matrix cnr-2000.mtx
+executing matrix
+cnr-2000.mtx finished
+dealing with matrix in-2004.mtx
+executing matrix
+in-2004.mtx finished
+dealing with matrix eu-2005.mtx
+executing matrix
+eu-2005.mtx finished
+dealing with matrix enron.mtx
+executing matrix
+enron.mtx finished
+dealing with matrix amazon-2008.mtx
+executing matrix
+amazon-2008.mtx finished
+dealing with matrix ljournal-2008.mtx
+executing matrix
+ljournal-2008.mtx finished
+dealing with matrix hollywood-2009.mtx
+executing matrix
+hollywood-2009.mtx finished
+dealing with matrix dblp-2010.mtx
+executing matrix
+dblp-2010.mtx finished
+dealing with matrix webbase-2001.mtx
+executing matrix
+webbase-2001.mtx finished
+dealing with matrix uk-2002.mtx
+executing matrix
+uk-2002.mtx finished
+dealing with matrix indochina-2004.mtx
+executing matrix
+indochina-2004.mtx finished
+dealing with matrix arabic-2005.mtx
+executing matrix
+arabic-2005.mtx finished
+dealing with matrix uk-2005.mtx
+executing matrix
+uk-2005.mtx finished
+dealing with matrix caidaRouterLevel.mtx
+executing matrix
+caidaRouterLevel.mtx finished
+dealing with matrix chesapeake.mtx
+executing matrix
+chesapeake.mtx finished
+dealing with matrix road_central.mtx
+executing matrix
+road_central.mtx finished
+dealing with matrix road_usa.mtx
+executing matrix
+road_usa.mtx finished
+dealing with matrix citationCiteseer.mtx
+executing matrix
+citationCiteseer.mtx finished
+dealing with matrix coAuthorsCiteseer.mtx
+executing matrix
+coAuthorsCiteseer.mtx finished
+dealing with matrix coAuthorsDBLP.mtx
+executing matrix
+coAuthorsDBLP.mtx finished
+dealing with matrix coPapersCiteseer.mtx
+executing matrix
+coPapersCiteseer.mtx finished
+dealing with matrix coPapersDBLP.mtx
+executing matrix
+coPapersDBLP.mtx finished
+dealing with matrix delaunay_n10.mtx
+executing matrix
+delaunay_n10.mtx finished
+dealing with matrix delaunay_n11.mtx
+executing matrix
+delaunay_n11.mtx finished
+dealing with matrix delaunay_n12.mtx
+executing matrix
+delaunay_n12.mtx finished
+dealing with matrix delaunay_n13.mtx
+executing matrix
+delaunay_n13.mtx finished
+dealing with matrix delaunay_n14.mtx
+executing matrix
+delaunay_n14.mtx finished
+dealing with matrix delaunay_n15.mtx
+executing matrix
+delaunay_n15.mtx finished
+dealing with matrix delaunay_n16.mtx
+executing matrix
+delaunay_n16.mtx finished
+dealing with matrix delaunay_n17.mtx
+executing matrix
+delaunay_n17.mtx finished
+dealing with matrix delaunay_n18.mtx
+executing matrix
+delaunay_n18.mtx finished
+dealing with matrix delaunay_n19.mtx
+executing matrix
+delaunay_n19.mtx finished
+dealing with matrix delaunay_n20.mtx
+executing matrix
+delaunay_n20.mtx finished
+dealing with matrix delaunay_n21.mtx
+executing matrix
+delaunay_n21.mtx finished
+dealing with matrix delaunay_n22.mtx
+executing matrix
+delaunay_n22.mtx finished
+dealing with matrix delaunay_n23.mtx
+executing matrix
+delaunay_n23.mtx finished
+dealing with matrix delaunay_n24.mtx
+executing matrix
+delaunay_n24.mtx finished
+dealing with matrix hugebubbles-00000.mtx
+executing matrix
+hugebubbles-00000.mtx finished
+dealing with matrix hugebubbles-00010.mtx
+executing matrix
+hugebubbles-00010.mtx finished
+dealing with matrix hugebubbles-00020.mtx
+executing matrix
+hugebubbles-00020.mtx finished
+dealing with matrix hugetrace-00000.mtx
+executing matrix
+hugetrace-00000.mtx finished
+dealing with matrix hugetrace-00010.mtx
+executing matrix
+hugetrace-00010.mtx finished
+dealing with matrix hugetrace-00020.mtx
+executing matrix
+hugetrace-00020.mtx finished
+dealing with matrix hugetric-00000.mtx
+executing matrix
+hugetric-00000.mtx finished
+dealing with matrix hugetric-00010.mtx
+executing matrix
+hugetric-00010.mtx finished
+dealing with matrix hugetric-00020.mtx
+executing matrix
+hugetric-00020.mtx finished
+dealing with matrix kron_g500-logn16.mtx
+executing matrix
+kron_g500-logn16.mtx finished
+dealing with matrix kron_g500-logn17.mtx
+executing matrix
+kron_g500-logn17.mtx finished
+dealing with matrix kron_g500-logn18.mtx
+executing matrix
+kron_g500-logn18.mtx finished
+dealing with matrix kron_g500-logn19.mtx
+executing matrix
+kron_g500-logn19.mtx finished
+dealing with matrix kron_g500-logn20.mtx
+executing matrix
+kron_g500-logn20.mtx finished
+dealing with matrix kron_g500-logn21.mtx
+executing matrix
+kron_g500-logn21.mtx finished
+dealing with matrix adaptive.mtx
+executing matrix
+adaptive.mtx finished
+dealing with matrix channel-500x100x100-b050.mtx
+executing matrix
+channel-500x100x100-b050.mtx finished
+dealing with matrix packing-500x100x100-b050.mtx
+executing matrix
+packing-500x100x100-b050.mtx finished
+dealing with matrix venturiLevel3.mtx
+executing matrix
+venturiLevel3.mtx finished
+dealing with matrix rgg_n_2_15_s0.mtx
+executing matrix
+rgg_n_2_15_s0.mtx finished
+dealing with matrix rgg_n_2_16_s0.mtx
+executing matrix
+rgg_n_2_16_s0.mtx finished
+dealing with matrix rgg_n_2_17_s0.mtx
+executing matrix
+rgg_n_2_17_s0.mtx finished
+dealing with matrix rgg_n_2_18_s0.mtx
+executing matrix
+rgg_n_2_18_s0.mtx finished
+dealing with matrix rgg_n_2_19_s0.mtx
+executing matrix
+rgg_n_2_19_s0.mtx finished
+dealing with matrix rgg_n_2_20_s0.mtx
+executing matrix
+rgg_n_2_20_s0.mtx finished
+dealing with matrix rgg_n_2_21_s0.mtx
+executing matrix
+rgg_n_2_21_s0.mtx finished
+dealing with matrix rgg_n_2_22_s0.mtx
+executing matrix
+rgg_n_2_22_s0.mtx finished
+dealing with matrix rgg_n_2_23_s0.mtx
+executing matrix
+rgg_n_2_23_s0.mtx finished
+dealing with matrix rgg_n_2_24_s0.mtx
+executing matrix
+rgg_n_2_24_s0.mtx finished
+dealing with matrix asia_osm.mtx
+executing matrix
+asia_osm.mtx finished
+dealing with matrix belgium_osm.mtx
+executing matrix
+belgium_osm.mtx finished
+dealing with matrix europe_osm.mtx
+executing matrix
+europe_osm.mtx finished
+dealing with matrix germany_osm.mtx
+executing matrix
+germany_osm.mtx finished
+dealing with matrix great-britain_osm.mtx
+executing matrix
+great-britain_osm.mtx finished
+dealing with matrix italy_osm.mtx
+executing matrix
+italy_osm.mtx finished
+dealing with matrix luxembourg_osm.mtx
+executing matrix
+luxembourg_osm.mtx finished
+dealing with matrix netherlands_osm.mtx
+executing matrix
+netherlands_osm.mtx finished
+dealing with matrix 144.mtx
+executing matrix
+144.mtx finished
+dealing with matrix 598a.mtx
+executing matrix
+598a.mtx finished
+dealing with matrix auto.mtx
+executing matrix
+auto.mtx finished
+dealing with matrix cs4.mtx
+executing matrix
+cs4.mtx finished
+dealing with matrix cti.mtx
+executing matrix
+cti.mtx finished
+dealing with matrix data.mtx
+executing matrix
+data.mtx finished
+dealing with matrix fe_4elt2.mtx
+executing matrix
+fe_4elt2.mtx finished
+dealing with matrix fe_body.mtx
+executing matrix
+fe_body.mtx finished
+dealing with matrix fe_ocean.mtx
+executing matrix
+fe_ocean.mtx finished
+dealing with matrix fe_rotor.mtx
+executing matrix
+fe_rotor.mtx finished
+dealing with matrix fe_sphere.mtx
+executing matrix
+fe_sphere.mtx finished
+dealing with matrix fe_tooth.mtx
+executing matrix
+fe_tooth.mtx finished
+dealing with matrix m14b.mtx
+executing matrix
+m14b.mtx finished
+dealing with matrix t60k.mtx
+executing matrix
+t60k.mtx finished
+dealing with matrix uk.mtx
+executing matrix
+uk.mtx finished
+dealing with matrix wing.mtx
+executing matrix
+wing.mtx finished
+dealing with matrix wing_nodal.mtx
+executing matrix
+wing_nodal.mtx finished
+dealing with matrix HTC_336_4438.mtx
+executing matrix
+HTC_336_4438.mtx finished
+dealing with matrix HTC_336_9129.mtx
+executing matrix
+HTC_336_9129.mtx finished
+dealing with matrix OPF_10000.mtx
+executing matrix
+OPF_10000.mtx finished
+dealing with matrix OPF_3754.mtx
+executing matrix
+OPF_3754.mtx finished
+dealing with matrix OPF_6000.mtx
+executing matrix
+OPF_6000.mtx finished
+dealing with matrix TSC_OPF_1047.mtx
+executing matrix
+TSC_OPF_1047.mtx finished
+dealing with matrix TSC_OPF_300.mtx
+executing matrix
+TSC_OPF_300.mtx finished
+dealing with matrix Serena.mtx
+executing matrix
+Serena.mtx finished
+dealing with matrix Emilia_923.mtx
+executing matrix
+Emilia_923.mtx finished
+dealing with matrix Fault_639.mtx
+executing matrix
+Fault_639.mtx finished
+dealing with matrix Flan_1565.mtx
+executing matrix
+Flan_1565.mtx finished
+dealing with matrix Geo_1438.mtx
+executing matrix
+Geo_1438.mtx finished
+dealing with matrix Hook_1498.mtx
+executing matrix
+Hook_1498.mtx finished
