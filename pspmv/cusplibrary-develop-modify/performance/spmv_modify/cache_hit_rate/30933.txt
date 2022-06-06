@@ -1,0 +1,5 @@
+==30933== NVPROF is profiling process 30933, command: ./a.out /home/GaoJH/spmv/standard_matrix/dielFilterV2clx.mtx
+==30933== Profiling application: ./a.out /home/GaoJH/spmv/standard_matrix/dielFilterV2clx.mtx
+==30933== Profiling result:
+No events/metrics were profiled.
+==30933== Warning: Some profiling data are not recorded. Make sure cudaProfilerStop() or cuProfilerStop() is called before application exit to flush profile data.

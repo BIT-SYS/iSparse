@@ -1,0 +1,7 @@
+==24943== NVPROF is profiling process 24943, command: ./a.out /home/GaoJH/spmv/standard_matrix/bcsstk38.mtx
+==24943== Some kernel(s) will be replayed on device 0 in order to collect all events/metrics.
+==24943== Profiling application: ./a.out /home/GaoJH/spmv/standard_matrix/bcsstk38.mtx
+==24943== Profiling result:
+==24943== Metric result:
+"Device","Kernel","Invocations","Metric Name","Metric Description","Min","Max","Avg"
+"Tesla V100-SXM2-16GB (0)","void cusp::system::cuda::detail::spmv_csr_vector_kernel<thrust::detail::normal_iterator<thrust::device_ptr<unsigned int const >>, thrust::detail::normal_iterator<thrust::device_ptr<unsigned int const >>, thrust::detail::normal_iterator<thrust::device_ptr<float const >>, thrust::detail::normal_iterator<thrust::device_ptr<float const >>, thrust::detail::normal_iterator<thrust::device_ptr<float>>, cusp::constant_functor<float>, thrust::multiplies<float>, thrust::plus<float>, unsigned int=4, unsigned int=32>(unsigned int, unsigned int const , thrust::device_ptr<unsigned int const >, thrust::detail::normal_iterator<thrust::device_ptr<unsigned int const >>, thrust::detail::normal_iterator<thrust::device_ptr<unsigned int const >>, float const , thrust::device_ptr<float const >, thrust::detail::normal_iterator<thrust::device_ptr<float const >>, thrust::detail::normal_iterator<thrust::device_ptr<float const >>)",502,"tex_cache_hit_rate","Unified Cache Hit Rate",41.070072%,41.103877%,41.091005%

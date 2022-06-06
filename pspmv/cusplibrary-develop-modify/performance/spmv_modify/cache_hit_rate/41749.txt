@@ -1,0 +1,5 @@
+==41749== NVPROF is profiling process 41749, command: ./a.out /home/GaoJH/spmv/standard_matrix/nd24k.mtx
+==41749== Profiling application: ./a.out /home/GaoJH/spmv/standard_matrix/nd24k.mtx
+==41749== Profiling result:
+No events/metrics were profiled.
+==41749== Warning: Some profiling data are not recorded. Make sure cudaProfilerStop() or cuProfilerStop() is called before application exit to flush profile data.
