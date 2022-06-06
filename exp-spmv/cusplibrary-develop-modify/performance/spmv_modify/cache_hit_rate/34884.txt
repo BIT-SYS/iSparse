@@ -1,0 +1,5 @@
+==34884== NVPROF is profiling process 34884, command: ./a.out /home/GaoJH/spmv/standard_matrix/Ga41As41H72.mtx
+==34884== Profiling application: ./a.out /home/GaoJH/spmv/standard_matrix/Ga41As41H72.mtx
+==34884== Profiling result:
+No events/metrics were profiled.
+==34884== Warning: Some profiling data are not recorded. Make sure cudaProfilerStop() or cuProfilerStop() is called before application exit to flush profile data.

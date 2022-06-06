@@ -1,0 +1,5 @@
+==26079== NVPROF is profiling process 26079, command: ./a.out /home/GaoJH/spmv/standard_matrix/Bump_2911.mtx
+==26079== Profiling application: ./a.out /home/GaoJH/spmv/standard_matrix/Bump_2911.mtx
+==26079== Profiling result:
+No events/metrics were profiled.
+==26079== Warning: Some profiling data are not recorded. Make sure cudaProfilerStop() or cuProfilerStop() is called before application exit to flush profile data.
