@@ -1,0 +1,5 @@
+==51672== NVPROF is profiling process 51672, command: ./a.out /home/GaoJH/spmv/standard_matrix/Zd_Jac3_db.mtx
+==51672== Profiling application: ./a.out /home/GaoJH/spmv/standard_matrix/Zd_Jac3_db.mtx
+==51672== Profiling result:
+No events/metrics were profiled.
+==51672== Warning: Some profiling data are not recorded. Make sure cudaProfilerStop() or cuProfilerStop() is called before application exit to flush profile data.

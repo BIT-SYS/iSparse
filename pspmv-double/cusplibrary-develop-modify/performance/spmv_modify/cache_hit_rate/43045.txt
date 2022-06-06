@@ -1,0 +1,5 @@
+==43045== NVPROF is profiling process 43045, command: ./a.out /home/GaoJH/spmv/standard_matrix/olafu.mtx
+==43045== Profiling application: ./a.out /home/GaoJH/spmv/standard_matrix/olafu.mtx
+==43045== Profiling result:
+No events/metrics were profiled.
+==43045== Warning: Some profiling data are not recorded. Make sure cudaProfilerStop() or cuProfilerStop() is called before application exit to flush profile data.
