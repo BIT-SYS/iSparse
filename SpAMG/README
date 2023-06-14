@@ -1,0 +1,7 @@
+# 编译
+make 
+# 运行
+./origin_aq_bq.out [mtx1] [mtx2] [choice]
+其中[choice]分别为0、1、2、auto，对应old atomic upper和自适应三种算法
+# 说明
+origin、atomic和upper算法的性能对比，其中origin为AMGX原始算法，atomic为使用原子操作改进后的算法，upper为使用上限法改进后的算法
