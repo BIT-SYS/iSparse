@@ -357,11 +357,10 @@ void partition_shapes(char *matrix_path, int M, int N, int nnz, int* &csrRow,
     cpu_timer partition_timer;
     partition_timer.start();
 #endif
-#pragma omp parallel for default(shared) num_threads(4)
+	// Geometry of every shape first: it is independent per shape and is needed
+	// below to decide whether the shapes can be partitioned in parallel.
+	float *gains = (float *)malloc(sizeof(float) * num_shapes);
 	for(int i = 0; i<num_shapes; i++){
-#if DEBUG
-		printf("\nBegin %d-th shape: ", i);
-#endif
 		h[i].id = i;
         strcpy(h[i].category, category.c_str());
         int i2 = i << 1;
@@ -369,8 +368,36 @@ void partition_shapes(char *matrix_path, int M, int N, int nnz, int* &csrRow,
         h[i].y1 = shapePoints[i2].y;
         h[i].a1 = shapePoints[i2 + 1].x - h[i].x1;
         h[i].b1 = shapePoints[i2 + 1].y - h[i].y1;
-        float gain;
-        cal_shape_size(M, N, mF, h[i].x1, h[i].y1, h[i].a1, h[i].b1, h[i].x, h[i].y, h[i].a, h[i].b, gain);
+        cal_shape_size(M, N, mF, h[i].x1, h[i].y1, h[i].a1, h[i].b1, h[i].x, h[i].y, h[i].a, h[i].b, gains[i]);
+	}
+
+	// A shape claims non-zeros by marking them in the shared csrVal array, and later
+	// shapes skip marked entries: when two partitioned shapes overlap, the result
+	// depends on the order in which they are processed, and processing them at the
+	// same time makes both claim the same non-zeros (over-counted dense_nnz, heap
+	// overflow when colIdx_sparse is filled). Shapes are therefore partitioned in
+	// parallel only if no two of them overlap; otherwise sequentially, in order.
+	// Only diagonal shapes of at least 1000 x 1000 are partitioned (see below).
+	bool shapes_overlap = false;
+	for(int i = 0; i<num_shapes && !shapes_overlap; i++){
+		if (strcmp(h[i].category, "diagonal") != 0 || h[i].a < 1000 || h[i].b < 1000) continue;
+		for(int j = i + 1; j<num_shapes; j++){
+			if (strcmp(h[j].category, "diagonal") != 0 || h[j].a < 1000 || h[j].b < 1000) continue;
+			bool rows = h[i].x < h[j].x + h[j].b && h[j].x < h[i].x + h[i].b;
+			bool cols = h[i].y < h[j].y + h[j].a && h[j].y < h[i].y + h[i].a;
+			if (rows && cols) { shapes_overlap = true; break; }
+		}
+	}
+
+#if DEBUG
+	printf("shapes_overlap=%d\n", (int)shapes_overlap);
+#endif
+#pragma omp parallel for default(shared) num_threads(4) if(!shapes_overlap) reduction(+:dia_shapes,num_negs,dense_nnz)
+	for(int i = 0; i<num_shapes; i++){
+#if DEBUG
+		printf("\nBegin %d-th shape: ", i);
+#endif
+        float gain = gains[i];
 #if DEBUG
         printf("x1:%d,y1:%d, a1:%d, b1:%d\n", h[i].x1, h[i].y1, h[i].a1, h[i].b1);
 	    printf("xStart:%d, yStart:%d, N_sub:%d, M_sub:%d\n", h[i].x, h[i].y, h[i].a, h[i].b);
@@ -635,6 +662,7 @@ void partition_shapes(char *matrix_path, int M, int N, int nnz, int* &csrRow,
         free(h);
         h = NULL;
     }
+    free(gains);
 }
 
 void free_taichi(int num_shapes, TaiChi *taichi)
@@ -760,6 +788,7 @@ void partition_dia_shape(int M, int N, int nnz, int* &csrRow, int* &csrCol, floa
 			neg_offsets[neg] = dia_offsets_temp;
 			neg ++;
 #ifdef RECORD_NNZ_DENSITY 
+#pragma omp atomic
             nnz_density += density_temp;
 #endif
 		}
